@@ -1,0 +1,39 @@
+\documentclass[a5paper,landscape,10pt]{memoir}
+\usepackage{fontspec}
+\usepackage[top=10mm,left=10mm,bottom=10mm,right=10mm]{geometry}
+\usepackage{multicol}
+\usepackage{setspace}
+\usepackage[nospace]{xeCJK}
+\usepackage{CJKnumb}
+\usepackage{nameref}
+\usepackage{makeidx}
+\pagestyle{empty}
+\newcommand*\CJKmovesymbol[1]{\raise.35em\hbox{#1}}
+\newcommand*\CJKmove{\punctstyle{plain}
+		       \let\CJKsymbol\CJKmovesymbol
+			   \let\CJKpunctsymbol\CJKsymbol}
+\setmainfont[RawFeature=vertical,Vertical=RotatedGlyphs]{Noto Serif CJK KR}
+\setCJKmainfont[RawFeature=vertical,Vertical=RotatedGlyphs]{Noto Serif CJK KR}
+\newcommand{\explain}[2]{\\{{#1}}\\{$\bullet$}{#2}}
+\newcommand{\go}[2]{\\{$\bullet$}請考\textbf{#2} 矣。 }
+\newcommand{\entry}[4]{\par{\begin{minipage}{0.2\textwidth}{{\vspace{2mm}\hspace{4mm}{\bfseries{#1}}{\textsuperscript{\CJKnumber{#2}}}{#3}}}\end{minipage}}\\}
+\newcommand{\also}[1]{\\或書之\textbf{#1}。}
+\newcommand{\samp}[2]{{#1}云、「{#2}」}
+\newcommand{\syn}[2]{與\textbf{#1}\textsuperscript{\CJKnumber{#2}}相通。}
+\newcommand{\ant}[2]{與\textbf{#1}\textsuperscript{\CJKnumber{#2}}相對。}
+\begin{document}
+\frontmatter
+\hspace{0pt}
+\vfill
+{\vspace{14pt}\fontsize{48pt}{0pt}{漢辭林}}
+\vfill
+\hspace{18pt}
+\newpage
+\linespread{1.5}
+\input{preface.tex}
+\mainmatter
+\linespread{1.5}
+\begin{multicols}{4}
+\input{hcl-entries.tex}
+\end{multicols}
+\end{document}
