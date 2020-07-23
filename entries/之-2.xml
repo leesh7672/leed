@@ -1,0 +1,12 @@
+<entry ident="1" num="2">
+  <main-spell>之</main-spell>
+  <def num="1">
+    <pronoun />
+    <exp>
+      有甲乙二者、甲有乙、乙屬甲、結之以<self />。
+    </exp>
+    <samp src="論語">
+      孝弟也者、其爲仁之本與。
+    </samp>
+  </def>
+</entry>
