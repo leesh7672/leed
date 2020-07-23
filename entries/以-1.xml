@@ -1,0 +1,16 @@
+<entry ident="3" num="1">
+  <main-spell>以</main-spell>
+  <def num="1">
+    <connecter />
+    <exp>
+      有甲乙二者、甲成乙、乙衣甲、則結之以<self />。
+      甲其在首、乙其在尾。
+    </exp>
+  </def>
+  <def num="2">
+    <modal />
+    <exp>
+      有甲乙二者、乙成以甲、則助乙以<self />。
+    </exp>
+  </def>
+</entry>
