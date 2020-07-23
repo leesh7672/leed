@@ -1,7 +1,7 @@
 <entry ident="2" num="1">
 		<main-spell>不</main-spell>
 		<def num="1">
-				<modal />
+				<adverb />
 				<exp>若欲否其然、助以<self />。若欲否其爲之、曰<self />之爲。</exp>
 		</def>
 </entry>
