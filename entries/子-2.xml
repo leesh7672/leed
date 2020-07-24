@@ -1,0 +1,23 @@
+<entry ident="10" num="2">
+  <main-spell>子</main-spell>
+  <def num="1">
+    <pronoun />
+    <exp>二者相談、彼此之謂<self />。</exp>
+  </def>
+  <def num="2">
+    <noun />
+    <exp><self />者、爵等之一也。偉於男、不如伯。</exp>
+  </def>
+  <def num="3">
+    <noun />
+    <exp>
+      學者、稱敎之者爲<self />。
+    </exp>
+  </def>
+  <def num="4">
+    <noun />
+    <exp>
+      儒林諸學、稱孔子爲<self />。
+    </exp>
+  </def>
+</entry>

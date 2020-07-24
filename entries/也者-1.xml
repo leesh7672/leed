@@ -2,7 +2,8 @@
 		<main-spell>也者</main-spell>
 		<def num="1">
 				<pronoun />
-				<exp>若欲語或者、爲之……<self />。</exp>
+				<exp>欲語或者、指之……<self />。</exp>
 				<samp src="論語">孝弟也者、其爲仁之本與。</samp>
-		<syn ident="7" num="2" /></def>
+		<syn ident="7" num="2" />
+	</def>
 </entry>

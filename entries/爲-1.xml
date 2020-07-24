@@ -1,0 +1,23 @@
+<entry ident="8" num="1">
+		<main-spell>爲</main-spell>
+		<def num="1">
+				<verb />
+				<exp>夫<self />之者、行之也。</exp>
+		</def>
+		<def num="2">
+				<connecter />
+				<exp>有前後二者、前者成後、束以<self />。</exp>
+		</def>
+		<def num="3">
+				<connecter />
+				<exp>有前後二者、前者屬後、束以<self />。</exp>
+		</def>
+		<def num="4">
+				<verb />
+				<exp>有甲乙二者、視甲爲乙、以甲<self />乙者也。</exp>
+		</def>
+		<def num="5">
+				<verb />
+				<exp>有甲乙二者、視甲爲乙、<self />甲乙者也。</exp>
+		</def>
+</entry>

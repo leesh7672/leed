@@ -2,12 +2,12 @@
 		<main-spell>者</main-spell>
 		<def num="1">
 				<pronoun />
-				<exp>人或爲之、爲之爲之<self />也。</exp>
+				<exp>人或爲之、指之爲之<self />也。</exp>
 				<samp src="論語">知之者不如好之者、好之者不如樂之者。</samp>
 		</def>
 		<def num="2">
 				<pronoun />
-				<exp>若欲語或者、爲之……<self />。</exp>
+				<exp>若欲語或者、指之……<self />。</exp>
 				<syn ident="6" num="1" />
 		</def>
 </entry>
