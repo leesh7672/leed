@@ -8,12 +8,12 @@
 				</samp>
 		</def>
 		<def num="2">
-				<connecter />
-				<exp>有前後二者、前者成後、結以<self />。</exp>
+				<verb />
+				<exp>有甲乙二者、甲變成乙、述之甲之<self />乙。</exp>
 		</def>
 		<def num="3">
 				<connecter />
-				<exp>有前後二者、前者屬後、結以<self />。</exp>
+				<exp>有前後二者、前者屬後者、述之甲之<self />乙。</exp>
 		</def>
 		<def num="4">
 				<verb />
