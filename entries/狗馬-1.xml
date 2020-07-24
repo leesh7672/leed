@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<entry>
+<entry ident="5" num="1">
 		<main-spell>狗馬</main-spell>
 		<def num="1">
-				<noun/>
-				<exp>君臣相見之際、臣自稱<self/>。 </exp>
+				<noun />
+				<exp>君臣相見之際、臣自稱<self />。 </exp>
 		</def>
 </entry>
