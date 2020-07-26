@@ -1,0 +1,21 @@
+<entry ident="15" num="1">
+		<main-spell>人</main-spell>
+		<def num="1">
+				<noun />
+				<exp>
+						<self />也者、活而非獸、聰而非神、動而非機也。
+        </exp>
+		</def>
+		<def num="2">
+				 <noun />
+				<exp>
+          人之爲<self />者、德者也。
+        </exp>
+		</def>
+    <def num="3">
+          <noun />
+          <exp>
+            <self />、他人之稱也。
+          </exp>
+    </def>
+</entry>
