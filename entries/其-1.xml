@@ -2,7 +2,7 @@
 		<main-spell>其</main-spell>
 		<def num="1">
 				<modifier />
-				<exp>若欲語物之主、聽之者已聞之際、冠以<self />。</exp>
+				<exp>若欲語物所從者、聽之者已聞之際、冠以<self />。</exp>
 		</def>
 		<def num="2">
 				<modifier />
