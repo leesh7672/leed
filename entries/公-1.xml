@@ -1,0 +1,25 @@
+<entry ident="16" num="1">
+		<main-spell>公</main-spell>
+		<def num="1">
+				<pronoun />
+				<exp>有大小二者、大者爲男、小者指大爲<self />。 </exp>
+		</def>
+    <def num="2">
+      <noun />
+      <exp>
+        <self />者、五等爵之一也。偉於侯。
+      </exp>
+    </def>
+    <def num="3">
+      <verb />
+      <exp>
+        <self />者、無私事也。
+      </exp>
+    </def>
+    <def num="4">
+      <verb />
+      <exp>
+        <self />者、無所隱也。
+      </exp>
+    </def>
+</entry>
