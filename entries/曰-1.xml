@@ -1,10 +1,16 @@
 <entry ident="13" num="1">
   <main-spell>曰</main-spell>
-  <def num="1">
+  <def num="2">
     <verb />
-    <exp>若欲語人之所曾語、云、或者<self />云云。</exp>
+    <exp>若欲語人之所曾語、可用<self />。</exp>
     <samp src="論語">
-      子曰, <quote level="2">學而時習之、不亦說乎。</quote>
+      子曰、<quote level="2">學而時習之、不亦說乎。</quote>
     </samp>
+  </def>
+  <def num="3">
+    <verb />
+    <exp>
+      若欲語或者之名、可用<self />
+    </exp>
   </def>
 </entry>
