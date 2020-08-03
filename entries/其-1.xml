@@ -1,11 +1,11 @@
 <entry ident="14" num="1">
 		<main-spell>其</main-spell>
 		<def num="1">
-				<modifier />
+				<adnoun />
 				<exp>若欲語物所從者、聽之者已聞之際、冠以<self />。</exp>
 		</def>
 		<def num="2">
-				<modifier />
+				<adnoun />
 				<exp> 若欲稱物、聽之者可識之際、冠以<self />。 </exp>
 		</def>
 </entry>

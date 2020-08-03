@@ -1,16 +1,21 @@
 <entry ident="3" num="1">
   <main-spell>以</main-spell>
   <def num="1">
-    <connecter />
+    <adverb />
     <exp>
-      有甲乙二者、甲成乙、乙衣甲、結以<self />。
-      甲其在首、乙其在尾。
+      有述字二者、一成他、一依他、以<self />修依他者。
     </exp>
   </def>
   <def num="2">
-    <adverb />
+    <coverb />
     <exp>
-      有甲乙二者、乙成以甲、助乙以<self />。
+      有述字一者、亦有稱字及指字一者、述字之所語依稱字及指字之所語、介以<self />。
+    </exp>
+  </def>
+  <def num="3">
+    <connecter />
+    <exp>
+      有述者二者、先者述後者之句可立、結以<self />。
     </exp>
   </def>
 </entry>

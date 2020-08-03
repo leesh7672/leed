@@ -1,5 +1,9 @@
 <entry ident="13" num="1">
   <main-spell>曰</main-spell>
+  <def num="1">
+    <verb />
+    <exp><self />也者、表其所思以言也。其後必有補之者。</exp>
+  </def>
   <def num="2">
     <verb />
     <exp>若欲語人之所曾語、可用<self />。</exp>
