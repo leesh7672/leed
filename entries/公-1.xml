@@ -1,8 +1,8 @@
 <entry ident="16" num="1">
 		<main-spell>公</main-spell>
 		<def num="1">
-				<pronoun />
-				<exp>有大小二者、大者爲男、小者指大爲<self />。 </exp>
+				<noun />
+				<exp>有大小二者、大者爲男、小者稱大者以<self />。 </exp>
 		</def>
     <def num="2">
       <noun />

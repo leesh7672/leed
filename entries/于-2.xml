@@ -2,12 +2,12 @@
 		<main-spell>于</main-spell>
 		<def num="1">
 				<coverb />
-				<exp>或者之行、補其所面、束之以<self />。無名詞與指詞、先之。</exp>
+				<exp>或者之行、補其所面、縛以<self />。</exp>
 				<syn ident="20" num="2" />
 		</def>
 		<def num="2">
-				<connecter />
-				<exp>或事補其處、束之以<self />。無名詞與指詞、先之。先秦之時、未之用。</exp>
+				<coverb/>
+				<exp>或事補其處、縛以<self />。先秦之時、未之用。</exp>
 				<syn ident="20" num="1" />
 	</def>
 </entry>

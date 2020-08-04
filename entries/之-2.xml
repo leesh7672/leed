@@ -1,9 +1,10 @@
 <entry ident="4" num="2">
   <main-spell>之</main-spell>
   <def num="1">
-    <pronoun />
+    <connecter />
     <exp>
-      有甲乙二者、甲有乙、乙屬甲、結之以<self />。
+      有稱詞二者、一爲他所有、束之以<self />。
+      先有之者、後其所有者。
     </exp>
     <samp src="論語">
       孝弟也者、其爲仁之本與。

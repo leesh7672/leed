@@ -9,18 +9,14 @@
 		</def>
 		<def num="2">
 				<verb />
-				<exp>有甲乙二者、甲變成乙、述以甲之<self />乙。</exp>
+				<exp><self/>之者、成之也。</exp>
 		</def>
 		<def num="3">
 				<verb />
-				<exp>有前後二者、前者屬後者、述以甲之<self />乙。</exp>
+				<exp><self/>斯者、屬之也。</exp>
 		</def>
 		<def num="4">
 				<verb />
-				<exp>有甲乙二者、視甲爲乙、以甲<self />乙也。</exp>
-		</def>
-		<def num="5">
-				<verb />
-				<exp>有甲乙二者、視甲爲乙、<self />甲乙者也。</exp>
+				<exp><self/>之者、視之可然。</exp>
 		</def>
 </entry>
