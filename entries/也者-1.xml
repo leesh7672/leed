@@ -2,7 +2,7 @@
 		<main-spell>也者</main-spell>
 		<def num="1">
 				<connecter />
-				<exp>有稱詞之句二者、其所稱相同、一爲主部、一爲補部、以<self />束之。</exp>
+				<exp>稱詞之所稱、與稱詞之句相同、詞爲主部、句爲補部、以<self />束之。</exp>
 				<samp src="論語">孝弟也者、其爲仁之本與。</samp>
 		<syn ident="7" num="2" />
 	</def>
