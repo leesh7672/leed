@@ -2,7 +2,7 @@
 		<main-spell>不</main-spell>
 		<def num="1">
 				<adverb />
-				<exp>若欲否謂詞及修詞之所語、修以<self />。若賓以指詞、先賓後謂。</exp>
+				<exp>欲否謂詞及修詞之句所語、修以<self />。若賓以指詞、先賓後謂。</exp>
 				<samp src="論語">人不知而不慍、不亦君子乎。</samp>
 				<samp src="論語">君子不器。</samp>
 				<samp src="論衡">世人不之知。</samp>
