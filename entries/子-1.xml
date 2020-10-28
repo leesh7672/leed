@@ -2,10 +2,10 @@
   <main-spell>子</main-spell>
   <def num="1">
     <noun />
-    <exp>人獸所生之兒、爲其<self />也。</exp>
+    <exp><self/>也者、人獸所生之兒。</exp>
   </def>
   <def num="2">
     <noun />
-    <exp>人獸所生之男兒、爲其<self />也。</exp>
+    <exp><self />也者、人獸所生之男兒。</exp>
   </def>
 </entry>

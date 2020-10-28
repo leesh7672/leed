@@ -6,8 +6,8 @@
 				<samp src="論語">知之者不如好之者、好之者不如樂之者。</samp>
 		</def>
 		<def num="2">
-				<noun />
-				<exp>若欲語或者、稱以其稱所冠之<self />。</exp>
+				<connecter />
+				<exp>有稱詞之句二者、其所稱相同、以<self />束之。</exp>
 				<syn ident="6" num="1" />
 		</def>
 </entry>
