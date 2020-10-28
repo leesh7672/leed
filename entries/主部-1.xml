@@ -1,0 +1,13 @@
+<entry ident="21" num="1">
+		<main-spell>主部</main-spell>
+		<def num="1">
+				<noun />
+        <exp>
+          <self />、句之一部也。
+					事之爲行、語行之者。
+					事之爲令、語令之者。
+					事之爲狀、語其所言。
+					事之爲變、語其所變。
+        </exp>
+	</def>
+</entry>
