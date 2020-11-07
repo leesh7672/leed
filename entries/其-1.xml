@@ -1,11 +1,11 @@
 <entry ident="14" num="1">
 		<main-spell>其</main-spell>
 		<def num="1">
-				<adnoun />
+				<particle />
 				<exp>若欲語物之所從、而聽且讀者可知其爲何、冠以<self />。</exp>
 		</def>
 		<def num="2">
-				<adnoun />
+				<particle />
 				<exp>若欲稱物、而聽且讀者可知其爲何、冠以<self />。 </exp>
 		</def>
 </entry>

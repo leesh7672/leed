@@ -1,7 +1,7 @@
 <entry ident="12" num="2">
 		<main-spell>而</main-spell>
 		<def num="1">
-				<connecter />
+				<particle />
 				<exp>謂詞之兩句俱然、束以<self />。</exp>
 				<samp src="論語">學而時習之、不亦說乎。</samp>
 		</def>

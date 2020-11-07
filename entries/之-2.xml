@@ -1,9 +1,9 @@
 <entry ident="4" num="2">
   <main-spell>之</main-spell>
   <def num="1">
-    <connecter />
+    <particle />
     <exp>
-      有稱詞二者、一爲他所有、束之以<self />。
+      有名稱二詞、一爲他所有、束之以<self />。
       先有之者、後其所有者。
     </exp>
     <samp src="論語">
