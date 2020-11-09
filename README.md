@@ -1,2 +1,2 @@
 # hcl
-HCL is a monolingual dictionary project for Classical Chinese.
+HCL is a Chinese dictionary project written in Classical Chinese.
