@@ -1,11 +1,19 @@
 <entry ident="14" num="1">
 		<main-spell>其</main-spell>
 		<def num="1">
-				<particle />
-				<exp>若欲語物之所從、而聽且讀者可知其爲何、冠以<self />。</exp>
+				<modifier />
+				<exp>欲語物之所從、而聽且讀者可知其爲何、可以<self />冠名稱之句。</exp>
 		</def>
 		<def num="2">
-				<particle />
-				<exp>若欲稱物、而聽且讀者可知其爲何、冠以<self />。 </exp>
+				<modifier />
+				<exp>欲稱物、而聽且讀者可知其爲何、可以<self />冠名稱之句。 </exp>
+		</def>
+		<def num="3">
+			<modifier />
+			<exp>欲語其當、可以<self />冠行動之句。</exp>
+		</def>
+		<def num="4">
+			<modifier />
+			<exp>欲語其慾、可以<self />冠行動之句。</exp>
 		</def>
 </entry>

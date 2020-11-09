@@ -11,15 +11,15 @@
       </exp>
     </def>
     <def num="3">
-      <verb />
+      <adjective />
       <exp>
-        <self />也者、私事之無。
+        正而不私、謂之<self />。
       </exp>
     </def>
     <def num="4">
       <adjective />
       <exp>
-        <self />也者、所隱之無。
+        事無所隱、謂之<self />。
       </exp>
     </def>
 </entry>
