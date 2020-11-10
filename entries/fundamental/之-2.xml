@@ -3,11 +3,29 @@
   <def num="1">
     <particle />
     <exp>
-      有名稱二詞、一爲他所有、束之以<self />。
-      先有之者、後其所有者。
+      有名稱之句與名稱詞、詞爲句所有、以<self />束之。
+      先句後詞。
     </exp>
     <samp src="論語">
       孝弟也者、其爲仁之本與。
     </samp>
+  </def>
+  <def num="2">
+    <particle />
+    <exp>
+      有露謂節、數二、其俱然、以<self />束之、化名稱詞之句。
+    </exp>
+  </def>
+  <def num="3">
+    <particle />
+    <exp>
+      有缼賓節與其所賓之名稱詞、以<self />束之、重其名稱詞。
+    </exp>
+  </def>
+  <def num="4">
+    <particle />
+    <exp>
+      有缼主節與其所主之名稱詞、以<self />束之、重其名稱詞。
+    </exp>
   </def>
 </entry>
