@@ -1,13 +1,23 @@
 <entry ident="20" num="1">
 		<main-spell>於</main-spell>
 		<def num="1">
-				<coverb />
+				<particle />
 				<exp>欲添事其處地與、以<self />縛之。</exp>
 				<syn ident="19" num="2" />
+				<samp source="荀子">
+					靑取之於藍。
+				</samp>
 		</def>
 		<def num="2">
-				<coverb />
+				<particle />
 				<exp>或者之行、添其所面、以<self />縛之。先秦之時、未之用。</exp>
 				<syn ident="19" num="1" />
+		</def>
+		<def num="3">
+			<particle />
+			<exp>有名稱詞句二者與被狀詞、二雖俱爲其詞所語、一甚一輕、以<self />縛輕于重者。</exp>
+			<samp source="荀子">
+				而靑於藍。
+			</samp>
 		</def>
 </entry>
