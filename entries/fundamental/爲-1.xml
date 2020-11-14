@@ -9,21 +9,21 @@
 		</def>
 		<def num="2">
 				<adjective />
-				<exp>夫<self />是者、被之也。</exp>
+				<exp>夫<self />者、被也。</exp>
 				<samp src="孟子">
 					吾不爲是也。
 				</samp>
 		</def>
 		<def num="2">
 				<adjective />
-				<exp>夫<self />是者、狀之也。</exp>
+				<exp><self />者、狀也。</exp>
 				<samp src="管子">
 					唯知其託者能爲之正。
 				</samp>
 		</def>
 		<def num="3">
 				<adjective />
-				<exp><self />之者、動之也。</exp>
+				<exp><self />者、動也。</exp>
 				<samp src="論衡">
 					藏人於壁中。
 				</samp>
