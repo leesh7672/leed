@@ -1,0 +1,19 @@
+<entry ident="28" num="1">
+  <main-spell>大</main-spell>
+  <def num="1">
+    <adjective />
+    <exp>巨物、爲之<self />。</exp>
+  </def>
+  <def num="2">
+    <adjective />
+    <exp>偉人、爲之<self />。</exp>
+  </def>
+  <def num="3">
+    <adjective />
+    <exp>事之甚與、爲之<self /></exp>
+  </def>
+  <def num="4">
+    <adjective />
+    <exp>事之必聞焉與、爲之<self /></exp>
+  </def>
+</entry>
