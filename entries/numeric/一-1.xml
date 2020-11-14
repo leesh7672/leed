@@ -1,0 +1,15 @@
+<entry ident="32" num="1">
+  <main-spell>一</main-spell>
+  <def num="1">
+    <noun />
+    <exp>
+      <self />也者、數之初也。
+    </exp>
+  </def>
+  <def num="2">
+    <modifier />
+    <exp>
+      事之嘗有與、以<self />冠之。
+    </exp>
+  </def>
+</entry>
