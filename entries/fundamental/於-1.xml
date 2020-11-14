@@ -4,7 +4,7 @@
 				<particle />
 				<exp>欲添事其處地與、以<self />縛之。</exp>
 				<syn ident="19" num="2" />
-				<samp source="荀子">
+				<samp src="荀子">
 					靑取之於藍。
 				</samp>
 		</def>
@@ -16,7 +16,7 @@
 		<def num="3">
 			<particle />
 			<exp>有名稱詞句二者與被狀詞、二雖俱爲其詞所語、一甚一輕、以<self />縛輕于重者。</exp>
-			<samp source="荀子">
+			<samp src="荀子">
 				而靑於藍。
 			</samp>
 		</def>
