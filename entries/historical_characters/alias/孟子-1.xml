@@ -1,0 +1,9 @@
+<entry ident="26" num="1">
+  <main-spell>孟子</main-spell>
+  <def num="1">
+    <noun />
+    <exp>
+      <self />、<ref ident="24" num="1" />之謂也。
+    </exp>
+  </def>
+</entry>
