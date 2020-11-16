@@ -1,7 +1,7 @@
 <entry ident="40" num="1">
   <main-spell>騎虎</main-spell>
   <def num="1">
-    <phrase><verb /></phrase>
+    <clause><verb /></clause>
     <exp>
       事之已大、退之不得、謂之<self />。
     </exp>
