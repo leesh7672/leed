@@ -1,0 +1,9 @@
+<entry ident="50" num="3">
+  <main-spell>食</main-spell>
+  <def num="1">
+    <verb />
+    <exp>
+      <self />之者、令之食。
+    </exp>
+  </def>
+</entry>
