@@ -1,0 +1,9 @@
+<entry ident="42" num="1">
+  <main-spell>曾參</main-spell>
+  <def num="1">
+    <noun />
+    <exp>
+      <self />、魯人、<ref ident="27" num="1" />之門下也。
+    </exp>
+  </def>
+</entry>
