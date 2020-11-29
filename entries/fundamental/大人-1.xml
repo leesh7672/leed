@@ -1,11 +1,11 @@
 <entry ident="29" num="1">
   <main-spell>大人</main-spell>
   <def num="1">
-    <adjective />
+    <noun />
     <exp><self />也者、偉大之人。</exp>
   </def>
   <def num="2">
-    <adjective />
+    <noun />
     <exp><self />也者、長成之人。</exp>
   </def>
 </entry>
