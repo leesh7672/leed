@@ -1,9 +1,9 @@
 <entry ident="40" num="1">
   <main-spell>騎虎</main-spell>
   <def num="1">
-    <clause><verb /></clause>
+    <verb />
     <exp>
-      事之已大、退之不得、謂之<self />。
+      事之已大、退之不得、謂之<self />。旣有賓語、不可再添。
     </exp>
   </def>
 </entry>
