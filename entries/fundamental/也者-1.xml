@@ -1,8 +1,8 @@
 <entry ident="6" num="1">
 		<main-spell>也者</main-spell>
 		<def num="1">
-				<particle />
-				<exp>稱詞之所稱、與稱詞之句相同、其詞爲定部、其句爲補部、謂部空之、以<self />結主部。</exp>
+				<marker />
+				<exp>有指稱二者、其所語相同、以<self />束之。</exp>
 				<samp src="論語">孝弟也者、其爲仁之本與。</samp>
 		<syn ident="7" num="2" />
 	</def>

@@ -2,14 +2,14 @@
   <main-spell>年</main-spell>
   <def num="1">
     <noun />
-    <exp>一歷春夏秋冬、則爲新<self />。</exp>
+    <exp>一歷春夏秋冬、則新<self />。</exp>
   </def>
   <def num="2">
-    <modifier />
-    <exp>有行動詞、每年一行、以<self />冠之。</exp>
+    <marker />
+    <exp>有行動詞、一年而一行、以<self />冠之。</exp>
   </def>
   <def num="3">
-    <modifier />
-    <exp>有被狀詞、其益長不盡、以<self />冠之。</exp>
+    <marker />
+    <exp>有被狀詞、其益不斷、以<self />冠之。</exp>
   </def>
 </entry>

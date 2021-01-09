@@ -2,19 +2,15 @@
   <main-spell>曰</main-spell>
   <def num="1">
     <verb />
-    <exp><self />也者、表其所思以言也。其後必有補之者。</exp>
-  </def>
-  <def num="2">
-    <verb />
-    <exp>若欲云人之所曾語、可用<self />。</exp>
+    <exp>或云人曾所語之時、用<self />。</exp>
     <samp src="論語">
       子曰、<quote level="2">學而時習之、不亦說乎。</quote>
     </samp>
   </def>
-  <def num="3">
+  <def num="2">
     <verb />
     <exp>
-      有所欲名者、以其所名主部、以<self />爲謂部、以其名爲補部。
+      有所欲名者、以其所名主部、以<self />爲賓部、以其名爲補部。
     </exp>
   </def>
 </entry>

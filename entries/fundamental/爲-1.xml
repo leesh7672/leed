@@ -8,26 +8,26 @@
 				</samp>
 		</def>
 		<def num="2">
-				<adjective />
-				<exp>夫<self />者、被也。</exp>
+				<verb />
+				<exp>夫<self />之者、被之也。</exp>
 				<samp src="孟子">
 					吾不爲是也。
 				</samp>
 		</def>
 		<def num="2">
-				<adjective />
-				<exp><self />者、狀也。</exp>
+				<verb />
+				<exp><self />之者、狀之也。</exp>
 				<samp src="管子">
-					唯知其託者能爲之正。
+					唯知其託者、能爲之正。
 				</samp>
 		</def>
 		<def num="3">
-				<adjective />
-				<exp><self />者、動也。</exp>
+				<verb />
+				<exp><self />之者、動之也。</exp>
 		</def>
 		<def num="4">
 			<verb />
-			<exp><self />之者、慮且求也。</exp>
+			<exp><self />之者、慮之而求也。</exp>
 			<samp src="朱子語類">
 				便是楊氏爲我之學。
 			</samp>

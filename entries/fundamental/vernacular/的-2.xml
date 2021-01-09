@@ -2,29 +2,29 @@
   <main-spell>的</main-spell>
   <spell>底</spell>
   <def num="1">
-    <particle />
+    <marker />
     <exp>
-      有名稱詞二者、一爲他所有、以<self />束之。
+      有指稱二者、一爲他所有、以<self />束之、以指稱爲核。
       先有之者、後其所有者。諺用之、文不之用。
     </exp>
   </def>
   <def num="2">
-    <particle />
+    <marker />
     <exp>
-      有名稱詞與行動詞、名稱詞爲行動詞所語、以<self />束之。
-        先有行動詞、後有行動詞。先後頻而相倒。諺用之、文不之用。
+      有指稱與行動、指稱爲行動所語、以<self />束之、以指稱爲核。
+      先有行動、後有指稱。先後頻而相倒。諺用之、文不之用。
     </exp>
   </def>
   <def num="3">
-    <particle />
+    <marker />
     <exp>
-      有名稱詞、欲其所有之物、以<self />結之。諺用之、文不之用。
+      有指稱詞、欲語其所有之物、以<self />結之。諺用之、文不之用。
     </exp>
   </def>
   <def num="4">
-    <particle />
+    <marker />
     <exp>
-      有行動詞及被狀詞、欲謂其然者、以<self />結之。諺用之、文不之用。
+      有行動及被狀、欲謂其然者、以<self />結之。諺用之、文不之用。
     </exp>
   </def>
 </entry>

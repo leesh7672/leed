@@ -2,12 +2,12 @@
 		<main-spell>者</main-spell>
 		<def num="1">
 				<noun />
-				<exp>人或爲之、稱以爲之<self />也。當爲他所冠。</exp>
+				<exp>人或爲之、稱以爲之<self />也。宜爲他所定。</exp>
 				<samp src="論語">知之者不如好之者、好之者不如樂之者。</samp>
 		</def>
 		<def num="2">
-				<particle />
-				<exp>名稱詞之所稱、與名稱詞之句相同、其詞爲定部、其句爲補部、謂部空之、以<self />結主部。</exp>
+				<marker />
+				<exp>有指稱二者、其所語相同、以<self />束之。</exp>
 				<syn ident="6" num="1" />
 		</def>
 </entry>

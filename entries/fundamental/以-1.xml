@@ -1,19 +1,19 @@
 <entry ident="3" num="1">
   <main-spell>以</main-spell>
   <def num="1">
-    <modifier />
+    <marker />
     <exp>
       有謂字二者、一成他、一依他、以<self />冠依他者。
     </exp>
   </def>
   <def num="2">
-    <particle />
+    <marker />
     <exp>
       有謂字一者、亦有稱字及指字一者、謂字之所語依稱字及指字之所語、縛以<self />。
     </exp>
   </def>
   <def num="3">
-    <particle />
+    <marker />
     <exp>
       有謂者二者、先者述後者之句可立、束以<self />。
     </exp>

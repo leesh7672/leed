@@ -1,8 +1,8 @@
 <entry ident="19" num="1">
 		<main-spell>于</main-spell>
 		<def num="1">
-				<particle />
-				<exp>或者之行、補其所面、以<self />縛之。</exp>
+				<marker />
+				<exp>補主語之所面之時、以<self />縛之。</exp>
 				<syn ident="20" num="2" />
 		</def>
 		<def num="2">

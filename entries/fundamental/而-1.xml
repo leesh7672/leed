@@ -3,12 +3,12 @@
 		<def num="1">
 				<noun />
 				<exp>
-					大小二者相談之際、大者指小者爲<self />。
-					維主部有之。
+					大小二者相談之際、大指小爲<self />。
+					維主語及定語有之。
 				</exp>
 		</def>
 		<def num="1">
-				<modifier />
+				<marker />
 				<exp>
 					大小二者相談、大冠小者之物以<self />。
 				</exp>
