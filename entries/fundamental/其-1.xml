@@ -2,18 +2,18 @@
 		<main-spell>其</main-spell>
 		<def num="1">
 				<modifier />
-				<exp>欲語物之所從、而聽且讀者可知其爲何、可以<self />冠名稱之句。</exp>
+				<exp>欲語名稱句之所從、聽而讀者可知其所爲、以<self />冠之。</exp>
 		</def>
 		<def num="2">
 				<modifier />
-				<exp>欲稱物、而聽且讀者可知其爲何、可以<self />冠名稱之句。 </exp>
+				<exp>欲語名稱句、聽而讀者可知其所何、以<self />冠之。 </exp>
 		</def>
 		<def num="3">
 			<modifier />
-			<exp>欲語其當、可以<self />冠行動之句。</exp>
+			<exp>欲語其當、以<self />冠行動句。</exp>
 		</def>
 		<def num="4">
 			<modifier />
-			<exp>欲語其慾、可以<self />冠行動之句。</exp>
+			<exp>欲語其慾、以<self />冠行動句。</exp>
 		</def>
 </entry>
