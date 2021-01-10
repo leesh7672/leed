@@ -17,11 +17,17 @@
     <exp>
       <self />之者、之其下。
     </exp>
+    <samp>
+      下山。
+    </samp>
   </def>
   <def num="4">
     <verb />
     <exp>
       <self />之者、送之下。
     </exp>
+    <samp>
+      下命。
+    </samp>
   </def>
 </entry>
