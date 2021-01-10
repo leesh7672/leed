@@ -1,0 +1,21 @@
+<entry ident="46" num="1">
+  <main-spell>問</main-spell>
+  <def num="1">
+    <verb />
+    <exp>
+      <self />之者、不之解、欲求之、而令人答也。
+    </exp>
+  </def>
+  <def num="2">
+    <verb />
+    <exp>
+      <self />之者、問之其安也。
+    </exp>
+  </def>
+  <def num="3">
+    <verb />
+    <exp>
+      <self />之者、問人其處也。
+    </exp>
+  </def>
+</entry>
