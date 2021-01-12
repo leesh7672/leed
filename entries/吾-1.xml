@@ -1,7 +1,7 @@
-<entry>
+<entry ident="49" num="1">
   <main-spell>吾</main-spell>
   <def num="1">
-    <noun/>
-    <exp>凡人自稱<self/>。</exp>
+    <noun />
+    <exp>凡人自稱<self />。</exp>
   </def>
 </entry>
