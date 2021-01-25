@@ -1,9 +1,0 @@
-<entry ident="35" num="1">
-  <main-spell>掌</main-spell>
-  <def num="1">
-    <noun />
-    <exp>
-      手中有<self />者、有紋焉。可以握物。
-    </exp>
-  </def>
-</entry>
