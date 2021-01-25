@@ -10,6 +10,14 @@
     </def>
     <def num="3">
         <substance />
-        <exp>二人相談，彼此之謂<self />。 </exp>
+        <exp>二人相談，相以稱<self />。 </exp>
+    </def>
+    <def num="3">
+        <substance />
+        <exp><self />、爵等之一。偉於男，不如伯。 </exp>
+    </def>
+    <def num="4">
+        <substance />
+        <exp>生以師稱<self />。</exp>
     </def>
 </entry>
