@@ -1,0 +1,15 @@
+<entry ident="4" num="1">
+    <main-spell>子</main-spell>
+    <def num="1">
+        <substance />
+        <exp><self />也者，人獸之所生。</exp>
+    </def>
+    <def num="2">
+        <substance />
+        <exp><self />也者，人獸所生之男。</exp>
+    </def>
+    <def num="3">
+        <substance />
+        <exp>二人相談，彼此之謂<self />。 </exp>
+    </def>
+</entry>
