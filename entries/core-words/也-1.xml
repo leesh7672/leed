@@ -2,6 +2,10 @@
     <main-spell>也</main-spell>
     <def num="1">
         <marker />
-        <exp>句之常然，以<self />結之。</exp>
+        <exp>如句常立，以<self />結之。</exp>
+    </def>
+    <def num="2">
+      <marker />
+      <exp>如動及態輕於主，以<self />結之。</exp>
     </def>
 </entry>
