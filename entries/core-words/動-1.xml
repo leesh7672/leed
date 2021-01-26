@@ -2,15 +2,15 @@
     <main-spell>動</main-spell>
     <def num="1">
         <action />
-        <exp><self />者、變位。</exp>
+        <exp><self />者，變位。</exp>
     </def>
     <def num="2">
         <action />
-        <exp><self />者、變狀。</exp>
+        <exp><self />者，變狀。</exp>
     </def>
     <def num="3">
         <action />
-        <exp><self />者、激情。</exp>
+        <exp><self />者，激情。</exp>
     </def>
     <def num="4">
         <substance />
