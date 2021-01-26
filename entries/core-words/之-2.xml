@@ -1,11 +1,11 @@
 <entry ident="2" num="2">
     <main-spell>之</main-spell>
     <def num="1">
-        <marker />
-        <exp>二物，一爲他所有，一爲他所從，以<self />束之。</exp>
+        <mark />
+        <exp>事物之間，一爲他所有，一爲他所從，以<self />束之。</exp>
     </def>
     <def num="2">
-        <marker />
-        <exp>一物一動，如動爲物所行，以<self />束之。</exp>
+        <mark />
+        <exp>動態爲事物所就，以<self />束之。</exp>
     </def>
 </entry>

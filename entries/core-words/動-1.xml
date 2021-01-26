@@ -1,19 +1,15 @@
 <entry ident="3" num="1">
     <main-spell>動</main-spell>
     <def num="1">
-        <action />
+        <verb />
         <exp><self />者，變位。</exp>
     </def>
     <def num="2">
-        <action />
+        <verb />
         <exp><self />者，變狀。</exp>
     </def>
     <def num="3">
-        <action />
+        <verb />
         <exp><self />者，激情。</exp>
-    </def>
-    <def num="4">
-        <substance />
-        <exp><self />也者，詞品之一。語物之所行。</exp>
     </def>
 </entry>

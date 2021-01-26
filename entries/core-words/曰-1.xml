@@ -1,11 +1,11 @@
 <entry ident="5" num="1">
      <main-spell>曰</main-spell>
      <def num="1">
-         <marker />
-         <exp>他之所言，以<self />冠之。</exp>
+         <mark />
+         <exp>他之所言以<self />冠之。</exp>
      </def>
      <def num="2">
-         <marker />
-         <exp>物名，以<self />冠之。</exp>
+         <mark />
+         <exp>事物之名用<self />冠之。</exp>
      </def>
  </entry>

@@ -1,7 +1,8 @@
 <entry ident="8" num="1">
     <main-spell>云</main-spell>
     <def num="1">
-        <action />
-        <exp><self />者，言之而表也。與<ref ident="5" />相應。</exp>
+        <verb />
+        <exp><self />之者，言之也。</exp>
+        <samp src="《論語》">《詩》云：『如切如磋，如琢如磨。』</samp>
     </def>
 </entry>

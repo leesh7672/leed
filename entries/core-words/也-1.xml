@@ -1,11 +1,11 @@
 <entry ident="7" num="1">
     <main-spell>也</main-spell>
     <def num="1">
-        <marker />
+        <mark />
         <exp>如句常立，以<self />結之。</exp>
     </def>
     <def num="2">
-      <marker />
+      <mark />
       <exp>如動及態輕於主，以<self />結之。</exp>
     </def>
 </entry>

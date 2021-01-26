@@ -1,7 +1,7 @@
 <entry ident="1" num="1">
     <main-spell>之</main-spell>
     <def num="1">
-        <substance />
-        <exp>可識之物，以<self />指之。不可成主。維賓之成耳。</exp>
+        <noun />
+        <exp>事物可識，以<self />指之。成賓，而不成主。</exp>
     </def>
 </entry>
