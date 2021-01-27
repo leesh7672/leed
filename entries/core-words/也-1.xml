@@ -2,10 +2,10 @@
     <main-spell>也</main-spell>
     <def num="1">
         <mark />
-        <exp>如句常立，以<self />結之。</exp>
+        <exp>節之所語常立之時，以<self />標尾。</exp>
     </def>
     <def num="2">
       <mark />
-      <exp>如動詞輕於主詞，以<self />結主詞。</exp>
+      <exp>如動詞之所語重於主詞，以<self />標主詞。</exp>
     </def>
 </entry>
