@@ -10,7 +10,7 @@
     </def>
     <def num="3">
         <noun />
-        <exp>二人相談，相以稱<self />。 </exp>
+        <exp>二人相談，相稱爲<self />。 </exp>
     </def>
     <def num="3">
         <noun />
@@ -18,6 +18,6 @@
     </def>
     <def num="4">
         <noun />
-        <exp>生以師稱<self />。</exp>
+        <exp>生稱師爲<self />。</exp>
     </def>
 </entry>

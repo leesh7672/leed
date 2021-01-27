@@ -2,10 +2,22 @@
     <main-spell>之</main-spell>
     <def num="1">
         <mark />
-        <exp>事物之間，一爲他所有，一爲他所從，以<self />束之。</exp>
+        <exp>體詞之間，一之所語爲他所有，一之所語爲他所從，以<self />束之。</exp>
     </def>
     <def num="2">
         <mark />
-        <exp>動態爲事物所就，以<self />束之。</exp>
+        <exp>動詞爲體詞之行動，以<self />束之。</exp>
+    </def>
+    <def num="3">
+        <mark />
+        <exp>動詞爲體詞之態動，以<self />束之。</exp>
+    </def>
+    <def num="4">
+        <mark />
+        <exp>動詞爲體詞之變動，以<self />束之。</exp>
+    </def>
+    <def num="5">
+      <mark />
+      <exp>動詞爲體詞之令動，以<self />束之。以</exp>
     </def>
 </entry>
