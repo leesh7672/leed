@@ -6,18 +6,18 @@
     </def>
     <def num="2">
         <mark />
-        <exp>動詞爲體詞之行動，以<self />束之。</exp>
+        <exp>動詞爲體詞之行，以<self />束之。</exp>
     </def>
     <def num="3">
         <mark />
-        <exp>動詞爲體詞之態動，以<self />束之。</exp>
+        <exp>動詞爲體詞之態，以<self />束之。</exp>
     </def>
     <def num="4">
         <mark />
-        <exp>動詞爲體詞之變動，以<self />束之。</exp>
+        <exp>動詞爲體詞之變，以<self />束之。</exp>
     </def>
     <def num="5">
-      <mark />
-      <exp>動詞爲體詞之令動，以<self />束之。以</exp>
+        <mark />
+        <exp>動詞爲體詞之令，以<self />束之。以</exp>
     </def>
 </entry>
