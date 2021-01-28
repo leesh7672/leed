@@ -2,14 +2,14 @@
     <main-spell>動</main-spell>
     <def num="1">
         <verb />
-        <exp><self />也者，變位。</exp>
+        <exp><self />之者，變其位。</exp>
     </def>
     <def num="2">
         <verb />
-        <exp><self />也者，變狀。</exp>
+        <exp><self />之者，變其狀。</exp>
     </def>
     <def num="3">
         <verb />
-        <exp><self />也者，激情。</exp>
+        <exp><self />之者，激其情。</exp>
     </def>
 </entry>
