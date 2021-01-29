@@ -2,10 +2,10 @@
     <main-spell>也</main-spell>
     <def num="1">
         <mark />
-        <exp>謂詞節之所言，。</exp>
+        <exp>若主語之所言描如謂詞，結以<self />。</exp>
     </def>
     <def num="2">
         <mark />
-        <exp>如謂詞之所語重於主詞，以<self />標主詞。</exp>
+        <exp>主語之所言與題語相同，以<self />爲主語。</exp>
     </def>
 </entry>
