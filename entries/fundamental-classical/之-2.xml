@@ -1,11 +1,7 @@
 <entry ident="e1ff818b-b8ba-4994-97fa-6797a04ab7a8" num="2">
     <main-spell>之</main-spell>
     <def num="1">
-        <mark />
-        <exp>體詞之間，一之所語爲他所有，一之所語爲他所從，以<self />束之。</exp>
-    </def>
-    <def num="2">
-        <mark />
-        <exp>子節所省之主詞爲母節之一部，主詞以<self />束諸子節，以爲其母節之部。</exp>
+        <conj />
+        <exp>定語與體詞束以<self />。</exp>
     </def>
 </entry>
