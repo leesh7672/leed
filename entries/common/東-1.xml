@@ -1,7 +1,11 @@
 <entry ident="050febb8-69cd-4ed8-80f0-d946c4de0227" num="1">
     <main-spell>東</main-spell>
     <def num="1">
+        <noun />
+        <exp><self />，四方之一也。朝日出焉。</exp>
+    </def>
+    <def num="2">
         <verb />
-        <exp><self />之者，近之于日也。</exp>
+        <exp><self />之者，近之于東也。</exp>
     </def>
 </entry>
