@@ -1,11 +1,11 @@
 <entry ident="9779ae6a-82f9-4832-ab55-b95af8d81ac0" num="1">
      <main-spell>曰</main-spell>
      <def num="1">
-         <mark />
-         <exp>他之所言以<self />冠之。</exp>
+         <prep />
+         <exp>以他之所言爲體語，助以<self />。</exp>
      </def>
      <def num="2">
-         <mark />
-         <exp>事物之名用<self />冠之。</exp>
+         <prep />
+         <exp>以事物之名爲體語，助以<self />。</exp>
      </def>
  </entry>
