@@ -1,7 +1,7 @@
 <entry ident="e1ff818b-b8ba-4994-97fa-6797a04ab7a8" num="2">
     <main-spell>之</main-spell>
     <def num="1">
-        <conn />
-        <exp>定語與體詞束以<self />。</exp>
+        <m />
+        <exp>定節與體詞以<self />。</exp>
     </def>
 </entry>
