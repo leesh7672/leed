@@ -12,8 +12,8 @@
 \newcommand*\CJKmove{\punctstyle{plain}
 		       \let\CJKsymbol\CJKmovesymbol
 			   \let\CJKpunctsymbol\CJKsymbol}
-\setmainfont[RawFeature=vertical,Vertical=RotatedGlyphs]{Noto Serif CJK KR}
-\setCJKmainfont[RawFeature=vertical,Vertical=RotatedGlyphs]{Noto Serif CJK KR}
+\setmainfont{Noto Serif CJK KR}
+\setCJKmainfont{Noto Serif CJK KR}
 \newcommand{\explain}[2]{\\{{#1}}\\{$\bullet$}{#2}}
 \newcommand{\go}[2]{\\{$\bullet$}請考\textbf{#2} 矣。 }
 \newcommand{\entry}[4]{\par{\begin{minipage}{0.32\textwidth}{{\vspace{1.5mm}{\bfseries{#1}}{\textsuperscript{\CJKnumber{#2}}}{#3}}}\end{minipage}}\\}
@@ -25,9 +25,9 @@
 \frontmatter
 \hspace{0pt}
 \vfill
-{\hspace{14pt}\fontsize{48pt}{12pt}{漢詞林}}
+{\hspace{14pt}\fontsize{48pt}{12pt}{漢詞林}}\\
 {\fontsize{14pt}{4pt}李世鎬}\hspace{12pt}著\\
-\vspace{14pt}
+\vfill\vspace{32pt}
 \newpage
 \linespread{1.25}
 \input{preface.tex}
