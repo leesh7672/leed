@@ -6,4 +6,3 @@ from shell import shell
 hclf = open('hcl-entries.tex', 'w', encoding='utf-8')
 hclf.write(hcl.build())
 hclf.close()
-shell('xelatex hcl')
