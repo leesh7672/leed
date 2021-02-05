@@ -21,8 +21,14 @@
 \newcommand{\syn}[2]{通\textbf{#1}\textsuperscript{\CJKnumber{#2}}。}
 \newcommand{\ant}[2]{對\textbf{#1}\textsuperscript{\CJKnumber{#2}}。}
 \begin{document}
+\begin{list}
+ \setlength{\topsep}{0pt}%
+ \setlength{\leftmargin}{0}%
+\setlength{\rightmargin}{0}%
+\setlength{\listparindent}{\parindent}%
+\setlength{\itemindent}{\parindent}%
+\setlength{\parsep}{\parskip}%
 \frontmatter
-\begin{titlepage}
 \begin{wrapfigure}{r}{130mm}
 \centering
 \includegraphics[height=210mm]{cover.png}
@@ -33,7 +39,7 @@
 {\HUGE{漢詞林}}\\
 {李世鎬\hspace{14pt}編著}
 \vspace{64pt}
-\end{titlepage}
+\end{list}
 \newpage
 \linespread{1.25}
 \input{preface.tex}
