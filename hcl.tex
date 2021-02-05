@@ -5,6 +5,17 @@
 \usepackage{setspace}
 \usepackage[nospace]{xeCJK}
 \usepackage{wrapfig}
+\newenvironment{changemargin}[2]{%
+  \begin{list}{}{%
+    \setlength{\topsep}{0pt}%
+    \setlength{\leftmargin}{#1}%
+    \setlength{\rightmargin}{#2}%
+    \setlength{\listparindent}{\parindent}%
+    \setlength{\itemindent}{\parindent}%
+    \setlength{\parsep}{\parskip}%
+  }%
+  \item[]}{\end{list}}
+
 \pagestyle{empty}
 \newcommand*\CJKmovesymbol[1]{\raise.35em\hbox{#1}}
 \newcommand*\CJKmove{\punctstyle{plain}
