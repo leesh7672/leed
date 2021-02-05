@@ -3,7 +3,7 @@
 \usepackage[top=-10mm,left=10mm,bottom=10mm,right=10mm]{geometry}
 \usepackage{multicol}
 \usepackage{setspace}
-\usepackage{CJK}
+\usepackage{xeCJK}
 \usepackage{wrapfig}
 \pagestyle{empty}
 \newcommand*\CJKmovesymbol[1]{\raise.35em\hbox{#1}}
@@ -11,6 +11,7 @@
 		       \let\CJKsymbol\CJKmovesymbol
 			   \let\CJKpunctsymbol\CJKsymbol}
 \setmainfont{Noto Serif CJK KR}
+\setCJKmainfont{Noto Serif CJK KR}
 \newcommand{\CJKnumber}[1]{{#1}}
 \newcommand{\explain}[2]{{$\bullet$}〔{#1}〕{#2}}
 \newcommand{\go}[2]{\\{$\bullet$}請考\textbf{#2}。 }
