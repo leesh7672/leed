@@ -3,7 +3,7 @@
 \usepackage[top=-10mm,left=10mm,bottom=10mm,right=10mm]{geometry}
 \usepackage{multicol}
 \usepackage{setspace}
-\usepackage[nospace]{xeCJK}
+\usepackage{xeCJK}
 \usepackage{wrapfig}
 \pagestyle{empty}
 \newcommand*\CJKmovesymbol[1]{\raise.35em\hbox{#1}}
@@ -30,9 +30,9 @@
 {\HUGE{漢詞林}}\\
 {李世鎬\hspace{14pt}編著}
 \vspace{64pt}
+\frontmatter
 \newpage
 \addtolength{\topmargin}{20mm}
-\frontmatter
 \linespread{1.25}
 \input{preface.tex}
 \mainmatter
@@ -40,6 +40,7 @@
 \begin{multicols}{3}
 \input{hcl-entries.tex}
 \end{multicols}
+\appendix
 \newpage
 \input{references.tex}
 \end{document}
