@@ -1,0 +1,11 @@
+<entry ident="5d0afb06-7608-4df3-89fa-a3574b606abf" num="1"> 
+    <main-spell>爲</main-spell>
+    <def num="1">
+        <verb />
+        <exp><self />之者，行之也。</exp>
+    </def>
+    <def num="2">
+        <verb />
+        <exp><self />之者，思之也。</exp>
+    </def>
+</entry>
