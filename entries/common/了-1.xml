@@ -4,4 +4,8 @@
         <comp />
         <exp>杆節所言之事已成也，補以<self />。維口語用之。</exp>
     </def>
+    <def num="1">
+        <tense />
+        <exp>謂詞所言之事已成也，刻以<self />。維口語用之。</exp>
+    </def>
 </entry>
