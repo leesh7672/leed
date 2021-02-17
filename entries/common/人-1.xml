@@ -2,10 +2,14 @@
     <main-spell>人</main-spell>
     <def num="1">
         <noun />
-        <exp>活而非獸，聰而非神，動而非偶，曰<self />。</exp>
+        <exp>活而非獸，聰而非神，動而非偶曰<self />。</exp>
     </def>
     <def num="2">
         <noun />
         <exp>德者曰<self />。</exp>
+    </def>
+    <def num="3">
+        <noun />
+        <exp>他人曰<self />。</exp>
     </def>
 </entry>
