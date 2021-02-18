@@ -1,0 +1,19 @@
+<entry ident="0415add2-c284-430f-aee9-d1f237bf3333" num="1">
+    <main-spell>天下</main-spell>
+    <def num="1">
+        <noun />
+        <exp><self />，大國之謂也。</exp>
+    </def>
+    <def num="2">
+        <noun />
+        <exp><self />，擧世之謂也。</exp>
+    </def>
+    <def num="3">
+        <noun />
+        <exp><self />，朝廷之謂也。</exp>
+    </def>
+    <def num="4">
+        <noun />
+        <exp><self />，天子之所治也。</exp>
+    </def>
+</entry>
