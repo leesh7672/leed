@@ -1,6 +1,6 @@
 \documentclass[a5paper,12pt]{memoir}
 \usepackage{fontspec}
-\usepackage[top=-1mm,bottom=10mm]{geometry}
+\usepackage[top=-10mm,bottom=10mm]{geometry}
 \usepackage{multicol}
 \usepackage{setspace}
 \usepackage{xeCJK}
@@ -27,16 +27,17 @@
 \begin{wrapfigure}{r}{60mm}
 \includegraphics[height=220mm]{cover.png}
 \end{wrapfigure}
-\addtolength{\topmargin}{10mm}
 \hfill
 \vfill
 {\HUGE{漢詞林}}\\
 {李世鎬\hspace{14pt}編著}
 \vspace{64pt}
+\addtolength{\topmargin}{10mm}
 \newpage
 \linespread{1.25}
 \input{preface.tex}
 \mainmatter
+\section{詞典}
 \linespread{1.25}
 \begin{multicols}{3}
 \input{hcl-entries.tex}
