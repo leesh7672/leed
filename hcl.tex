@@ -1,11 +1,12 @@
 \documentclass[a5paper,12pt]{memoir}
 \usepackage{fontspec}
-\usepackage[top=-10mm,bottom=10mm]{geometry}
+\usepackage[top=-10mm,left=10mm,bottom=10mm,right=10mm]{geometry}
 \usepackage{multicol}
 \usepackage{setspace}
 \usepackage{xeCJK}
 \usepackage{wrapfig}
 \usepackage{graphicx}
+\pagestyle{gopbble}
 \graphicspath{{./images/}}
 \newcommand*\CJKmovesymbol[1]{\raise.35em\hbox{#1}}
 \newcommand*\CJKmove{\punctstyle{plain}
@@ -22,7 +23,6 @@
 \newcommand{\syn}[2]{通\textbf{#1}\textsuperscript{\CJKnumber{#2}}。}
 \newcommand{\ant}[2]{對\textbf{#1}\textsuperscript{\CJKnumber{#2}}。}
 \begin{document}
-\frontmatter
 \linespread{1.25}
 \begin{wrapfigure}{r}{60mm}
 \includegraphics[height=220mm]{cover.png}
@@ -32,12 +32,12 @@
 {\HUGE{漢詞林}}\\
 {李世鎬\hspace{14pt}編著}
 \vspace{64pt}
-\addtolength{\topmargin}{25mm}
+\frontmatter
 \newpage
+\addtolength{\topmargin}{20mm}
 \linespread{1.25}
 \input{preface.tex}
 \mainmatter
-\chapter{詞典}
 \linespread{1.25}
 \begin{multicols}{3}
 \input{hcl-entries.tex}
