@@ -2,6 +2,10 @@
     <main-spell>下</main-spell>
     <def num="1">
         <verb />
-        <exp><self />者，近壤。</exp>
+        <exp><self />也，近壤。</exp>
+    </def>
+    <def num="2">
+        <noun />
+        <exp>某物之<self />也，近壤焉。</exp>
     </def>
 </entry>
