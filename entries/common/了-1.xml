@@ -3,9 +3,13 @@
     <def num="1">
         <comp />
         <exp>杆節所言之事已成也，補以<self />。俗語雖用，雅語不用。</exp>
+        <cite src="Pulleyblank:2005" />
+        <cite src="Staves:2016" />
     </def>
     <def num="2">
         <tense />
         <exp>謂詞所言之事已成也，刻以<self />。俗語雖用，雅語不用。</exp>
+        <cite src="Pulleyblank:2005" />
+        <cite src="Staves:2016" />
     </def>
 </entry>
