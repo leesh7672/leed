@@ -7,6 +7,7 @@
 \usepackage{wrapfig}
 \usepackage{xcolor}
 \usepackage{graphicx}
+\usepackage{natbib}
 \pagestyle{empty}
 \definecolor{blue}{rgb}{0.2,0.15,0.1}
 \definecolor{deepblue}{rgb}{0.4,0.3,0.2}
@@ -25,7 +26,7 @@
 \newcommand{\samp}[2]{{#1}曰：『{#2}』}
 \newcommand{\syn}[2]{通\textcolor{blue}{#1}\textsuperscript{\CJKnumber{#2}}。}
 \newcommand{\ant}[2]{對\textcolor{blue}{#1}\textsuperscript{\CJKnumber{#2}}。}
-\bibliographystyle{ieeetr}
+\usepackage{biblatex-chicago}
 \begin{document}
 \linespread{1.25}
 \begin{wrapfigure}{r}{60mm}
@@ -48,5 +49,5 @@
 \end{multicols}
 \appendix
 \newpage
-\bibliography{hcl-ref}
+\printbibliography[heading=bibintoc]
 \end{document}
