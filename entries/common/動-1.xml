@@ -1,18 +1,16 @@
 <entry ident="85b1fe18-4128-477b-bdcc-f8a63a75bda4" num="1">
     <main-spell>動</main-spell>
+    <cite src="Hornby:2015" page="1013"/>
     <def num="1">
         <verb />
         <exp><self />者，變位。</exp>
-        <cite src="Hornby:2015" page="1013"/>
     </def>
     <def num="2">
         <verb />
         <exp><self />者，變狀。</exp>
-        <cite src="Hornby:2015" page="1013"/>
     </def>
     <def num="3">
         <verb />
         <exp><self />者，激情。</exp>
-        <cite src="Hornby:2015" page="1013"/>
     </def>
 </entry>
