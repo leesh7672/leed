@@ -1,6 +1,6 @@
 \documentclass[a5paper,12pt]{book}
-\usepackage{xeCJK}
-\usepackage{fontspec}
+\usepackage{luatexja}
+\usepackage{luatexja-fontspec}
 \usepackage[top=-10mm,left=10mm,bottom=30mm,right=10mm]{geometry}
 \usepackage{multicol}
 \usepackage{setspace}
@@ -18,8 +18,8 @@
 \definecolor{deepblue}{rgb}{0.4,0.3,0.2}
 \graphicspath{{./images/}}
 
-\setmainfont[Script=Latin]{Times Newer Roman}
-\setCJKmainfont{Asebi Mincho Light}
+\setmainfont{Times Newer Roman}
+\setmainjfont{Asebi Mincho Light}
 
 \newcommand{\CJKnumber}[1]{{#1}}
 \newcommand{\explain}[2]{{$\bullet$}〔{#1}〕{#2}}
