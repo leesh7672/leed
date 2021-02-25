@@ -1,4 +1,4 @@
-\documentclass[a5paper,12pt]{article}
+\documentclass[a5paper,12pt]{book}
 \usepackage{luatexja}
 \usepackage{fontspec}
 \usepackage[top=-10mm,left=10mm,bottom=30mm,right=10mm]{geometry}
@@ -31,13 +31,14 @@
 \newcommand{\ant}[2]{對\textcolor{blue}{#1}\textsuperscript{\CJKnumber{#2}}。}
 
 \begin{document}
+\frontmatter
 \linespread{1.25}
 \begin{wrapfigure}{r}{60mm}
 \includegraphics[height=230mm]{cover.png}
 \end{wrapfigure}
 \hfill
 \vfill
-{\fontsize{48}{48}\textcolor{deepblue}{漢詞林}}\\
+{\Huge\textcolor{deepblue}{漢詞林}}\\
 {\textcolor{blue}{李世鎬}\hspace{14pt}編著}
 \vspace{64pt}
 \newpage
@@ -46,9 +47,11 @@
 \linespread{1.25}
 \input{preface.tex}
 
-\section{詞典}
+\mainmatter
 \begin{multicols}{3}
 \input{hcl-entries.tex}
 \end{multicols}
+
+\appendix
 \printbibliography{}
 \end{document}
