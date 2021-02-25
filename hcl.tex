@@ -8,6 +8,11 @@
 \usepackage{xcolor}
 \usepackage{graphicx}
 \usepackage[style=mla]{biblatex}
+\usepackage{etoolbox}
+
+\makeatletter
+\patchcmd{\@makechapterhead}{\uppercase\@xp{\chaptername}\enspace}{}{}{}
+\makeatother
 
 \DeclareLanguageMapping{english}{english-mla}
 
