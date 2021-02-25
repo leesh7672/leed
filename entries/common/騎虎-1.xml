@@ -2,6 +2,6 @@
     <main-spell>騎虎</main-spell>
     <def num="1">
         <p-verb />
-        <exp><self />也者，不可逆其所成之事。</exp>
+        <exp><self />者，不得反其所成之事。</exp>
     </def>
 </entry>
