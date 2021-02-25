@@ -10,10 +10,6 @@
 \usepackage[style=mla]{biblatex}
 \usepackage{etoolbox}
 
-\makeatletter
-\patchcmd{\@makechapterhead}{\uppercase\@xp{\chaptername}\enspace}{}{}{}
-\makeatother
-
 \DeclareLanguageMapping{english}{english-mla}
 
 \addbibresource{ref.bib}
@@ -51,7 +47,7 @@
 \linespread{1.25}
 \input{preface.tex}
 
-\chapter{本文}
+\chapter*{本文}
 \begin{multicols}{3}
 \input{hcl-entries.tex}
 \end{multicols}
