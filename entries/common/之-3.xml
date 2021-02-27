@@ -1,8 +1,7 @@
 <entry ident="7a57d581-1ab1-4e24-93e3-f5a2bafa4050" num="3">
     <main-spell>之</main-spell>
-    <cite page="395" src="Pulleyblank:2005" />
     <def num="1">
         <verb />
-        <exp><self />某處者，面之而行也。</exp>
+        <exp><self />某處者，面之而行也<cite page="395" src="Pulleyblank:2005" />。</exp>
     </def>
 </entry>
