@@ -2,10 +2,10 @@
     <main-spell>了</main-spell>
     <def num="1">
         <comp />
-        <exp>杆節所言之事已成也，補以<self /><cite page="788" src="Staves:2016" />。俗語雖用，雅語不用。</exp>
+        <exp>幹節所言之事已成也，成以<self /><cite page="788" src="Staves:2016" />。俗語雖用，雅語不用。</exp>
     </def>
     <def num="2">
-        <tense />
-        <exp>謂詞所言之事已成也，刻以<self /><cite page="788" src="Staves:2016" />。俗語雖用，雅語不用。</exp>
+        <mark />
+        <exp>謂詞所言之事已成也，謂詞之後標以<self /><cite page="788" src="Staves:2016" />。俗語雖用，雅語不用。</exp>
     </def>
 </entry>
