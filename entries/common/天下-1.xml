@@ -2,18 +2,18 @@
     <main-spell>天下</main-spell>
     <def num="1">
         <noun />
-        <exp><self />，大國之謂也。<cite page="1294" src="Staves:2016" /></exp>
+        <exp><self />，大國之謂也<cite page="1294" src="Staves:2016" />。</exp>
     </def>
     <def num="2">
         <noun />
-        <exp><self />，擧世之謂也。<cite page="1294" src="Staves:2016" /></exp>
+        <exp><self />，擧世之謂也<cite page="1294" src="Staves:2016" />。</exp>
     </def>
     <def num="3">
         <noun />
-        <exp><self />，朝廷之謂也。<cite page="1294" src="Staves:2016" /></exp>
+        <exp><self />，朝廷之謂也<cite page="1294" src="Staves:2016" />。</exp>
     </def>
     <def num="4">
         <noun />
-        <exp><self />，天子之所治也。<cite page="1294" src="Staves:2016" /></exp>
+        <exp><self />，天子之所治也<cite page="1294" src="Staves:2016" />。</exp>
     </def>
 </entry>
