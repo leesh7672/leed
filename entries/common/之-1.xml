@@ -2,6 +2,9 @@
     <main-spell>之</main-spell>
     <def num="1">
         <p-noun />
-        <exp>體詞之所言暸然，可以<self />代<cite page="723" src="Hornby:2015" /><cite page="835" src="Hornby:2015" /><cite page="1621" src="Hornby:2015" /><cite page="190-93" src="Pulleyblank:2005" />。槪不成助節、上古之文可成之<cite page="190" src="Pulleyblank:2005" />。未及漢代，爲<ref ident="59035340-e994-405a-9caa-2e3ed3448186" />所否者，在謂詞之前。及漢也，可在其後<cite page="47-48" src="Pulleyblank:2005" />。</exp>
+        <exp>
+          體詞之所言暸然，可以<self />代<cite page="723" src="Hornby:2015" /><cite page="835" src="Hornby:2015" /><cite page="1621" src="Hornby:2015" /><cite page="190-93" src="Pulleyblank:2005" />。槪不成助節、上古之文可成之<cite page="190" src="Pulleyblank:2005" />。
+          未及漢代，爲<ref ident="59035340-e994-405a-9caa-2e3ed3448186" />所否者，在謂詞之前。及漢也，可在其後<cite page="47-8" src="Pulleyblank:2005" />。
+        </exp>
     </def>
 </entry>
