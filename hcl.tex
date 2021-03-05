@@ -1,5 +1,6 @@
 \documentclass[a5paper,10pt]{book}
 \usepackage{luatexja-fontspec}
+\usepackage{luatexko-fontspec}
 \usepackage[top=-10mm,left=10mm,bottom=50mm,right=10mm]{geometry}
 \usepackage{multicol}
 \usepackage{setspace}
@@ -18,8 +19,8 @@
 \graphicspath{{./images/}}
 
 \setmainfont{Times Newer Roman}
-\setmainfont[Script=Hangul]{Source Han Serif K}
-\setmainjfont[Script=Han]{Asebi Mincho Light}
+\setmainhangulfont[Script=Hangul]{Source Han Serif K}
+\setmainjfont[Script=CJK]{Asebi Mincho Light}
 
 \newcommand{\CJKnumber}[1]{{#1}}
 \newcommand{\explain}[2]{{$\bullet$}〔{#1}〕{#2}}
