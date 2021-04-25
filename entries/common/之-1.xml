@@ -1,6 +1,18 @@
 <entry ident="a2954799-88fd-4014-ada9-c5a37e626ef9" num="1">
     <main-spell>之</main-spell>
-    <def num="1" category="助詞">
-        <exp>苟有張三者，張三有犬，則謂之張三之犬。</exp>
+    <def category="助詞" num="1">
+        <exp>苟有犬張三所有也，則云張三之犬。</exp>
+    </def>
+    <def category="助詞" num="2">
+        <exp>苟有詩張三所作也，則云張三之詩。</exp>
+    </def>
+    <def category="助詞" num="3">
+        <exp>苟有地名曰薊城，則云薊城之地。</exp>
+    </def>
+    <def category="助詞" num="4">
+        <exp>苟有事於薊城，則云薊城之事。</exp>
+    </def>
+    <def category="助詞" num="5">
+        <exp>苟有樹張三所栽也，則云張三所栽之樹。</exp>
     </def>
 </entry>
