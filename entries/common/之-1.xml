@@ -1,6 +1,6 @@
 <entry ident="a2954799-88fd-4014-ada9-c5a37e626ef9" num="1">
     <main-spell>之</main-spell>
-    <def category="助詞" num="1">
-        <exp>有節與體詞，而體詞之所言乃節之所言也，則可以節冠<self />，以冠體詞。</exp>
+    <def category="結詞" num="1">
+        <exp>指詞之所言屬助節，則可以<self />爲結詞，使取助節，以爲結節，而立指節。</exp>
     </def>
 </entry>

@@ -1,6 +1,6 @@
 <entry ident="45743593-c35c-4ad4-85e7-4000e8286d65" num="2">
     <main-spell>之</main-spell>
-    <def category="代詞" num="1">
-        <exp>既所用之體詞，可以<self />代之。</exp>
+    <def category="指詞" num="1">
+        <exp>既所用之指節，可以<self />代之。</exp>
     </def>
 </entry>
