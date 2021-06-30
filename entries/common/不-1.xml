@@ -2,8 +2,8 @@
     <main-spell>不</main-spell>
     <def category="杆詞" num="1">
         <exp>
-            若欲否謂節之所言，可以<self />爲杆節骨詞，使之取其謂節。
+            若欲否助節之所言，可以<self />爲杆節骨詞，使之取其助節。
         </exp>
-        <samp src="論語：學而">人不知而不慍、不亦樂乎？</samp>
+        <samp src="論語：學而">人不知而不慍、不亦君子乎？</samp>
     </def>
 </entry>
