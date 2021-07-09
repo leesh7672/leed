@@ -1,9 +1,12 @@
 <entry ident="21b4455d-a576-4a4e-a624-bd9bcc610d10" num="1">
     <main-spell>爲</main-spell>
     <def category="謂詞" num="1">
-        <exp>可以<self />語某之行某事。</exp>
+        <exp>標作動。</exp>
     </def>
     <def category="謂詞" num="2">
-        <exp>可以<self />語某之屬某物。</exp>
+        <exp>標從屬。</exp>
+    </def>
+    <def category="介詞" num="3">
+       <exp>標作動者於被動句。</exp>
     </def>
 </entry>
