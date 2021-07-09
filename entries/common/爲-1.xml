@@ -1,9 +1,9 @@
 <entry ident="21b4455d-a576-4a4e-a624-bd9bcc610d10" num="1">
     <main-spell>爲</main-spell>
     <def category="謂詞" num="1">
-        <exp>可以<self />語人獸之行某事。</exp>
+        <exp>可以<self />語某之行某事。</exp>
     </def>
     <def category="謂詞" num="2">
-        <exp>可以<self />語某物之屬某物。</exp>
+        <exp>可以<self />語某之屬某物。</exp>
     </def>
 </entry>
