@@ -2,8 +2,6 @@
     <main-spell>之</main-spell>
     <def category="助詞" num="1">
         <exp>用於偏正結構。</exp>
-        <samp>李家之地</samp>
-        <samp>張公之所有</samp>
-        <samp>崇德之本</samp>
+        <samp src="《論語：學而》">孝弟也者，其爲仁之本。</samp>
     </def>
 </entry>
