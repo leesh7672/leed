@@ -1,0 +1,20 @@
+<entry num="1" ident="4f8ec9f5-c68b-45f6-94ae-0f7bda4bf3a3">
+    <main-spell>子</main-spell>
+    <def category="體詞" num="1">
+        <exp>人之所生。均謂男女。</exp>
+        <samp src="《孟子・梁惠王》">老而無子、曰獨。</samp>
+        <samp src="《史記・五帝本紀》">黃帝者、少典之子。</samp>
+    </def>
+    <def category="體詞" num="2">
+        <exp>丈夫之敬稱也。</exp>
+        <samp src="《論而・學而》">
+            子日：「學而時習之、不亦說乎。」
+        </samp>
+    </def>
+    <def category="謂詞" num="3">
+        <exp>慈。</exp>
+        <samp src="《戰國策》">
+            子元元
+        </samp>
+    </def>
+</entry>
