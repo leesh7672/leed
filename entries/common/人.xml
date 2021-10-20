@@ -2,12 +2,23 @@
     <main-spell>人</main-spell>
     <def category="體詞" num="1">
         <exp>
-            生物之一。行而非獸、言而非偶、聰而非神。
+            行而非獸、言而非偶、聰而非神者也。
         </exp>
     </def>
     <def category="體詞" num="2">
         <exp>
             備宜所具之德也。
         </exp>
+        <samp src="《論語・學而》">
+            其爲人也、孝弟、而好犯上者、鮮矣。
+        </samp>
+    </def>
+    <def category="體詞" num="3">
+        <exp>
+            他人之謂也。
+        </exp>
+        <samp src="《論語・學而》">
+            吾日三省吾身、爲人謀而不忠乎、與朋友交而不信乎、傳不習乎。
+        </samp>
     </def>
 </entry>
