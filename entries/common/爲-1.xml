@@ -1,14 +1,11 @@
 <entry ident="21b4455d-a576-4a4e-a624-bd9bcc610d10" num="1">
     <main-spell>爲</main-spell>
-    <def category="謂詞" num="1">
-        <exp>標所行也。</exp>
-    </def>
     <def category="謂詞" num="2">
-        <exp>標所成也。</exp>
+        <exp>主部及賓部之當補部所語也。</exp>
         <samp src="《論語・爲政》">知之爲知之、不知爲不知、是知也。</samp>
     </def>
-    <def category="介詞" num="3">
-        <exp>標所思也。</exp>
+    <def category="補詞" num="3">
+        <exp>從主部所思取賓部也。</exp>
         <samp>爲正斥邪。</samp>
     </def>
 </entry>
