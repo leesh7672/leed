@@ -1,13 +1,13 @@
 <entry ident="01ab9029-a304-41a0-ad90-4e4cb548cc6a" num="1">
     <main-spell>以</main-spell>
-    <def category="補詞" num="1">
+    <def category="介詞" num="1">
         <exp>
-            從所用之具取賓語也。既語其物之名也、可以空詞取賓語。如此則應置於謂部前。
+            語所用之物。爲謂詞前後所取、後取指詞。
         </exp>
     </def>
-    <def category="補詞" num="2">
+    <def category="介詞" num="2">
         <exp>
-            從所用之材取賓語也。既語其材之名也、可以空詞取賓語。如此則應置於謂部前。
+            語所用之材。爲謂詞前後所取、後取指詞。
         </exp>
     </def>
 </entry>
