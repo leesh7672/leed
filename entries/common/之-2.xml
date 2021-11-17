@@ -1,8 +1,8 @@
 <entry ident="45743593-c35c-4ad4-85e7-4000e8286d65" num="2">
     <main-spell>之</main-spell>
-    <def category="體詞" num="1">
-        <exp>代既所言也。謂部之爲<ref ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" />所否也、置於其前。</exp>
-        <samp src="《詩經・雎鳩》">窈窕淑女、琴瑟友之。</samp>
-        <samp src="《論語・學而》">不好犯上、而好作亂者、未之有也。</samp>
+    <def category="介詞" num="1">
+        <exp>以既所言之物。若枝詞之爲<ref ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" />所否也、必爲其謂詞前所取。</exp>
+        <samp>友之。</samp>
+        <samp>未之嘗。</samp>
     </def>
 </entry>
