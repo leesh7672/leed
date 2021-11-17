@@ -1,7 +1,7 @@
 <entry ident="21b4455d-a576-4a4e-a624-bd9bcc610d10" num="1">
     <main-spell>爲</main-spell>
     <def category="謂詞" num="1">
-        <exp>同乎指詞組。</exp>
+        <exp>同乎指詞組。時可省。</exp>
         <samp>犬爲上友。</samp>
         <samp>無人無物、其相從也、爲之朋友。</samp>
     </def>
@@ -11,7 +11,7 @@
         <samp>。</samp>
     </def>
     <def category="介詞" num="2">
-        <exp>語所欲。爲謂詞前所取、後取指詞組。</exp>
+        <exp>語所欲。爲謂詞前所取、後取指詞組。可省。</exp>
         <samp>爲正斥邪。</samp>
     </def>
 </entry>
