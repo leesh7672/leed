@@ -1,13 +1,18 @@
 <entry ident="01ab9029-a304-41a0-ad90-4e4cb548cc6a" num="1">
     <main-spell>以</main-spell>
-    <def category="介詞" num="1">
+    <def category="輕謂詞" num="1">
         <exp>
-            語所用之物。爲謂詞前後所取、後取指詞。
+            如指詞組所語者其補語所說。
         </exp>
     </def>
-    <def category="介詞" num="2">
+    <def category="輕謂詞" num="2">
         <exp>
-            語所用之材。爲謂詞前後所取、後取指詞。
+            由指詞組所語者如其補語所說。
+        </exp>
+    </def>
+    <def category="副詞" num="3">
+        <exp>
+            以其物。
         </exp>
     </def>
 </entry>

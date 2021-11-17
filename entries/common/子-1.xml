@@ -1,20 +1,20 @@
 <entry num="1" ident="4f8ec9f5-c68b-45f6-94ae-0f7bda4bf3a3">
     <main-spell>子</main-spell>
     <def category="體詞" num="1">
-        <exp>人之所生。均謂男女。</exp>
+        <exp>人之所生。男女均可稱也。</exp>
         <samp>無子</samp>
         <samp>張三之子</samp>
     </def>
     <def category="體詞" num="2">
-        <exp>敬稱丈夫。時稱孔子。</exp>
-        <samp src="《論語》">
-            子不語怪力亂身
+        <exp>大丈夫。</exp>
+        <samp>
+            子安在。
         </samp>
     </def>
     <def category="謂詞" num="3">
-        <exp>慈。</exp>
+        <exp>慈愛。</exp>
         <samp src="《戰國策》">
-            子元元
+            子元元。
         </samp>
     </def>
 </entry>

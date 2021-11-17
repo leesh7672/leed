@@ -1,7 +1,7 @@
 <entry ident="45743593-c35c-4ad4-85e7-4000e8286d65" num="2">
     <main-spell>之</main-spell>
-    <def category="介詞" num="1">
-        <exp>以既所言之物。若枝詞之爲<ref ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" />所否也、必爲其謂詞前所取。</exp>
+    <def category="介詞組" num="1">
+        <exp>以其物。</exp>
         <samp>友之。</samp>
         <samp>未之嘗。</samp>
     </def>
