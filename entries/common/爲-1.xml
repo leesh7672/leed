@@ -1,17 +1,17 @@
 <entry ident="21b4455d-a576-4a4e-a624-bd9bcc610d10" num="1">
     <main-spell>爲</main-spell>
     <def category="謂詞" num="1">
-        <exp>同乎指詞組。時可省。</exp>
+        <exp>屬乎表語。時可省。</exp>
         <samp>犬爲上友。</samp>
         <samp>無人無物、其相從也、爲之朋友。</samp>
     </def>
-    <def category="輕謂詞" num="2">
-        <exp>實踐謂詞組所語。</exp>
+    <def category="謂詞" num="2">
+        <exp>係於賓語、實踐表語所言。</exp>
         <samp>人人皆祈躬所擇者爲國政矣。</samp>
         <samp>。</samp>
     </def>
     <def category="介詞" num="2">
-        <exp>語所欲。爲謂詞前所取、後取指詞組。可省。</exp>
+        <exp>主語所欲如賓語。爲謂詞前所有、後取賓語。可省。</exp>
         <samp>爲正斥邪。</samp>
     </def>
 </entry>
