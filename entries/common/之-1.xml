@@ -1,13 +1,7 @@
 <entry ident="a2954799-88fd-4014-ada9-c5a37e626ef9" num="1">
     <main-spell>之</main-spell>
-    <def category="曲詞" num="1">
-        <exp>爲體詞所取、取態詞短語。</exp>
-        <samp>張三夜望燦然之月。</samp>
-        <samp>張三所蒙之恩也。</samp>
-        <samp>張三所有之物。</samp>
-    </def>
-    <def category="曲詞" num="1">
-        <exp>爲體詞所取、取態詞短語。</exp>
-        <samp>如志之不誠何。</samp>
+    <def category="指詞" num="1">
+        <exp>指已所語。</exp>
+        <samp>以張三不立之志也。</samp>
     </def>
 </entry>
