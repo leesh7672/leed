@@ -1,10 +1,10 @@
 <entry ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" num="1">
     <main-spell>不</main-spell>
-    <def category="狀詞" num="1">
+    <def category="態詞" num="1">
         <exp>
-            否謂詞與狀詞。
+            否態詞短語。
         </exp>
         <samp>立志不誠。</samp>
-        <samp>此丹心、他萬不之朽矣。</samp>
+        <samp>此丹心、萬不之朽矣。</samp>
     </def>
 </entry>
