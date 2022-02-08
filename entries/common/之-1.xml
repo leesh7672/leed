@@ -1,10 +1,13 @@
 <entry ident="a2954799-88fd-4014-ada9-c5a37e626ef9" num="1">
     <main-spell>之</main-spell>
-    <def category="助詞" num="1">
-        <exp>仲於新句與體詞、新句之內可以<ref ident="853208e9-b1aa-4c15-a123-41ac1306ff06" />指體詞。可省。</exp>
+    <def category="曲詞" num="1">
+        <exp>爲體詞所取、取態詞短語。</exp>
         <samp>張三夜望燦然之月。</samp>
         <samp>張三所蒙之恩也。</samp>
-        <samp>如志之不誠何。</samp>
         <samp>張三所有之物。</samp>
+    </def>
+    <def category="曲詞" num="1">
+        <exp>爲體詞所取、取態詞短語。</exp>
+        <samp>如志之不誠何。</samp>
     </def>
 </entry>
