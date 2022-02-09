@@ -1,10 +1,11 @@
 <entry ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" num="1">
-    <main-spell>不</main-spell>
-    <def category="狀詞" num="1">
-        <exp>
+  <main-spell>不</main-spell>
+  <def num="1">
+    <adv/>
+    <exp>
             否所治之部。
         </exp>
-        <samp>立志不誠。</samp>
-        <samp>此丹心萬不之朽矣。</samp>
-    </def>
+    <samp>立志不誠。</samp>
+    <samp>此丹心萬不之朽矣。</samp>
+  </def>
 </entry>
