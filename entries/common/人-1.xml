@@ -2,23 +2,13 @@
   <main-spell>人</main-spell>
   <def num="1">
     <noun/>
-    <exp>
-            活動而非禽獸、聰明而非鬼神、具手而非猿之物。皆自識言、獨創文物而用之。
-        </exp>
-    <samp>
-            人而不仁。
-    </samp>
-    <samp>
-            人之所以異於禽獸者幾希、庶民去之、君子存之。
-        </samp>
+    <exp>活動而非禽獸、聰明而非鬼神、具手而非猿之物。皆自識言、獨創文物而用之。</exp>
+    <samp>人而不仁</samp>
+    <samp>人之所以異於禽獸者幾希、庶民去之、君子存之</samp>
   </def>
   <def num="2">
     <noun/>
-    <exp>
-            他人。
-        </exp>
-    <samp>
-            爲人謀而不忠乎。
-        </samp>
+    <exp>他人</exp>
+    <samp>爲人謀而不忠乎</samp>
   </def>
 </entry>
