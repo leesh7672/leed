@@ -1,7 +1,11 @@
 <entry ident="a2954799-88fd-4014-ada9-c5a37e626ef9" num="1">
     <main-spell>之</main-spell>
-    <def category="指詞" num="1">
-        <exp>指已所語。</exp>
-        <samp>張三不立志之以也。</samp>
+    <def category="縛詞" num="1">
+        <exp>標所刪指詞短語之爲賓語。</exp>
+        <samp>彼牛張三牧之</samp
+    </def>
+    <def category="首詞" num="1">
+        <exp>標不定、刪助詞。</exp>
+        <samp>天之未明</samp>
     </def>
 </entry>
