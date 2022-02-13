@@ -1,14 +1,9 @@
 <entry ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" num="1">
   <main-spell>不</main-spell>
   <def num="1">
-    <neg/>
-    <exp>置在輕動詞組前、否其所語者也。</exp>
+    <lv/>
+    <exp>否謂詞組所言者也。其所取指詞徒取隱詞而自現之時、可引以冠謂詞組焉。</exp>
     <samp>立志不誠</samp>
     <samp>虎不食草</samp>
-  </def>
-  <def num="2">
-    <neg unit="abbrev"/>
-    <exp>「不使」之略也。</exp>
-    <samp>此丹心萬不之朽矣</samp>
   </def>
 </entry>
