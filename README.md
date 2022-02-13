@@ -1,1 +1,1 @@
-# Lee's Advanced Learner's Dictionary of Literary Chinese 
+# Lee's Dictionary for Advanced Learners of Literary Chinese 
