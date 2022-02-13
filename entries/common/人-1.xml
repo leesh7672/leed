@@ -2,13 +2,13 @@
   <main-spell>人</main-spell>
   <def num="1">
     <noun/>
-    <exp>活而非獸，聰而識言者也。</exp>
+    <exp>活而非獸、聰而識言者也。</exp>
     <samp>人而不仁</samp>
     <samp>人之所以異於禽獸者幾希。</samp>
   </def>
   <def num="2">
     <det unit="phrase"/>
     <exp>他人也。</exp>
-    <samp>己所不欲，勿施於人。</samp>
+    <samp>己所不欲、勿施於人。</samp>
   </def>
 </entry>
