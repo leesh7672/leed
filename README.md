@@ -1,2 +1,1 @@
-# hcl
-HCL is a Literary Chinese monolingual Dictionary
+# Lee's Advanced Learner's Dictionary of Literary Chinese 
