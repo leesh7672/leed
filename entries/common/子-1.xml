@@ -2,18 +2,19 @@
   <main-spell>子</main-spell>
   <def num="1">
     <noun/>
-    <exp>人之所生也。男女均可以指也。</exp>
+    <exp>人及禽獸所生之謂也。本無陰陽、而後於人庶幾謂男兒也。</exp>
     <samp>無子</samp>
     <samp>張三之子</samp>
+    <samp>子犬</samp>
   </def>
   <def num="2">
     <noun/>
-    <exp>大人。</exp>
+    <exp>大人也。</exp>
     <samp>子安在</samp>
   </def>
   <def num="3">
     <verb/>
-    <exp>慈。</exp>
+    <exp>慈愛也。</exp>
     <samp>子元元</samp>
   </def>
 </entry>
