@@ -3,5 +3,18 @@
   <def num="1">
     <noun/>
     <exp>元旦與元旦之間也。每有一春一秋。</exp>
+    <samp>今年</samp>
+    <samp>豐年</samp>
+  </def>
+  <def num="2">
+    <noun/>
+    <exp>年齡之謂也。</exp>
+    <samp>年方十五</samp>
+    <samp>芳年而夭</samp>
+  </def>
+  <def num="3">
+    <adv/>
+    <exp>語每年重複者也。</exp>
+    <samp>病者年增</samp>
   </def>
 </entry>
