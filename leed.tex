@@ -1,6 +1,6 @@
 \documentclass[a5paper,11pt]{book}
 \usepackage{luatexko}
-\usepackage[top=-10mm,left=10mm,bottom=50mm,right=10mm]{geometry}
+\usepackage[top=-10mm,left=10mm,bottom=10mm,right=10mm]{geometry}
 \usepackage{multicol}
 \usepackage{setspace}
 \usepackage{wrapfig}
@@ -32,7 +32,6 @@
 \newcommand{\cref}[1]{\textcolor{blue}{#1}}
 
 \begin{document}
-\frontmatter
 \doublespacing
 \begin{wrapfigure}{r}{50mm}
 \includegraphics[height=230mm]{cover.png}
@@ -43,13 +42,13 @@
 {\textcolor{blue}{李世鎬}\hspace{14pt}主編}
 \vspace{64pt}
 \newpage
-\addtolength{\topmargin}{20mm}
-\mainmatter
+\frontmatter
 
 \chapter*{序文}
 \doublespacing
 \input{preface.tex}
 
+\mainmatter
 \chapter*{內文}
 \begin{multicols}{3}
 \onehalfspacing
