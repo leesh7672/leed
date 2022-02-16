@@ -22,7 +22,7 @@
 \newcommand{\CJKnumber}[1]{{#1}}
 \newcommand{\explain}[2]{{$\bullet$}〔{#1}〕{#2}}
 \newcommand{\go}[2]{\\{$\bullet$}請考\textcolor{blue}{#2}。}
-\newcommand{\entry}[4]{{{{\hspace{5mm}{\textcolor{blue}{#1}}{\textsuperscript{\CJKnumber{#2}}}{#3}}}}\\}
+\newcommand{\entry}[4]{{{\par{\hspace{2mm}{\textcolor{blue}{#1}}{\textsuperscript{\CJKnumber{#2}}}{#3}}}}}
 \newcommand{\also}[1]{\\亦曰\textcolor{blue}{#1}。}
 \newcommand{\syn}[2]{通\textcolor{blue}{#1}\textsuperscript{\CJKnumber{#2}}。}
 \newcommand{\ant}[2]{對\textcolor{blue}{#1}\textsuperscript{\CJKnumber{#2}}。}
@@ -36,18 +36,18 @@
 \end{wrapfigure}
 \hfill
 \vfill
-{\Huge\textcolor{blue}{李氏漢文教學字書}}\\
+{\Huge\textcolor{blue}{李氏漢文教學字典}}\\
 {\textcolor{blue}{李世鎬}\hspace{14pt}主編}
 \vspace{64pt}
 \end{titlepage}
 
-\chapter*{序文}
+\chapter*{首}
 \doublespacing
 \input{preface.tex}
 
-\chapter*{內文}
+\chapter*{字典}
 \begin{multicols}{3}
-\onehalfspacing\\
+\onehalfspacing
 \input{leed-entries.tex}
 \end{multicols}
 
