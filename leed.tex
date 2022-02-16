@@ -1,4 +1,4 @@
-\documentclass[a5paper,11pt]{book}
+\documentclass[a5paper,11pt]{article}
 \usepackage{luatexko}
 \usepackage[top=10mm,left=10mm,bottom=10mm,right=10mm]{geometry}
 \usepackage{multicol}
@@ -8,10 +8,8 @@
 \usepackage{graphicx}
 \usepackage{etoolbox}
 \usepackage{apacite}
-\usepackage{fancyhdr}
 \usepackage{titlepage}
 
-\pagestyle{fancy}
 
 \definecolor{blue}{rgb}{0.4,0.3,0.2}
 \definecolor{deepblue}{rgb}{0.6,0.4,0.25}
@@ -44,14 +42,11 @@
 {\textcolor{blue}{李世鎬}\hspace{14pt}主編}
 \vspace{64pt}
 \end{titlepage}
-\newpage
-\frontmatter
 
 \chapter*{序文}
 \doublespacing
 \input{preface.tex}
 
-\mainmatter
 \chapter*{內文}
 \begin{multicols}{3}
 \onehalfspacing
