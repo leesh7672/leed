@@ -2,7 +2,12 @@
   <main-spell>也</main-spell>
   <def num="1">
     <infl/>
-    <exp>語發言之時維持補部所言者也。</exp>
+    <exp>語時維持補部所言者也。補以助詞組。</exp>
     <samp>風淸也</samp>
+  </def>
+  <def num="2">
+    <comp/>
+    <exp>言補部之言冠部者也。冠以指詞組、補以助詞組。</exp>
+    <samp>此魚也吾好之焉。</samp>
   </def>
 </entry>
