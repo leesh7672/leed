@@ -2,19 +2,19 @@
   <main-spell>爲</main-spell>
   <def num="1">
     <verb/>
-    <exp>語主部及賓部之當補部所語者也。</exp>
+    <exp>語主體及客體之當補部所語者也。補以指詞組。</exp>
     <samp>犬爲人之上友</samp>
     <samp>物無人獸、其相從也、爲之朋友</samp>
   </def>
   <def num="2">
     <prep/>
-    <exp>語謂部追所求之爲其賓部所言者也。</exp>
+    <exp>語主體追所求之爲補部所言者也。補以指詞組。</exp>
     <samp>爲正斥邪</samp>
     <samp>爲我之學</samp>
   </def>
   <def num="3">
     <verb/>
-    <exp>實踐賓部所語也。</exp>
+    <exp>實踐客體所語也。</exp>
     <samp>人人皆祈躬所擇者爲國事矣</samp>
   </def>
 </entry>

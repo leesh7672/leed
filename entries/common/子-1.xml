@@ -2,17 +2,22 @@
   <main-spell>子</main-spell>
   <def num="1">
     <noun/>
-    <exp>人及禽獸所生之謂也。本無陰陽、而後於人庶幾謂男兒也。</exp>
-    <samp>無子</samp>
-    <samp>張三之子</samp>
+    <exp>人及禽獸所生之謂也。無陰陽之別也。</exp>
+    <samp>彼虎有子</samp>
     <samp>子犬</samp>
   </def>
   <def num="2">
     <noun/>
+    <exp>人所生之謂也。本無陰陽之別、而後謂男兒也。</exp>
+    <samp>張三無子</samp>
+    <samp>李四之子</samp>
+  </def>
+  <def num="3">
+    <noun/>
     <exp>大人也。</exp>
     <samp>子安在</samp>
   </def>
-  <def num="3">
+  <def num="4">
     <verb/>
     <exp>慈愛也。</exp>
     <samp>子元元</samp>
