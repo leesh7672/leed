@@ -3,17 +3,16 @@
   <def num="1">
     <prep/>
     <exp>以既所語爲客體者也。莫之爲補部。</exp>
-    <samp>彼牛張三牧之也</samp>
-    <samp>鎭焉鼔之</samp>
   </def>
   <def num="2">
     <det/>
-    <exp>言冠部爲補部主體者也。冠以指詞組、而取經動詞組。</exp>
-    <samp>吾所以今存命者、徒以夜之未明而來德音也</samp>
+    <exp>言冠部有補部者也。必以指詞組爲冠部。</exp>
+    <samp>吾家之地</samp>
   </def>
   <def num="3">
-    <det/>
-    <exp>言冠部有補部者也。冠以指詞組、補以詞組。</exp>
-    <samp>吾家之地</samp>
+    <op/>
+    <exp>以輕動詞組爲補部。</exp>
+    <samp>人之夜未明而蒙德音</samp>
+    <samp>犬之不吠</samp>
   </def>
 </entry>
