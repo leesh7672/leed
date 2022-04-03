@@ -2,14 +2,9 @@
   <main-spell>曰</main-spell>
   <def num="1">
     <prep/>
-    <verb/>
     <exp>語其補部之爲他所言者也。補以名詞組。</exp>
     <samp>孔子曰苛政猛於虎</samp>
     <samp>對曰然也</samp>
-  </def>
-  <def num="2">
-    <verb/>
-    <exp>語其補部之言主體之所以名者也。補以名詞組。</exp>
     <samp>彼曰張三、此曰李四</samp>
     <samp>曰天、曰地、曰人</samp>
   </def>

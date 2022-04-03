@@ -1,17 +1,17 @@
 <entry ident="a2954799-88fd-4014-ada9-c5a37e626ef9" num="1">
   <main-spell>之</main-spell>
   <def num="1">
-    <prep/>
-    <exp>以既所語爲客體者也。莫之爲補部。</exp>
+    <det/>
+    <exp>指既所語者也。不取補部焉。</exp>
   </def>
   <def num="2">
     <det/>
-    <exp>言冠部有補部者也。必以指詞組爲冠部。</exp>
+    <exp>言冠部所語者有補部所語之物也。應以指詞組爲冠部。</exp>
     <samp>吾家之地</samp>
   </def>
   <def num="3">
     <op/>
-    <exp>以輕動詞組爲補部。</exp>
+    <exp>言以輕動詞單句爲補部也。得爲指詞組所以爲補部焉。</exp>
     <samp>人之夜未明而蒙德音</samp>
     <samp>犬之不吠</samp>
   </def>

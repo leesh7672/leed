@@ -2,12 +2,12 @@
   <main-spell>有</main-spell>
   <def num="1">
     <verb/>
-    <exp>語補部所語之在其補部所語也。</exp>
-    <samp>有錢於門中</samp>
+    <exp>語補部指詞組所語之在介詞組所語也。</exp>
+    <samp>有錢於家</samp>
   </def>
   <def num="2">
     <verb/>
-    <exp>語補部所語之在冠部所語也。</exp>
+    <exp>語補部所語在冠部所語也。</exp>
     <samp>世間有患</samp>
   </def>
 </entry>
