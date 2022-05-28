@@ -1,18 +1,12 @@
 <entry ident="a2954799-88fd-4014-ada9-c5a37e626ef9" num="1">
   <main-spell>之</main-spell>
-  <def num="1">
-    <det/>
-    <exp>以既所語爲補部、使之言客體、而刪之者也。</exp>
-  </def>
   <def num="2">
-    <det/>
-    <exp>言冠部所語者有補部所語之物也。應以連詞組爲補部、應以指詞組爲冠部。</exp>
-    <samp>吾家之地</samp>
+    <prep>
+    <exp>指詞短語爲刪時、復所以盛之者也。</exp>
   </def>
   <def num="3">
     <det/>
-    <exp>以動詞組爲補部、而引指詞組於補部、使之成冠部者也。</exp>
-    <samp>夜之未明</samp>
-    <samp>犬之不吠</samp>
+    <exp>固冠部所言之有補部所語者也。應以連詞及數詞短語爲補部、應以指詞短語爲冠部。</exp>
+    <samp>吾家之地</samp>
   </def>
 </entry>

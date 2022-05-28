@@ -2,12 +2,7 @@
   <main-spell>有</main-spell>
   <def num="1">
     <verb/>
-    <exp>語補部指詞組所語之在介詞組所語也。</exp>
-    <samp>有錢於家</samp>
-  </def>
-  <def num="2">
-    <verb/>
-    <exp>語補部所語在冠部所語也。</exp>
-    <samp>世間有患</samp>
+    <exp>語補部指詞短語所語之在介詞短語所語者也。以客體指詞短語爲冠部。</exp>
+    <samp>錢有於家</samp>
   </def>
 </entry>
