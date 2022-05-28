@@ -8,7 +8,7 @@
     </exp>
     <samp>立志不誠</samp>
     <samp>虎不食草</samp>
-    <samp>兔不之食</samp>
-    <samp>吾母不使我食火肉</samp>
+    <samp category="pol">兔不之食</samp>
+    <samp category="pol">吾母不我使食火肉</samp>
   </def>
 </entry>
