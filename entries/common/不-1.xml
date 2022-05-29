@@ -3,11 +3,15 @@
   <def num="1">
     <verb/>
     <exp>
-      否補部者也。應以動詞短語爲補部。
+      否補部所語者也。應以動詞短語爲補部。
     </exp>
     <samp category="verb">之不食</samp>
     <samp category="lv">使之不食</samp>
     <samp category="lv">鼠不之食</samp>
     <samp category="infl">鼠何以不之食乎</samp>
+  </def>
+  <def num="2">
+    <adv/>
+    <exp>否性詞所語也。</exp>
   </def>
 </entry>
