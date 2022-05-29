@@ -1,9 +1,9 @@
 <entry num="1" ident="853208e9-b1aa-4c15-a123-41ac1306ff06">
   <main-spell>所</main-spell>
   <def num="1">
-    <adv/>
-    <exp>引指詞短語、固其爲客體與其爲冠部者也。自成輕動詞短語冠部。</exp>
-    <samp category="lv">張三人人所慕</samp>
-    <samp category="lv">衆所周知</samp>
+    <noun/>
+    <exp>以補部內指詞短語爲冠部者也。以輕動詞短語爲補部焉。</exp>
+    <samp category="noun">衆所周知</samp>
+    <samp category="noun">人不所友者</samp>
   </def>
 </entry>
