@@ -3,18 +3,18 @@
   <def num="1">
     <verb/>
     <exp>言補部之語冠部者也。</exp>
-    <samp>犬爲人之上友</samp>
-    <samp>之爲寶</samp>
+    <samp category="verb">犬爲人之上友</samp>
+    <samp category="verb">之爲寶</samp>
   </def>
   <def num="2">
     <verb/>
     <exp>言補部所語者、因欲有其冠部所言也。</exp>
-    <samp>正爲斥邪</samp>
-    <samp>我爲學問</samp>
+    <samp category="verb">正爲斥邪</samp>
+    <samp category="verb">我爲學問</samp>
   </def>
   <def num="3">
     <lv/>
     <exp>自行補部所語也。</exp>
-    <samp>爲國事</samp>
+    <samp category="lv">爲國事</samp>
   </def>
 </entry>

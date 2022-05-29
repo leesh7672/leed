@@ -3,23 +3,23 @@
   <def num="1">
     <noun/>
     <exp>人及禽獸所生之謂也。不分陰陽焉。</exp>
-    <samp>彼虎有子</samp>
-    <samp>子犬</samp>
+    <samp category="verb">有子於彼虎</samp>
+    <samp category="noun">子犬</samp>
   </def>
   <def num="2">
     <noun/>
     <exp>人所生之謂也。本不分陰陽、而後謂男兒焉。</exp>
-    <samp>張三無子</samp>
-    <samp>李四之子</samp>
+    <samp category="lv">張三無子</samp>
+    <samp category="det">李四之子</samp>
   </def>
   <def num="3">
     <noun/>
     <exp>大人也。</exp>
-    <samp>子安在</samp>
+    <samp category="lv">子安在</samp>
   </def>
   <def num="4">
     <verb/>
     <exp>慈愛也。</exp>
-    <samp>子元元</samp>
+    <samp category="lv">子元元</samp>
   </def>
 </entry>

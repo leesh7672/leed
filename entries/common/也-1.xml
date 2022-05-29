@@ -4,15 +4,15 @@
     <infl/>
     <exp>
       語發言之時維持補部所言者也。
-      補部成以輕動詞及否詞短語。
-      如補部有指訮短語者、其爲發言者甚所欲語也、應以指詞短語爲冠部。
+      補部成以輕動詞短語。
+      補部如有指詞短語者、其爲發言者甚所欲語也、應以指詞短語爲冠部。
     </exp>
-    <samp>風淸也</samp>
-    <samp>余不之汚也</samp>
+    <samp category="infl">風淸也</samp>
+    <samp category="infl">君其未嘗飲酒耶</samp>
   </def>
   <def num="2">
     <comp/>
     <exp>言補部之說明冠部者也。以指詞短語爲冠部、以助詞短語爲補部。</exp>
-    <samp>此魚也吾好之也</samp>
+    <samp category="comp">此魚也吾好之焉</samp>
   </def>
 </entry>
