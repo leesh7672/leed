@@ -1,14 +1,13 @@
 <entry ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" num="1">
   <main-spell>不</main-spell>
   <def num="1">
-    <pol/>
+    <verb/>
     <exp>
-      否補部所言者也。補部成以輕動詞短語。
-      應以補部內指詞短語爲冠部。
+      否補部者也。應以動詞短語爲補部。
     </exp>
-    <samp>立志不誠</samp>
-    <samp>虎不食草</samp>
-    <samp category="pol">兔不之食</samp>
-    <samp category="pol">吾母不我使食火肉</samp>
+    <samp category="verb">之不食</samp>
+    <samp category="lv">使之不食</samp>
+    <samp category="lv">鼠不之食</samp>
+    <samp category="infl">鼠何以不之食乎</samp>
   </def>
 </entry>
