@@ -1,0 +1,23 @@
+<entry ident="747f83bb-6c05-4cd5-988a-fb569c167287" num="1">
+  <main-spell>中</main-spell>
+  <def num="1">
+    <noun/>
+    <exp>不偏於一隅者也。</exp>
+    <samp category="noun">中正</samp>
+  </def>
+  <def num="2">
+    <adj/>
+    <exp>介於兩方也。</exp>
+    <samp category="noun">中品</samp>
+  </def>
+  <def num="3">
+    <noun/>
+    <exp>懷中也。</exp>
+    <samp category="lv">此中有眞意</samp>
+  </def>
+  <def num="4">
+    <verb/>
+    <exp>射於正鵠也。</exp>
+    <samp category="comp">百發百中</samp>
+  </def>
+</entry>
