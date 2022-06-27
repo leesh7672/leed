@@ -6,7 +6,7 @@
     <samp category="noun">中正</samp>
   </def>
   <def num="2">
-    <adj/>
+    <noun/>
     <exp>介於兩方也。</exp>
     <samp category="noun">中品</samp>
   </def>
@@ -17,7 +17,7 @@
   </def>
   <def num="4">
     <verb/>
-    <exp>射於正鵠也。</exp>
+    <exp>射于正鵠也。</exp>
     <samp category="comp">百發百中</samp>
   </def>
 </entry>
