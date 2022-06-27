@@ -3,16 +3,14 @@
   <def num="1">
     <infl/>
     <exp>
-      語發言之時維持補部所言者也。
-      補部成以輕動詞短語。
-      補部如有主格指詞短語者、不爲發言者所瞪也、應以爲頭部。
+      固發言之時維持動外詞組所言者也。
     </exp>
-    <samp category="infl">風淸也</samp>
-    <samp category="infl">君其未嘗飲酒耶</samp>
+    <samp>風淸也</samp>
+    <samp>未進酒也</samp>
   </def>
   <def num="2">
     <comp/>
-    <exp>固補部之說頭部者也。以指詞短語爲頭部、以助詞短語爲補部。</exp>
-    <samp category="comp">此魚也吾好之焉</samp>
+    <exp>固助詞組說名外詞組者也。助詞組前應有名外詞組焉。</exp>
+    <samp>此魚也吾好之焉</samp>
   </def>
 </entry>

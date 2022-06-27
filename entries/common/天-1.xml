@@ -3,18 +3,18 @@
   <def num="1">
     <noun/>
     <exp>
-      水陸上所有雲・日・月・星辰所在之空也。
+      水陸之上所有雲・日・月・星辰所在之空也。
     </exp>
-    <samp category="noun">蒼天</samp>
-    <samp category="noun">天空</samp>
-    <samp category="lv">天明</samp>
+    <samp>蒼天</samp>
+    <samp>天空</samp>
+    <samp>天方明矣</samp>
   </def>
   <def num="2">
     <noun/>
     <exp>
       造物之謂也。
     </exp>
-    <samp category="noun">天命</samp>
-    <samp category="noun">天壽</samp>
+    <samp>天命</samp>
+    <samp>天壽</samp>
   </def>
 </entry>

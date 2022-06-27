@@ -1,15 +1,12 @@
 <entry ident="a2954799-88fd-4014-ada9-c5a37e626ef9" num="1">
   <main-spell>之</main-spell>
   <def num="1">
-    <det/>
-    <exp>固補部所語既爲確然者也。徒成動詞短語頭部焉。無所以爲補部。</exp>
+    <adv/>
+    <exp>以先所言爲客體者也。</exp>
   </def>
   <def num="2">
     <det/>
-    <exp>
-      固冠部所言之有補部所語者也。
-      應以連詞短語及數詞短語爲補部、應以指詞短語爲頭部。
-    </exp>
+    <exp>固量詞組所指爲名外詞組所有者也。</exp>
     <samp category="det">吾家之地</samp>
   </def>
 </entry>

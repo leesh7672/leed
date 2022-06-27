@@ -3,9 +3,9 @@
   <def num="1">
     <prep/>
     <exp>語其補部之爲他所言者也。應以連詞短語及成詞短語爲補部焉。</exp>
-    <samp category="infl">子曰、苛政猛於虎</samp>
-    <samp category="verb">之對曰然也</samp>
-    <samp category="comp">彼曰張三、此曰李四</samp>
-    <samp category="comp">曰天、曰地、曰人</samp>
+    <samp>子曰、苛政猛於虎</samp>
+    <samp>對之曰然也</samp>
+    <samp>彼曰張三、此曰李四</samp>
+    <samp>曰天、曰地、曰人</samp>
   </def>
 </entry>

@@ -2,19 +2,19 @@
   <main-spell>爲</main-spell>
   <def num="1">
     <verb/>
-    <exp>言補部之語冠部者也。</exp>
-    <samp category="verb">犬爲人之上友</samp>
-    <samp category="verb">之爲寶</samp>
+    <exp>前所有名外詞組所指之謂猶後所有名外詞組所言者也。</exp>
+    <samp>犬爲人之上友</samp>
+    <samp>爲其德寶</samp>
   </def>
   <def num="2">
     <verb/>
-    <exp>言補部所語者、因欲有其冠部所言也。</exp>
-    <samp category="verb">正爲斥邪</samp>
-    <samp category="verb">我爲學問</samp>
+    <exp>言動外詞組所語者、因欲有其名外詞組所言也。</exp>
+    <samp>爲正斥邪</samp>
+    <samp>爲我學問</samp>
   </def>
   <def num="3">
     <lv/>
-    <exp>自行補部所語也。</exp>
-    <samp category="lv">爲國事</samp>
+    <exp>自行動詞組所語也。</exp>
+    <samp>爲國事</samp>
   </def>
 </entry>

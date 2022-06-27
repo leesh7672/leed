@@ -2,19 +2,13 @@
   <main-spell>不</main-spell>
   <def num="1">
     <verb/>
-    <exp>
-      否補部所語者也。應以動詞短語爲補部。
-    </exp>
-    <samp category="verb">之不食</samp>
-    <samp category="lv">使之不食</samp>
-    <samp category="lv">鼠不之食</samp>
-    <samp category="infl">鼠何以不之食乎</samp>
-  </def>
-  <def num="2">
-    <adv/>
     <exp>否副詞句所言者也。應在副詞句前。</exp>
-    <samp category="adj">不少</samp>
-    <samp category="adj">不同</samp>
-    <samp category="lv">不好之</samp>
+    <samp>英雄其不之飯焉</samp>
+    <samp>長使之不食</samp>
+    <samp>使犬不食珍饌</samp>
+    <samp>鼠何以不之食乎</samp>
+    <samp>不少</samp>
+    <samp>不同</samp>
+    <samp>不好之</samp>
   </def>
 </entry>
