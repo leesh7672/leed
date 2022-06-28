@@ -1,13 +1,15 @@
 <entry ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" num="1">
   <main-spell>不</main-spell>
+  <def num="1">
+    <adv/>
+    <exp>（自成短語）用於否外動詞短語。</exp>
+    <samp>蓋吾儕將不識彼此焉</samp>
+    <samp>病者不少焉。</samp>
+  </def>
   <def num="2">
-    <verb/>
-    <exp>（外動詞短語前）否之者也。</exp>
-    <samp>英雄其不之飯焉</samp>
-    <samp>犬不食珍饌</samp>
-    <samp>不少</samp>
-    <samp>不同</samp>
-    <samp>不之好</samp>
-    <samp>長使之不食</samp>
+    <adv/>
+    <exp>（頻在副詞短語前）否之者也。</exp>
+    <samp>蓋爾我將不相識焉</samp>
+    <samp>不之識矣。</samp>
   </def>
 </entry>
