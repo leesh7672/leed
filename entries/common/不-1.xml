@@ -1,7 +1,11 @@
 <entry ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" num="1">
   <main-spell>不</main-spell>
-  <def num="1"><adv/><exp>（在副詞短語前）否之者也。</exp><samp>英雄其不之飯焉</samp><samp>長使之不食</samp>&gt;
-    <samp>鼠何以不之食乎</samp></def>
+  <def num="1">
+    <adv/>
+    <exp>（在副詞短語前）否之者也。</exp>
+    <samp>英雄其不之飯焉</samp>
+    <samp>鼠何以不之食乎</samp>
+  </def>
   <def num="2">
     <verb/>
     <exp>（在外動詞短語前）否之者也。</exp>
@@ -9,5 +13,6 @@
     <samp>不少</samp>
     <samp>不同</samp>
     <samp>不之好</samp>
+    <samp>長使之不食</samp>
   </def>
 </entry>
