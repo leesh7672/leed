@@ -2,18 +2,18 @@
   <main-spell>品</main-spell>
   <def num="1">
     <noun/>
-    <exp>目可所視與手可所觸。</exp>
+    <exp>目可所視與手可所觸也。</exp>
     <samp>天下之品甚盛</samp>
     <samp>張三齊品於室</samp>
   </def>
   <def num="2">
     <noun/>
-    <exp>用於等級。</exp>
+    <exp>用於等級也。</exp>
     <samp>天下一品</samp>
   </def>
   <def num="3">
     <verb/>
-    <exp>分以殊性。</exp>
+    <exp>分以殊性也。</exp>
     <samp>品之秀</samp>
   </def>
 </entry>
