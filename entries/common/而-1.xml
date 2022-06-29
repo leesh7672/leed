@@ -1,7 +1,6 @@
 <entry ident="625e0edf-d565-4a65-8922-6484f8963815" num="1">
-  <main-spell>而</main-spell>
-  <def num="1">
-    <comp/>
-    <exp>（助詞短語前，常戴成詞短語）其與成詞短語所說咸成也。時順，時逆。</exp>
+  <spell>而</spell>
+  <def category="comp" spec="comp" supp="infl" num="1">
+    其所戴所說與其所取所說咸無誤也。
   </def>
 </entry>

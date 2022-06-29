@@ -1,8 +1,7 @@
 <entry ident="574b1703-2711-4d2a-9106-68fd4a8470e7" num="1">
-  <main-spell>其</main-spell>
-  <def num="1">
-    <det/>
-    <exp>（名詞短語前）謂之猶息前所指也。</exp>
+  <spell>其</spell>
+  <def category="det" supp="noun" num="1">
+    謂其所制猶息前所指者也。
     <samp>今者其花惡乎在</samp>
   </def>
 </entry>

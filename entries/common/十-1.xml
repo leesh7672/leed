@@ -1,16 +1,10 @@
 <entry ident="4695abb1-83de-473b-a256-ffc6c6f4f535" num="1">
-  <main-spell>十</main-spell>
-  <def num="1">
-    <quant/>
-    <exp>
+  <spell>十</spell>
+  <def category="num" num="1">
       九又一也。
-    </exp>
   </def>
-  <def num="2">
-    <noun/>
-    <exp>
+  <def category="adv" num="2">
       頗甚也。
-    </exp>
     <samp>十常</samp>
     <samp>十馬飮淵中水</samp>
   </def>

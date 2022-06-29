@@ -1,25 +1,21 @@
 <entry num="1" ident="4f8ec9f5-c68b-45f6-94ae-0f7bda4bf3a3">
-  <main-spell>子</main-spell>
-  <def num="1">
-    <noun/>
-    <exp>群動所生之謂也。時無陰陽之別焉。</exp>
+  <spell>子</spell>
+  <def category="noun" num="1">
+    群動所生之謂也。無陰陽之別。
     <samp>有子於彼虎</samp>
     <samp>子犬</samp>
   </def>
-  <def num="2">
-    <noun/>
-    <exp>人所生之謂也。本不分男女、後指男兒。</exp>
+  <def category="noun" num="2">
+    人所生之謂也。本不分男女、後指男兒。
     <samp>張三無子</samp>
     <samp>李四之子</samp>
   </def>
-  <def num="3">
-    <noun/>
-    <exp>大人也。</exp>
+  <def category="noun" num="3">
+    大人也。
     <samp>子安在</samp>
   </def>
-  <def num="4">
-    <verb/>
-    <exp>慈愛也。</exp>
+  <def category="verb" num="4">
+    慈愛也。
     <samp>上子元元</samp>
   </def>
 </entry>

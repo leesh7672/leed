@@ -1,10 +1,7 @@
 <entry ident="01ab9029-a304-41a0-ad90-4e4cb548cc6a" num="1">
-  <main-spell>以</main-spell>
-  <def num="1">
-    <lv/>
-    <exp>
-      （外動詞短語前，時戴外名詞短語）其所說由外名詞短語所指者成也。
-    </exp>
-    <samp>余還未以石爲枕焉</samp>
+  <spell>以</spell>
+  <def category="verb" supp="lv" num="1">
+    起其所取者所說也。
+    <samp>余以石爲枕焉</samp>
   </def>
 </entry>

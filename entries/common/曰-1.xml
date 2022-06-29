@@ -1,10 +1,12 @@
 <entry ident="ae497ae7-15a7-4ded-9002-a64dee6198a7" num="1">
-  <main-spell>曰</main-spell>
-  <def num="1">
-    <prep/>
-    <exp>（名詞短語、成詞短語前）爲之人所言者也。</exp>
+  <spell>曰</spell>
+  <def category="prep" supp="comp" num="1">
+    人所言如其所取者也。
     <samp>子曰，苛政猛於虎</samp>
     <samp>對之曰，然也</samp>
+  </def>
+  <def category="verb" supp="noun" num="2">
+    名以其所取者也。
     <samp>彼曰張三，此曰李四</samp>
     <samp>曰天，曰地，曰人</samp>
   </def>

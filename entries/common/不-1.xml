@@ -1,14 +1,12 @@
 <entry ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" num="1">
-  <main-spell>不</main-spell>
-  <def num="1">
-    <adv/>
-    <exp>（自成短語）用於否外動詞短語。</exp>
+  <spell>不</spell>
+  <def category="verb" supp="verb" num="1">
+    否其所制。
     <samp>蓋吾儕將不識彼此焉</samp>
     <samp>病者不少焉。</samp>
   </def>
-  <def num="2">
-    <adv/>
-    <exp>（頻在副詞短語前）否之者也。</exp>
+  <def category="verb" supp="lv" num="2">
+    否其所制。常制<ref ident="a2954799-88fd-4014-ada9-c5a37e626ef9"/>
     <samp>蓋爾我將不相識焉</samp>
     <samp>不之識矣。</samp>
   </def>

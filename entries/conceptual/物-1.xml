@@ -1,8 +1,7 @@
 <entry ident="08bdd7f6-6962-45cd-8d36-92a2a428dfef" num="1">
-  <main-spell>物</main-spell>
-  <def num="1">
-    <noun/>
-    <exp>天地所有也。</exp>
-    <samp category="num">萬物</samp>
+  <spell>物</spell>
+  <def category="noun" num="1">
+    天地所有也。
+    <samp>萬物</samp>
   </def>
 </entry>

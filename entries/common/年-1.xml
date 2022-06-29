@@ -1,20 +1,17 @@
 <entry ident="b48961bc-1121-4780-8341-f30712601a2b" num="1">
-  <main-spell>年</main-spell>
-  <def num="1">
-    <noun/>
-    <exp>元旦與元旦之間也。每有一春一秋。</exp>
+  <spell>年</spell>
+  <def category="noun" num="1">
+    元旦與元旦之間也。每有一春一秋。
     <samp>豐年</samp>
     <samp>今年</samp>
   </def>
-  <def num="2">
-    <noun/>
-    <exp>年齡之謂也。</exp>
+  <def category="noun" num="2">
+    年齡之謂也。
     <samp>年方十五</samp>
     <samp>芳年而夭</samp>
   </def>
-  <def num="3">
-    <adv/>
-    <exp>語每年重複者也。</exp>
+  <def category="adv" num="3">
+    語每年重複者也。
     <samp>病者年增</samp>
   </def>
 </entry>

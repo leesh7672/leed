@@ -1,10 +1,7 @@
 <entry ident="6e24effd-f277-475e-a3c2-907a073a9852" num="1">
-  <main-spell>者</main-spell>
-  <def num="1">
-    <det/>
-    <exp>
-      （名詞短語前，必戴外動詞短語、外名詞短語）爲之其所戴所言也。
-    </exp>
+  <spell>者</spell>
+  <def category="det" spec="det" supp="+noun" num="1">
+    以其所取者名其所戴所指也。
     <samp>余手中所持者千金</samp>
   </def>
 </entry>

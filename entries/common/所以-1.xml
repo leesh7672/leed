@@ -1,8 +1,7 @@
 <entry num="1" ident="76c7a8eb-8804-471c-99c0-806548d262c4">
-  <main-spell>所以</main-spell>
-  <def num="1">
-    <noun/>
-    <exp>（動詞短語前）指其所說者之事所因也。</exp>
+  <spell>所以</spell>
+  <def category="noun" supp="verb" num="1">
+    指其所說者之事所因也。
     <samp>人之所以不友予者，以好讀書也</samp>
   </def>
 </entry>

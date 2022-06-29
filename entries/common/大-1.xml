@@ -1,23 +1,19 @@
 <entry ident="cf8ab06a-5ee7-413f-9b92-ba0aebc81acd" num="1">
-  <main-spell>大</main-spell>
-  <def num="1">
-    <verb/>
-    <exp>巨也。</exp>
+  <spell>大</spell>
+  <def category="verb" num="1">
+    巨也。
     <samp>大象</samp>
   </def>
-  <def num="2">
-    <verb/>
-    <exp>持權也。</exp>
+  <def category="verb" num="2">
+    持權也。
     <samp>大人</samp>
   </def>
-  <def num="3">
-    <verb/>
-    <exp>公然也。</exp>
+  <def category="verb" num="3">
+    公然也。
     <samp>大義</samp>
   </def>
-  <def num="4">
-    <verb/>
-    <exp>漠然也。</exp>
+  <def category="verb" num="4">
+    漠然也。
     <samp>大名</samp>
   </def>
 </entry>

@@ -1,15 +1,12 @@
 <entry ident="d620fe69-dab2-42ef-8bc5-14f4b9171fd7" num="1">
-  <main-spell>上</main-spell>
-  <def num="1">
-    <noun/>
-    <exp>與天之間也。</exp>
+  <spell>上</spell>
+  <def category="noun" num="1">
+    與天之間也。
   </def>
-  <def num="2">
-    <noun/>
-    <exp>遠壤者也。</exp>
+  <def category="noun" num="2">
+    遠壤者也。
   </def>
-  <def num="3">
-    <noun/>
-    <exp>帝王之謂也。</exp>
+  <def category="noun" num="3">
+    帝王之謂也。
   </def>
 </entry>

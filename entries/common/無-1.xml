@@ -1,13 +1,11 @@
 <entry num="1" ident="24628482-431c-4ecb-b054-0cf5e435cc9a">
-  <main-spell>無</main-spell>
-  <def num="1">
-    <verb/>
-    <exp>（時在介詞短語前）不爲其所說內有也。</exp>
+  <spell>無</spell>
+  <def category="verb" supp="+prep" num="1">
+    未在其所說內也。
     <samp>掌中無錢</samp>
     <samp>錢無於家</samp>
   </def>
-  <def num="2">
-    <verb/>
-    <exp>（外動詞短語前）不宜行其所說也。</exp>
+  <def category="verb" supp="+lv" num="2">
+    不宜行其所說也。
   </def>
 </entry>

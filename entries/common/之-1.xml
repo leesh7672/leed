@@ -1,12 +1,10 @@
 <entry ident="a2954799-88fd-4014-ada9-c5a37e626ef9" num="1">
-  <main-spell>之</main-spell>
-  <def num="1">
-    <adv/>
-    <exp>（自成短語）動詞短語所說者由息前所指也。</exp>
+  <spell>之</spell>
+  <def category="det" num="1">
+    其所取者所說由息前所指也。
   </def>
-  <def num="2">
-    <det/>
-    <exp>（名詞短語前，必戴外名詞短語）等之外名詞短語所有者也。外名詞短語置於以前。</exp>
+  <def category="det" supp="noun" spec="det" num="2">
+    使其取者所指同乎其所戴所有者也。
     <samp>吾家之地</samp>
   </def>
 </entry>

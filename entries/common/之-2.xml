@@ -1,8 +1,7 @@
 <entry ident="d5303201-533d-431b-a70e-9f6036080158" num="2">
-  <main-spell>之</main-spell>
-  <def num="1">
-    <verb/>
-    <exp>（外名詞短語前）近之也。</exp>
+  <spell>之</spell>
+  <def category="verb" num="1">
+    近行也。
     <samp>之市</samp>
     <samp>之其東</samp>
   </def>
