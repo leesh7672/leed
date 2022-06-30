@@ -1,19 +1,20 @@
 <entry ident="cf8ab06a-5ee7-413f-9b92-ba0aebc81acd" num="1">
   <spell>大</spell>
-  <def category="verb" num="1">
-    巨也。
+  <def category="verb" supp="+prep" num="1">
+    肥且重也。
     <samp>大象</samp>
+    <samp>鯨大於象</samp>
+    <samp>馬大鼠小</samp>
   </def>
   <def category="verb" num="2">
-    持權也。
+    懷高德，持權勢也。
     <samp>大人</samp>
-  </def>
-  <def category="verb" num="3">
-    公然也。
+    <samp>大君</samp>
     <samp>大義</samp>
   </def>
-  <def category="verb" num="4">
+  <def category="verb" num="3">
     漠然也。
-    <samp>大名</samp>
+    <samp>大同小異</samp>
+    <samp>德也者，萬善之大名</samp>
   </def>
 </entry>
