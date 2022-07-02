@@ -1,7 +1,12 @@
 <entry ident="a2954799-88fd-4014-ada9-c5a37e626ef9" num="1">
   <spell>之</spell>
   <def category="det" supp="noun" spec="det" num="1">
-    其所取者所指有於所戴所有之謂也。
+    指其所取者所指其所戴者所有。
     <samp>吾家之地</samp>
+  </def>
+  <def category="det" spec="lv" supp="lv" num="1">
+    指先履其所戴者所說，後行其取者所說者。
+    <samp>衆所周知</samp>
+    <samp>人所不友者</samp>
   </def>
 </entry>

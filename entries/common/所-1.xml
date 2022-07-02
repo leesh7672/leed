@@ -1,8 +1,8 @@
 <entry num="1" ident="853208e9-b1aa-4c15-a123-41ac1306ff06">
   <spell>所</spell>
-  <def category="noun" supp="verb" num="1">
+  <def category="det" epp="det" supp="lv" num="1">
     指其取者所說所及也。
     <samp>衆所周知</samp>
-    <samp>人不所友者</samp>
+    <samp>人所不友者</samp>
   </def>
 </entry>
