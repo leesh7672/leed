@@ -1,16 +1,21 @@
 <entry ident="21b4455d-a576-4a4e-a624-bd9bcc610d10" num="1">
   <spell>爲</spell>
-  <def category="verb" supp="det" num="1">
+  <def category="verb" num="1">
+    <supp category="det"/>
     謂猶其所指也。
     <samp>犬爲人之上友</samp>
     <samp>爲其德寶</samp>
   </def>
-  <def category="adv" supp="det" num="2">
+  <def num="2">
+    <on category="lv"/>
+    <supp freq="sometimes" category="det"/>
     慮其所取所指也。
     <samp>爲正斥邪</samp>
     <samp>張三爲己修學</samp>
   </def>
-  <def category="lv" spec="+det" num="3">
+  <def category="lv" num="3">
+    <supp freq="sometimes" category="spec"/>
+    <supp freq="sometimes" category="det"/>
      其所取者所說由其所戴者所指成也。
     <samp>上爲國事</samp>
   </def>

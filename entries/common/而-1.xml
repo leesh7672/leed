@@ -1,6 +1,8 @@
 <entry ident="625e0edf-d565-4a65-8922-6484f8963815" num="1">
   <spell>而</spell>
   <def category="comp" spec="comp" supp="infl" num="1">
+    <spec category="comp"/>
+    <supp category="infl"/>
     其所戴所說與其所取所說咸無誤也。
   </def>
 </entry>

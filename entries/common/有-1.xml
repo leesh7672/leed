@@ -1,6 +1,7 @@
 <entry ident="d8bcd369-7b0a-45b3-8123-83ade0110714" num="1">
   <spell>有</spell>
-  <def category="verb" supp="+prep" num="1">
+  <def category="verb" num="1">
+    <supp freq="sometimes" category="prep"/>
     具在其所取所說內也。
     <samp>掌中有錢</samp>
     <samp>錢有於家</samp>

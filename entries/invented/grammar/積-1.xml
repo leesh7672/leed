@@ -1,6 +1,7 @@
 <entry ident="a21bf936-70a0-4da4-86d7-8439c8eadc92" num="1">
   <spell>積</spell>
-  <def category="verb" spec="det" supp="+prep">
+  <def category="verb">
+    <supp freq="sometimes" category="prep"/>
     （語學）
     緣其所取者所指及其所取與所戴者也。
     若爲別詞<self/>，當在其前。

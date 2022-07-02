@@ -3,7 +3,8 @@
   <def category="num" num="1">
     承其父兄而治其國之人也。本謂天子，後語其家臣與將嗣其後者也。
   </def>
-  <def category="verb" supp="+prep" num="2">
+  <def category="verb" num="2">
+    <supp freq="sometimes" category="prep"/>
     以身爲王，治其所取所指也。
     <samp>王天下</samp>
   </def>

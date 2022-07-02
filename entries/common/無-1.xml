@@ -1,11 +1,13 @@
 <entry num="1" ident="24628482-431c-4ecb-b054-0cf5e435cc9a">
   <spell>無</spell>
-  <def category="verb" supp="+prep" num="1">
+  <def category="verb" num="1">
+    <supp freq="sometimes" category="prep"/>
     未在其所說內也。
     <samp>掌中無錢</samp>
     <samp>錢無於家</samp>
   </def>
-  <def category="verb" supp="+lv" num="2">
+  <def category="verb" num="2">
+    <supp freq="sometimes" category="lv"/>
     不宜行其所說也。
   </def>
 </entry>

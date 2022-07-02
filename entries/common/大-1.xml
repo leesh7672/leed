@@ -1,6 +1,7 @@
 <entry ident="cf8ab06a-5ee7-413f-9b92-ba0aebc81acd" num="1">
   <spell>大</spell>
-  <def category="verb" supp="+prep" num="1">
+  <def category="verb" num="1">
+    <supp freq="sometimes" category="prep"/>
     肥且重也。
     <samp>大象</samp>
     <samp>鯨大於象</samp>

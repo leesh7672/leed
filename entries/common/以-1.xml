@@ -1,7 +1,7 @@
 <entry ident="01ab9029-a304-41a0-ad90-4e4cb548cc6a" num="1">
   <spell>以</spell>
-  <def category="verb" supp="lv" num="1">
-    起其所取者所說也。
+  <def category="lv" num="1"><spec category="det"/><supp category="lv"/>
+    其所戴者所指起其所取者所說也。
     <samp>余以石爲枕焉</samp>
   </def>
 </entry>

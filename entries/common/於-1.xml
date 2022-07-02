@@ -1,14 +1,17 @@
 <entry ident="faaf5a0c-cd1b-4d8b-a9d6-289b0eaa982a" num="1">
   <spell>於</spell>
-  <def category="prep" supp="det" num="1">
+  <def category="prep" num="1">
+    <supp category="det"/>
     係其所取者猶有事之處者也。
     <samp>興於東方</samp>
   </def>
-  <def category="prep" supp="det" num="2">
+  <def category="prep" num="2">
+    <supp category="det"/>
     係其所取者猶有事之時者也。
     <samp>起於早朝</samp>
   </def>
-  <def category="prep" supp="det" num="3">
+  <def category="prep" num="3">
+    <supp category="det"/>
     係其所取者猶事之所緣也。
     <samp>遭殺於馬賊</samp>
   </def>

@@ -1,8 +1,6 @@
 <entry ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" num="1">
   <spell>不</spell>
-  <def category="lv" num="2">
-    <spec category="det"/>
-    <supp category="verb"/>
+  <def category="verb" num="2"><supp category="verb"/>
     否其所取。
     <samp>蓋吾儕將不識彼此焉</samp>
     <samp>病者不少焉。</samp>

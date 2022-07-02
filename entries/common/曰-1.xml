@@ -1,11 +1,13 @@
 <entry ident="ae497ae7-15a7-4ded-9002-a64dee6198a7" num="1">
   <spell>曰</spell>
-  <def category="prep" supp="comp" num="1">
+  <def category="prep" num="1">
+    <supp category="comp"/>
     人所言如其所取者也。
     <samp>子曰，苛政猛於虎</samp>
     <samp>對之曰，然也</samp>
   </def>
-  <def category="verb" supp="noun" num="2">
+  <def category="verb" num="2">
+    <supp category="noun"/>
     名以其所取者也。
     <samp>彼曰張三，此曰李四</samp>
     <samp>曰天，曰地，曰人</samp>
