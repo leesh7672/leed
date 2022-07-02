@@ -14,13 +14,12 @@
 
 \hanjabyhanjafont=1
 \setmainfont{Source Serif Pro}
-\setmainhangulfont[Vertical=Alternates,RawFeature=vertical]{NanumMyeongjoOTF}
+\setmainhangulfont[Vertical=Alternates,RawFeature=vertical]{Asebi Mincho Light}
 \setmainhanjafont[InterCharStretch=1pt,Vertical=Alternates,RawFeature=vertical]{Asebi Mincho Light}
 
 \newcommand{\explain}[2]{{$\bullet$}〔{#1}〕{#2}}
 \newcommand{\entry}[4]{\par\textcolor{gold}{#1}\textsuperscript{#2}{#3}}
 \newcommand{\cref}[1]{\textcolor{gold}{#1}}
-\verticaltypesetting
 \begin{document}
 \begin{titlepage}
 \doublespacing
@@ -34,6 +33,7 @@
 \vspace{64pt}
 \end{titlepage}
 \addtolength{\topmargin}{20mm}
+\begin{verticaltypesetting}
 \newpage
 \chapter*{首}
 \doublespacing
@@ -50,4 +50,5 @@
 \chapter*{謝恩}
 \doublespacing
 \input{acknowledgement.tex}
+\end{verticaltypesetting}
 \end{document}
