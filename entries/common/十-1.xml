@@ -3,9 +3,12 @@
   <def category="num" num="1">
       九又一也。
   </def>
-  <def category="adv" num="2">
+  <def category="num" num="2">
+      頗多之謂也。
+    <samp>十馬飮淵中水</samp>
+  </def>
+  <def category="adv" num="3">
       頗甚也。
     <samp>十常</samp>
-    <samp>十馬飮淵中水</samp>
   </def>
 </entry>
