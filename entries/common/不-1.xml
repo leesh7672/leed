@@ -1,12 +1,9 @@
 <entry ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" num="1">
   <spell>不</spell>
-  <def category="verb" supp="verb" num="1">
-    否其所制。
+  <def category="lv" spec="det" supp="verb" num="2">
+    否其所取。
     <samp>蓋吾儕將不識彼此焉</samp>
     <samp>病者不少焉。</samp>
-  </def>
-  <def category="verb" supp="lv" num="2">
-    否其所制。常制<ref ident="a2954799-88fd-4014-ada9-c5a37e626ef9"/>
     <samp>蓋爾我將不相識焉</samp>
     <samp>不之識矣。</samp>
   </def>
