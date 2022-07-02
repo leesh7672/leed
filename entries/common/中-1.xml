@@ -12,7 +12,8 @@
     懷中也。
     <samp>此中有眞意</samp>
   </def>
-  <def category="verb" spec="det" num="4">
+  <def category="verb" num="4">
+    <spec option="yes" category="det"/>
     至于正鵠也。
     <samp>百發百中</samp>
   </def>
