@@ -1,8 +1,8 @@
 <entry ident="d5303201-533d-431b-a70e-9f6036080158" num="2">
   <spell>之</spell>
-  <def category="verb" num="1">
-    近行也。
+  <def category="verb" supp="noun" num="1">
+    近其所取者所指而行也。
     <samp>之市</samp>
-    <samp>之其東</samp>
+    <samp>之東</samp>
   </def>
 </entry>
