@@ -1,6 +1,8 @@
 <entry ident="f576611c-e88e-4a66-9451-04fba4499bea" num="1">
   <spell>引</spell>
-  <def category="verb">
-    （語學）離於本所結，而結于其所取者所指及其所取。
+  <def category="verb" spec="det" supp="+prep">
+    （語學）
+    其所戴者離所本緣，而爲其所取者所指及其所取戴也。
+    例如<ref ident="3cf2eee9-aa48-4f44-a846-5aefac4ff9ba"/>引<quote>其花</quote>也，則成<quote>其花非</quote>。
   </def>
 </entry>

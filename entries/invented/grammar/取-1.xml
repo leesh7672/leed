@@ -1,8 +1,9 @@
 <entry ident="4d5fce1a-3dde-4d97-b56e-fc9ad9481448" num="1">
   <spell>取</spell>
-  <def category="verb">
+  <def category="verb" spec="det" supp="+prep">
     （語學）
-    直結于其所取者所指之詞也。
-    例如，<quote>其子</quote>者，<ref ident="574b1703-2711-4d2a-9106-68fd4a8470e7"/>之取<ref ident="4f8ec9f5-c68b-45f6-94ae-0f7bda4bf3a3"/>所成也。
+    其所戴者所指緣于其所取者所指也。
+    若爲別詞<self/>，庶幾在其後。
+    例如<ref ident="574b1703-2711-4d2a-9106-68fd4a8470e7"/>取<ref ident="4f8ec9f5-c68b-45f6-94ae-0f7bda4bf3a3"/>也，則成<quote>其子</quote>。
   </def>
 </entry>
