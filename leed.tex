@@ -1,6 +1,6 @@
 \documentclass[a5paper,11pt]{report}
 \usepackage{luatexko}
-\usepackage[top=-10mm,left=10mm,bottom=40mm,right=10mm]{geometry}
+\usepackage{geometry}
 \usepackage{multicol}
 \usepackage{setspace}
 \usepackage{wrapfig}
@@ -21,6 +21,7 @@
 \newcommand{\entry}[4]{\par\textcolor{gold}{#1}\textsuperscript{#2}{#3}}
 \newcommand{\cref}[1]{\textcolor{gold}{#1}}
 \begin{document}
+\geometry{top=-10mm,left=10mm,bottom=40mm,right=10mm}
 \begin{titlepage}
 \doublespacing
 \begin{wrapfigure}{r}{50mm}
@@ -36,10 +37,12 @@
 }
 \vspace{64pt}
 \end{titlepage}
-\setlength{\top}{10mm}
-\setlength{\bottom}{10mm}
-\setlength{\left}{10mm}
-\setlength{\right}{10mm}
+\geometry{
+ left=10mm,
+ right=10mm,
+ top=10mm,
+ bottom=10mm,
+}
 \newpage
 \begin{verticaltypesetting}
 \chapter*{首}
