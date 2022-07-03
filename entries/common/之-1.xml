@@ -5,9 +5,9 @@
       <supplement category="noun"/>
       <specifier category="det"/>
     </syntactics>
-    <syntactics>
-      用於人物、社團、國家所有之物。
-    </syntactics>
+    <semantics>
+      指人物、社團、國家所有之物。
+    </semantics>
     <sample>吾家之地</sample>
   </usage>
   <usage category="det" index="1">
@@ -16,9 +16,9 @@
       <specifier category="lv"/>
       <epp category="det"/>
     </syntactics>
-    <syntactics>
+    <semantics>
      履某事，而行某事之謂。
-    </syntactics>
+    </semantics>
     <sample>張三登高之望遠</sample>
   </usage>
 </entry>
