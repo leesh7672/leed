@@ -1,6 +1,6 @@
 <entry identifier="cf8ab06a-5ee7-413f-9b92-ba0aebc81acd" index="1">
   <spell>大</spell>
-  <usage category="verb">
+  <usage category="verb" index="1">
     <syntactics>
       <supplement freq="sometimes" category="prep"/>
     </syntactics>

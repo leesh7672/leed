@@ -1,6 +1,6 @@
 <entry identifier="625e0edf-d565-4a65-8922-6484f8963815" index="1">
   <spell>而</spell>
-  <usage category="comp" specifier="comp" supp="infl">
+  <usage category="comp" specifier="comp" supp="infl" index="1">
     <syntactics>
       <supplement category="infl"/>
         <specifier category="comp"/>

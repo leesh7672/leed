@@ -1,6 +1,6 @@
 <entry identifier="574b1703-2711-4d2a-9106-68fd4a8470e7" index="1">
   <spell>其</spell>
-  <usage category="det">
+  <usage category="det" index="1">
     <syntactics>
       <supplement frequency="always" category="noun"/>
     </syntactics>

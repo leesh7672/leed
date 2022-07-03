@@ -1,6 +1,6 @@
 <entry identifier="4d5fce1a-3dde-4d97-b56e-fc9ad9481448" index="1">
   <spell>友</spell>
-  <usage category="verb">
+  <usage category="verb" index="1">
     <syntactics>
       <supplement frequency="sometimes" category="prep"/>
     </syntactics>

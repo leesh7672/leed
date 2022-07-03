@@ -1,6 +1,6 @@
 <entry identifier="01ab9029-a304-41a0-ad90-4e4cb548cc6a" index="1">
   <spell>以</spell>
-  <usage category="lv">
+  <usage category="lv" index="1">
     <syntactics>
       <supplement category="lv"/>
       <specifier category="det"/>

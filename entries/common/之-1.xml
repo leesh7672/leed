@@ -1,6 +1,6 @@
 <entry identifier="a2954799-88fd-4014-ada9-c5a37e626ef9" index="1">
   <spell>之</spell>
-  <usage category="det">
+  <usage category="det" index="1">
     <syntactics>
       <supplement category="noun"/>
       <specifier category="det"/>
@@ -10,7 +10,7 @@
     </syntactics>
     <sample>吾家之地</sample>
   </usage>
-  <usage category="det">
+  <usage category="det" index="1">
     <syntactics>
       <supplement category="lv"/>
       <specifier category="lv"/>

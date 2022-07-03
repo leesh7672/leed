@@ -1,6 +1,6 @@
 <entry identifier="d8bcd369-7b0a-45b3-8123-83ade0110714" index="1">
   <spell>有</spell>
-  <usage category="verb">
+  <usage category="verb" index="1">
    <syntactics>
      <supplement freq="sometimes" category="prep"/>
    </syntactics>
