@@ -3,7 +3,7 @@
   <usage category="lv" index="1">
     <syntactics>
       <merge category="lv"/>
-      <mergeifier category="det"/>
+      <merge category="det"/>
     </syntactics>
     <semantics>
       人士、禽獸思某事之爲實。

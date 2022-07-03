@@ -1,9 +1,9 @@
 <entry identifier="625e0edf-d565-4a65-8922-6484f8963815" index="1">
   <spell>而</spell>
-  <usage category="comp" mergeifier="comp" supp="infl" index="1">
+  <usage category="comp" merge="comp" supp="infl" index="1">
     <syntactics>
       <merge category="infl"/>
-        <mergeifier category="comp"/>
+        <merge category="comp"/>
     </syntactics>
     <semantics>
       某言與某言咸立。

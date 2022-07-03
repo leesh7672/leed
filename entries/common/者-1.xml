@@ -3,7 +3,7 @@
   <usage category="det" index="1">
     <syntactics>
       <merge frequency="sometimes" category="noun"/>
-      <mergeifier category="det"/>
+      <merge category="det"/>
     </syntactics>
     <semantics>
       某言所指由某言之名。

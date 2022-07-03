@@ -23,7 +23,7 @@
   </usage>
   <usage category="lv" index="3">
     <syntactics>
-      <mergeifier freq="sometimes" category="det"/>
+      <merge freq="sometimes" category="det"/>
       <merge freq="sometimes" category="lv"/>
     </syntactics>
     <semantics>
