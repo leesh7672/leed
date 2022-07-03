@@ -6,19 +6,20 @@
       <merge category="det"/>
     </syntactics>
     <semantics>
-      指人物、社團、國家所有之物。
+      指人物、社團、國家所有。
     </semantics>
     <sample>吾家之地</sample>
   </usage>
-  <usage category="det" index="1">
+  <usage category="det" index="3">
     <syntactics>
       <merge category="lv"/>
+      <delete category="det"/>
       <merge category="lv"/>
       <epp category="det"/>
     </syntactics>
     <semantics>
       指先行某事，後行某事者。
     </semantics>
-    <sample>吾嘗跂而望矣，不如登高之博見也</sample>
+    <sample>不如登高之博見</sample>
   </usage>
 </entry>
