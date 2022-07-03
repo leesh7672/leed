@@ -24,8 +24,26 @@
       <on category="noun"/>
     </syntactics>
     <semantics>
-      至甚。
+      不善至甚。
     </semantics>
     <sample>下愚</sample>
+  </usage>
+  <usage category="verb" index="5">
+    <syntactics>
+      <supplement frequency="sometimes" category="prep"/>
+    </syntactics>
+    <semantics>
+      送金錢、物品、文章于手下之人。
+    </semantics>
+    <sample>下書</sample>
+  </usage>
+  <usage category="verb" index="5">
+    <syntactics>
+      <supplement frequency="sometimes" category="prep"/>
+    </syntactics>
+    <semantics>
+      自船、車、馬、樓離去。
+    </semantics>
+    <sample>下船</sample>
   </usage>
 </entry>
