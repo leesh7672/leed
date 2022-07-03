@@ -1,14 +1,14 @@
-<entry identifier="d689f99b-1794-421a-9039-a304b13efccd" index="1">
-  <spell>戴</spell>
+<entry identifier="f576611c-e88e-4a66-9451-04fba4499bea" index="1">
+  <spell>奪</spell>
   <usage category="verb" index="1">
     <syntactics>
       <merge frequency="sometimes" category="prep"/>
     </syntactics>
-    <semantics>
+    <syntactics>
       （語學）
-      緣某言。
-      若爲別詞<self/>，當在其前。
+      使某言離所本緣，而緣之。
+      若奪別言，應在其後。
       例如<ref identifier="3cf2eee9-aa48-4f44-a846-5aefac4ff9ba"/><self/><quote>其花</quote>也，則成<quote>其花非</quote>。
-    </semantics>
+    </syntactics>
   </usage>
 </entry>
