@@ -1,9 +1,9 @@
 <entry identifier="c4b67161-ee7a-428f-94b4-e608d223d2b7" index="1">
   <spell>品</spell>
   <usage category="noun" index="1">
-    <syntactics>
+    <semantics>
       目所可視與手所可觸。
-    </syntactics>
+    </semantics>
     <sample>天下之品甚盛</sample>
     <sample>張三齊品於室</sample>
   </usage>
