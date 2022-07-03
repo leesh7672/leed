@@ -5,7 +5,17 @@
       <before category="verb"/>
     </syntactics>
     <semantics>
-      某事及息前所指。
+      某事至于已而所指者。
     </semantics>
+    <sample>此有三魚，如之何</sample>
+  </usage>
+  <usage index="2">
+    <syntactics>
+      <before category="verb"/>
+    </syntactics>
+    <semantics>
+      某事至于將而所指者。
+    </semantics>
+    <sample>余念之，今日天氣甚暑焉</sample>
   </usage>
 </entry>
