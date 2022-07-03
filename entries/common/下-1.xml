@@ -19,7 +19,10 @@
     </semantics>
     <sample>門下</sample>
   </usage>
-  <usage on="noun" index="4">
+  <usage index="4">
+    <syntactics>
+      <on category="noun"/>
+    </syntactics>
     <semantics>
       至甚。
     </semantics>
