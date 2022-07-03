@@ -6,7 +6,7 @@
       <specifier category="det"/>
     </syntactics>
     <syntactics>
-      指其匹所指其戴所有。
+      用於人物、社團、國家所有之物。
     </syntactics>
     <sample>吾家之地</sample>
   </usage>
@@ -14,10 +14,11 @@
     <syntactics>
       <supplement category="lv"/>
       <specifier category="lv"/>
+      <epp category="det"/>
     </syntactics>
     <syntactics>
-     指先履其戴所說，後行其取者所說。
+     履某事，而行某事之謂。
     </syntactics>
-    <sample>登高之望遠</sample>
+    <sample>張三登高之望遠</sample>
   </usage>
 </entry>

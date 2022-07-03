@@ -5,18 +5,18 @@
       <supplement category="det"/>
     </syntactics>
     <semantics>
-      謂猶其匹。
+      謂猶其言。
     </semantics>
     <sample>犬爲人之上友</sample>
     <sample>爲其德寶</sample>
   </usage>
   <usage index="2">
     <syntactics>
-      <supplement freq="sometimes" category="det"/>
+      <supplement freq="always" category="lv"/>
       <on category="lv"/>
     </syntactics>
     <semantics>
-      慮其匹所指。
+      慮某事。
     </semantics>
     <sample>爲正斥邪</sample>
     <sample>張三爲己修學</sample>
@@ -27,7 +27,7 @@
       <supplement freq="sometimes" category="lv"/>
     </syntactics>
     <semantics>
-     其匹所說由其戴所指成也。
+     某事由人物成。
    </semantics>
     <sample>上爲國事</sample>
   </usage>

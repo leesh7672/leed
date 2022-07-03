@@ -5,7 +5,7 @@
       <supplement category="lv"/>
       <epp category="det"/>
     </syntactics>
-    <semantics>發言時維持其所匹所言也。</semantics>
+    <semantics>發言時維持某事。</semantics>
     <sample>風淸也</sample>
     <sample>余未進酒也</sample>
   </usage>
@@ -14,7 +14,7 @@
       <supplement category="infl"/>
       <epp frequency="always" category="det"/>
     </syntactics>
-    <semantics>使其所匹說其戴也。</semantics>
+    <semantics>係某物于其言者。</semantics>
     <sample>此魚也吾好之焉</sample>
   </usage>
   <usage category="comp" index="2">
@@ -23,7 +23,7 @@
       <epp category="det"/>
     </syntactics>
     <semantics>
-      利於其匹聞于其所戴之時。
+      係某言于其所應致者。
     </semantics>
     <sample>白也詩無敵</sample>
   </usage>
