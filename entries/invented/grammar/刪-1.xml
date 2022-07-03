@@ -1,13 +1,12 @@
 <entry identifier="f576611c-e88e-4a66-9451-04fba4499bea" index="1">
-  <spell>奪</spell>
+  <spell>刪</spell>
   <usage category="verb" index="1">
     <syntactics>
       <merge frequency="sometimes" category="prep"/>
     </syntactics>
     <syntactics>
       （語學）
-      離某言於所本緣，而緣之。
-      若奪別言，應在其後。
+      以空詞代某言。
       例如<ref identifier="3cf2eee9-aa48-4f44-a846-5aefac4ff9ba"/><self/><quote>其花</quote>也，則成<quote>其花非</quote>。
     </syntactics>
   </usage>
