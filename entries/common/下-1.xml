@@ -1,20 +1,28 @@
-<entry ident="cc918c6b-10ef-40f6-be0e-d1a11072527d" num="1">
+<entry identifier="cc918c6b-10ef-40f6-be0e-d1a11072527d" index="1">
   <spell>下</spell>
-  <def category="noun" num="1">
-    與壤之間也。
-    <samp>松下</samp>
-  </def>
-  <def category="noun" num="2">
-    裏所藏也。
-    <samp>地下</samp>
-    <samp>窗下書生不可知</samp>
-  </def>
-  <def category="noun" num="3">
-    權勢所致也。
-    <samp>門下</samp>
-  </def>
-  <def on="noun" num="4">
-    至甚也。
-    <samp>下愚</samp>
-  </def>
+  <usage category="noun">
+    <semantics>
+      與壤之間。
+    </semantics>
+    <sample>松下</sample>
+  </usage>
+  <usage category="noun" index="2">
+    <semantics>
+      裏所藏。
+    </semantics>
+    <sample>地下</sample>
+    <sample>窗下書生不可知</sample>
+  </usage>
+  <usage category="noun" index="3">
+    <semantics>
+        權勢所致。
+    </semantics>
+    <sample>門下</sample>
+  </usage>
+  <usage on="noun" index="4">
+    <semantics>
+      至甚。
+    </semantics>
+    <sample>下愚</sample>
+  </usage>
 </entry>

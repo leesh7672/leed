@@ -1,7 +1,13 @@
-<entry ident="6e24effd-f277-475e-a3c2-907a073a9852" num="1">
+<entry identifier="6e24effd-f277-475e-a3c2-907a073a9852" index="1">
   <spell>者</spell>
-  <def category="det" spec="det" supp="+noun" num="1"><spec category="noun"/><supp freq="sometimes" category="noun"/>
-    以其所取者名其所戴所指也。
-    <samp>余手中所持者千金</samp>
-  </def>
+  <usage category="det">
+    <syntactics>
+      <supplement frequency="sometimes" category="noun"/>
+      <specifier category=""/>
+    </syntactics>
+    <semantics>
+      其所戴者所指之其所取者。
+    </semantics>
+    <sample>余手中所持者千金</sample>
+  </usage>
 </entry>

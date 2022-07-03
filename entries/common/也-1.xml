@@ -1,16 +1,27 @@
-<entry ident="7acaa557-106e-4ee9-90c8-0e55923540f4" num="1">
+<entry identifier="7acaa557-106e-4ee9-90c8-0e55923540f4" index="1">
   <spell>也</spell>
-  <def category="infl" num="1"><epp category="det"/><supp category="lv"/>
-      發言時維持其所取所言也。
-    <samp>風淸也</samp>
-    <samp>余未進酒也</samp>
-  </def>
-  <def category="comp" num="2"><epp category="det"/><supp category="infl"/>
-      使其所取說其所戴者也。
-    <samp>此魚也吾好之焉</samp>
-  </def>
-  <def category="comp" num="2"><epp category="noun"/><supp category="infl"/>
-      其所取者聞于其所戴也。
-    <samp>白也詩無敵</samp>
-  </def>
+  <usage category="infl">
+    <syntactics><supplement category="lv"/><epp category="det"/></syntactics>
+    <semantics>發言時維持其所取所言也。</semantics>
+    <sample>風淸也</sample>
+    <sample>余未進酒也</sample>
+  </usage>
+  <usage category="comp" index="2">
+    <syntactics>
+      <supplement category="infl"/>
+      <epp frequency="always" category="det"/>
+    </syntactics>
+    <semantics>使其所取說其所戴者也。</semantics>
+    <sample>此魚也吾好之焉</sample>
+  </usage>
+  <usage category="comp" index="2">
+    <syntactics>
+      <supplement category="infl"/>
+      <epp category="det"/>
+    </syntactics>
+    <semantics>
+      利於其所取者聞于其所戴之時。
+    </semantics>
+    <sample>白也詩無敵</sample>
+  </usage>
 </entry>

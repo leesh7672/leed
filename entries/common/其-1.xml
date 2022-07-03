@@ -1,7 +1,12 @@
-<entry ident="574b1703-2711-4d2a-9106-68fd4a8470e7" num="1">
+<entry identifier="574b1703-2711-4d2a-9106-68fd4a8470e7" index="1">
   <spell>其</spell>
-  <def category="det" num="1"><supp category="noun"/>
-    謂其所制猶息前所指者也。
-    <samp>今者其花惡乎在</samp>
-  </def>
+  <usage category="det">
+    <syntactics>
+      <supplement frequency="always" category="noun"/>
+    </syntactics>
+    <semantics>
+      用於其所取者所指猶息前所指。
+    </semantics>
+    <sample>今者其花惡乎在</sample>
+  </usage>
 </entry>

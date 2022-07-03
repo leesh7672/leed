@@ -1,7 +1,13 @@
-<entry ident="01ab9029-a304-41a0-ad90-4e4cb548cc6a" num="1">
+<entry identifier="01ab9029-a304-41a0-ad90-4e4cb548cc6a" index="1">
   <spell>以</spell>
-  <def category="lv" num="1"><spec category="det"/><supp category="lv"/>
-    其所戴者所指起其所取者所說也。
-    <samp>余以石爲枕焉</samp>
-  </def>
+  <usage category="lv">
+    <syntactics>
+      <supplement category="lv"/>
+      <specifier category="det"/>
+    </syntactics>
+    <semantics>
+      其所戴者所指思如其所取者所說。
+    </semantics>
+    <sample>余以石爲枕焉</sample>
+  </usage>
 </entry>

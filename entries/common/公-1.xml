@@ -1,7 +1,9 @@
-<entry ident="73f1a5ac-3367-4b10-b4d8-d70d513429b6" num="1">
+<entry identifier="73f1a5ac-3367-4b10-b4d8-d70d513429b6" index="1">
   <spell>公</spell>
-  <def category="noun" num="1">
-    貴人之謂也。
-    <samp>公乎將無渡其河</samp>
-  </def>
+  <usage category="noun">
+    <semantics>
+      貴人。
+    </semantics>
+    <sample>公乎將無渡其河</sample>
+  </usage>
 </entry>

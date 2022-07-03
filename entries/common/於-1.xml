@@ -1,15 +1,30 @@
-<entry ident="faaf5a0c-cd1b-4d8b-a9d6-289b0eaa982a" num="1">
+<entry identifier="faaf5a0c-cd1b-4d8b-a9d6-289b0eaa982a" index="1">
   <spell>於</spell>
-  <def category="prep" num="1"><supp category="det"/>
-    係其所取者猶有事之處者也。
-    <samp>興於東方</samp>
-  </def>
-  <def category="prep" num="2"><supp category="det"/>
-    係其所取者猶有事之時者也。
-    <samp>起於早朝</samp>
-  </def>
-  <def category="prep" num="3"><supp category="det"/>
-    係其所取者猶事之所緣也。
-    <samp>遭殺於馬賊</samp>
-  </def>
+  <usage category="prep">
+    <syntactics>
+      <supplement category="det"/>
+    </syntactics>
+    <semantics>
+      係其所取者猶有事之處者。
+    </semantics>
+    <sample>興於東方</sample>
+  </usage>
+  <usage category="prep" index="2">
+    <syntactics>
+     <supplement category="det"/>
+    </syntactics>
+    <semantics>
+      係其所取者猶有事之時者。
+    </semantics>
+    <sample>起於早朝</sample>
+  </usage>
+  <usage category="prep" index="3">
+    <syntactics>
+      <supplement category="det"/>
+    </syntactics>
+    <semantics>
+      係其所取者猶事之所以成者。
+   </semantics>
+    <sample>遭殺於馬賊</sample>
+  </usage>
 </entry>

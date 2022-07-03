@@ -1,11 +1,23 @@
-<entry ident="a2954799-88fd-4014-ada9-c5a37e626ef9" num="1">
+<entry identifier="a2954799-88fd-4014-ada9-c5a37e626ef9" index="1">
   <spell>之</spell>
-  <def category="det" num="1"><spec category="det"/><supp category="noun"/>
-    指其所取者所指其所戴者所有。
-    <samp>吾家之地</samp>
-  </def>
-  <def category="det" num="1"><spec category="lv"/><supp category="lv"/>
-    指先履其所戴者所說，後行其取者所說。
-    <samp>登高之望遠</samp>
-  </def>
+  <usage category="det">
+    <syntactics>
+      <supplement category="noun"/>
+      <specifier category="det"/>
+    </syntactics>
+    <syntactics>
+      指其所取者所指其所戴者所有。
+    </syntactics>
+    <sample>吾家之地</sample>
+  </usage>
+  <usage category="det">
+    <syntactics>
+      <supplement category="lv"/>
+      <specifier category="lv"/>
+    </syntactics>
+    <syntactics>
+     指先履其所戴者所說，後行其取者所說。
+    </syntactics>
+    <sample>登高之望遠</sample>
+  </usage>
 </entry>

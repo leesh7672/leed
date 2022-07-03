@@ -1,6 +1,9 @@
-<entry ident="a81f26d7-b4a1-42b8-b6ab-d1b6edc8303d" num="1">
+<entry identifier="a81f26d7-b4a1-42b8-b6ab-d1b6edc8303d" index="1">
   <spell>活</spell>
-  <def category="verb" num="1"><supp category="prep"/>
-    生且動也。
-  </def>
+  <usage category="verb">
+    <syntactics>
+      <supplement category="prep"/>
+    </syntactics>
+    <semantics>生且動。</semantics>
+  </usage>
 </entry>

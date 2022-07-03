@@ -1,17 +1,34 @@
-<entry ident="21b4455d-a576-4a4e-a624-bd9bcc610d10" num="1">
+<entry identifier="21b4455d-a576-4a4e-a624-bd9bcc610d10" index="1">
   <spell>爲</spell>
-  <def category="verb" num="1"><supp category="det"/>
-    謂猶其所指也。
-    <samp>犬爲人之上友</samp>
-    <samp>爲其德寶</samp>
-  </def>
-  <def num="2"><on category="lv"/><supp freq="sometimes" category="det"/>
-    慮其所取所指也。
-    <samp>爲正斥邪</samp>
-    <samp>張三爲己修學</samp>
-  </def>
-  <def category="lv" num="3"><supp freq="sometimes" category="lv"/><supp freq="sometimes" category="det"/>
+  <usage category="verb">
+    <syntactics>
+      <supplement category="det"/>
+    </syntactics>
+    <semantics>
+      謂猶其所取者。
+    </semantics>
+    <sample>犬爲人之上友</sample>
+    <sample>爲其德寶</sample>
+  </usage>
+  <usage index="2">
+    <syntactics>
+      <supplement freq="sometimes" category="det"/>
+      <on category="lv"/>
+    </syntactics>
+    <semantics>
+      慮其所取者所指。
+    </semantics>
+    <sample>爲正斥邪</sample>
+    <sample>張三爲己修學</sample>
+  </usage>
+  <usage category="lv" index="3">
+    <syntactics>
+      <specifier freq="sometimes" category="det"/>
+      <supplement freq="sometimes" category="lv"/>
+    </syntactics>
+    <semantics>
      其所取者所說由其所戴者所指成也。
-    <samp>上爲國事</samp>
-  </def>
+   </semantics>
+    <sample>上爲國事</sample>
+  </usage>
 </entry>

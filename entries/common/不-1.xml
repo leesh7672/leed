@@ -1,10 +1,15 @@
-<entry ident="268bebf0-97dc-4cfd-a61b-1871c66de11a" num="1">
+<entry identifier="268bebf0-97dc-4cfd-a61b-1871c66de11a" index="1">
   <spell>不</spell>
-  <def category="verb" num="2"><supp category="verb"/>
-    否其所取。
-    <samp>蓋吾儕將不識彼此焉</samp>
-    <samp>病者不少焉。</samp>
-    <samp>蓋爾我將不相識焉</samp>
-    <samp>不之識矣。</samp>
-  </def>
+  <usage category="verb" index="2">
+    <syntactics>
+      <supplement category="verb"/>
+    </syntactics>
+    <semantics>
+      否其所取。
+    </semantics>
+    <sample>蓋吾儕將不識彼此焉</sample>
+    <sample>病者不少焉。</sample>
+    <sample>蓋爾我將不相識焉</sample>
+    <sample>不之識矣。</sample>
+  </usage>
 </entry>

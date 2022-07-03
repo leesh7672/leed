@@ -1,10 +1,17 @@
-<entry ident="a100a08c-3474-47ed-8b2e-d09e5b355cd4" num="1">
+<entry identifier="a100a08c-3474-47ed-8b2e-d09e5b355cd4" index="1">
   <spell>王</spell>
-  <def category="num" num="1">
-    承其父兄而治其國之人也。本謂天子，後語其家臣與將嗣其後者也。
-  </def>
-  <def category="verb" num="2"><supp freq="sometimes" category="prep"/>
-    以身爲王，治其所取所指也。
-    <samp>王天下</samp>
-  </def>
+  <usage category="noun">
+    <semantics>
+      承其父兄而治其國者。本謂天子，後指其家臣與將嗣其後。
+    </semantics>
+  </usage>
+  <usage category="verb" index="2">
+    <syntactics>
+      <supplement frequency="sometimes" category="prep"/>
+    </syntactics>
+    <semantics>
+      爲王，而治在其所取者所說者。
+    </semantics>
+    <sample>王天下</sample>
+  </usage>
 </entry>

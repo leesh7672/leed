@@ -1,19 +1,28 @@
-<entry ident="747f83bb-6c05-4cd5-988a-fb569c167287" num="1">
+<entry identifier="747f83bb-6c05-4cd5-988a-fb569c167287" index="1">
   <spell>中</spell>
-  <def category="noun" num="1">
-    不偏於一隅者也。
-    <samp>中正</samp>
-  </def>
-  <def category="noun" num="2">
-    仲於上、中、下者也。
-    <samp>中品</samp>
-  </def>
-  <def category="noun" num="3">
-    懷中也。
-    <samp>此中有眞意</samp>
-  </def>
-  <def category="verb" num="4">
-    至于正鵠也。
-    <samp>百發百中</samp>
-  </def>
+  <usage category="noun">
+    <semantics>
+      一隅不偏。
+    </semantics>
+    <sample>中國</sample>
+    <sample>中正</sample>
+  </usage>
+  <usage category="noun" index="2">
+    <semantics>
+      仲於上、中、下者。
+    </semantics>
+    <sample>中品</sample>
+  </usage>
+  <usage category="noun" index="3">
+    <semantics>
+      懷中。
+    </semantics>
+    <sample>此中有眞意</sample>
+  </usage>
+  <usage category="verb" index="4">
+    <semantics>
+      至于正鵠。
+    </semantics>
+    <sample>百發百中</sample>
+  </usage>
 </entry>

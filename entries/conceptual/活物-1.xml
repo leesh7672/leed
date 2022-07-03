@@ -1,7 +1,10 @@
-<entry ident="1dc8cd5c-e187-45a5-a842-c1fdee1f1c56" num="1">
+<entry identifier="1dc8cd5c-e187-45a5-a842-c1fdee1f1c56" index="1">
   <spell>活物</spell>
-  <def category="noun" num="1">
-    不攝不肥，然識尋其所求者也。人、禽、獸、蟲、魚之類皆是也。
-    <samp>天地活物甚盛焉</samp>
-  </def>
+  <usage category="noun">
+    <semantics>
+      不攝不肥，然識尋其所求之物。
+      人、禽、獸、蟲、魚之類。
+    </semantics>
+    <sample>天地活物甚盛焉</sample>
+  </usage>
 </entry>

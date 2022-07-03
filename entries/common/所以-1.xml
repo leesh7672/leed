@@ -1,11 +1,21 @@
-<entry num="1" ident="76c7a8eb-8804-471c-99c0-806548d262c4">
+<entry identifier="76c7a8eb-8804-471c-99c0-806548d262c4" index="1">
   <spell>所以</spell>
-  <def category="noun" num="1">
-    指其所取者所說所因也。
-    <samp>人之所以不友予者，以好讀書也</samp>
-  </def>
-  <def category="noun" supp="verb" num="2">
-    指其所取者所說所及也。
-    <samp>人人所以皆識也</samp>
-  </def>
+  <usage category="noun">
+    <syntactics>
+      <supplement category="verb"/>
+    </syntactics>
+    <semantics>
+      其所取者所說所因。
+    </semantics>
+    <sample>人之所以不友予者，以好讀書也</sample>
+  </usage>
+  <usage category="noun" index="2">
+    <syntactics>
+      <supplement category="verb"/>
+    </syntactics>
+    <semantics>
+     其所取者所說之所及。
+   </semantics>
+    <sample>人人所以皆識也</sample>
+  </usage>
 </entry>
