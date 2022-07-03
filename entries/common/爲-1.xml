@@ -2,7 +2,7 @@
   <spell>爲</spell>
   <usage category="verb" index="1">
     <syntactics>
-      <supplement category="det"/>
+      <merge category="det"/>
     </syntactics>
     <semantics>
       謂猶其言。
@@ -12,7 +12,7 @@
   </usage>
   <usage index="2">
     <syntactics>
-      <supplement freq="always" category="lv"/>
+      <merge freq="always" category="lv"/>
       <before category="lv"/>
     </syntactics>
     <semantics>
@@ -23,8 +23,8 @@
   </usage>
   <usage category="lv" index="3">
     <syntactics>
-      <specifier freq="sometimes" category="det"/>
-      <supplement freq="sometimes" category="lv"/>
+      <mergeifier freq="sometimes" category="det"/>
+      <merge freq="sometimes" category="lv"/>
     </syntactics>
     <semantics>
      某事由人物成。

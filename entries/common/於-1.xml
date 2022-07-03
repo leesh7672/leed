@@ -2,7 +2,7 @@
   <spell>於</spell>
   <usage category="prep" index="1">
     <syntactics>
-      <supplement category="det"/>
+      <merge category="det"/>
     </syntactics>
     <semantics>
       係處於事者。
@@ -11,7 +11,7 @@
   </usage>
   <usage category="prep" index="2">
     <syntactics>
-     <supplement category="det"/>
+     <merge category="det"/>
     </syntactics>
     <semantics>
       係時于事者。
@@ -20,7 +20,7 @@
   </usage>
   <usage category="prep" index="3">
     <syntactics>
-      <supplement category="det"/>
+      <merge category="det"/>
     </syntactics>
     <semantics>
       係人獸于事者。

@@ -2,7 +2,7 @@
   <spell>取戴</spell>
   <usage category="verb" index="1">
     <syntactics>
-      <supplement frequency="sometimes" category="prep"/>
+      <merge frequency="sometimes" category="prep"/>
     </syntactics>
     <syntactics>
       （語學）

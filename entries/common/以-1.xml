@@ -2,8 +2,8 @@
   <spell>以</spell>
   <usage category="lv" index="1">
     <syntactics>
-      <supplement category="lv"/>
-      <specifier category="det"/>
+      <merge category="lv"/>
+      <mergeifier category="det"/>
     </syntactics>
     <semantics>
       人士、禽獸思某事之爲實。

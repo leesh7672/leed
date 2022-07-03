@@ -2,7 +2,7 @@
   <spell>其</spell>
   <usage category="det" index="1">
     <syntactics>
-      <supplement frequency="always" category="noun"/>
+      <merge frequency="always" category="noun"/>
     </syntactics>
     <semantics>
       人士、物品、處所猶息前所指。

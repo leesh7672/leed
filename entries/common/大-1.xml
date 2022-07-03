@@ -2,7 +2,7 @@
   <spell>大</spell>
   <usage category="verb" index="1">
     <syntactics>
-      <supplement freq="sometimes" category="prep"/>
+      <merge freq="sometimes" category="prep"/>
     </syntactics>
     <semantics>肥且重。</semantics>
     <sample>大象</sample>

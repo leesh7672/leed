@@ -2,7 +2,7 @@
   <spell>不</spell>
   <usage category="verb" index="2">
     <syntactics>
-      <supplement category="verb"/>
+      <merge category="verb"/>
     </syntactics>
     <semantics>
       否某事者。

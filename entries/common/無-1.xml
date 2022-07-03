@@ -2,7 +2,7 @@
   <spell>無</spell>
   <usage category="verb" index="1">
     <syntactics>
-      <supplement freq="sometimes" category="prep"/>
+      <merge freq="sometimes" category="prep"/>
     </syntactics>
     <semantics>
       未備於某處。
@@ -12,7 +12,7 @@
   </usage>
   <usage category="verb" index="2">
     <syntactics>
-      <supplement freq="sometimes" category="lv"/>
+      <merge freq="sometimes" category="lv"/>
     </syntactics>
     <semantics>
       不宜實踐某事。利於禁止。

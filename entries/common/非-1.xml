@@ -2,7 +2,7 @@
   <spell>非</spell>
   <usage category="lv" epp="det" supp="det" index="1">
     <syntactics>
-      <supplement category="lv"/>
+      <merge category="lv"/>
       <epp category="det"/>
     </syntactics>
     <semantics>

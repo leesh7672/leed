@@ -2,8 +2,8 @@
   <spell>之</spell>
   <usage category="det" index="1">
     <syntactics>
-      <supplement category="noun"/>
-      <specifier category="det"/>
+      <merge category="noun"/>
+      <mergeifier category="det"/>
     </syntactics>
     <semantics>
       指人物、社團、國家所有之物。
@@ -12,8 +12,8 @@
   </usage>
   <usage category="det" index="1">
     <syntactics>
-      <supplement category="lv"/>
-      <specifier category="lv"/>
+      <merge category="lv"/>
+      <mergeifier category="lv"/>
       <epp category="det"/>
     </syntactics>
     <semantics>

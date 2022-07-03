@@ -21,7 +21,7 @@
   </usage>
   <usage category="verb" index="4">
     <syntactics>
-      <supplement frequency="sometimes" category="prep"/>
+      <merge frequency="sometimes" category="prep"/>
     </syntactics>
     <semantics>
       至于正鵠。

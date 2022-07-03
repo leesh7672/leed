@@ -2,7 +2,7 @@
   <spell>曰</spell>
   <usage category="prep" index="1">
     <syntactics>
-      <supplement category="comp"/>
+      <merge category="comp"/>
     </syntactics>
     <semantics>
       係某言于人者。
@@ -12,7 +12,7 @@
   </usage>
   <usage category="verb" index="2">
     <syntactics>
-      <supplement category="noun"/>
+      <merge category="noun"/>
     </syntactics>
     <semantics>
       謂猶某名。

@@ -2,7 +2,7 @@
   <spell>也</spell>
   <usage category="infl" index="1">
     <syntactics>
-      <supplement category="lv"/>
+      <merge category="lv"/>
       <epp category="det"/>
     </syntactics>
     <semantics>發言時維持某事。</semantics>
@@ -11,7 +11,7 @@
   </usage>
   <usage category="comp" index="2">
     <syntactics>
-      <supplement category="infl"/>
+      <merge category="infl"/>
       <epp frequency="always" category="det"/>
     </syntactics>
     <semantics>係某物于其言者。</semantics>
@@ -19,7 +19,7 @@
   </usage>
   <usage category="comp" index="2">
     <syntactics>
-      <supplement category="infl"/>
+      <merge category="infl"/>
       <epp category="det"/>
     </syntactics>
     <semantics>

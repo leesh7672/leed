@@ -30,7 +30,7 @@
   </usage>
   <usage category="verb" index="5">
     <syntactics>
-      <supplement frequency="sometimes" category="prep"/>
+      <merge frequency="sometimes" category="prep"/>
     </syntactics>
     <semantics>
       送金錢、物品、文章于手下之人。
@@ -39,7 +39,7 @@
   </usage>
   <usage category="verb" index="6">
     <syntactics>
-      <supplement frequency="sometimes" category="prep"/>
+      <merge frequency="sometimes" category="prep"/>
     </syntactics>
     <semantics>
       自船、車、馬、樓離去。

@@ -2,8 +2,8 @@
   <spell>者</spell>
   <usage category="det" index="1">
     <syntactics>
-      <supplement frequency="sometimes" category="noun"/>
-      <specifier category="det"/>
+      <merge frequency="sometimes" category="noun"/>
+      <mergeifier category="det"/>
     </syntactics>
     <semantics>
       某言所指由某言之名。
