@@ -18,7 +18,10 @@
     </semantics>
     <sample>上賜乞人飯</sample>
   </usage>
-  <usage on="noun" index="4">
+  <usage index="4">
+    <syntactics>
+      <on category="noun"/>
+    </syntactics>
     <semantics>
       至善。
     </semantics>
