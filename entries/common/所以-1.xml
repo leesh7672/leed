@@ -3,7 +3,6 @@
   <usage category="det" index="1">
     <syntactics>
       <merge category="lv"/>
-      <epp frequency="sometimes" category="adv"/>
       <epp frequency="always" category="det"/>
     </syntactics>
     <semantics>
@@ -14,7 +13,6 @@
   <usage category="det" index="2">
     <syntactics>
       <merge category="lv"/>
-      <epp frequency="sometimes" category="adv"/>
       <epp frequency="always" category="det"/>
     </syntactics>
     <semantics>
