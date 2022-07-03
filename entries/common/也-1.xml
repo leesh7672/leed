@@ -1,7 +1,10 @@
 <entry identifier="7acaa557-106e-4ee9-90c8-0e55923540f4" index="1">
   <spell>也</spell>
   <usage category="infl">
-    <syntactics><supplement category="lv"/><epp category="det"/></syntactics>
+    <syntactics>
+      <supplement category="lv"/>
+      <epp category="det"/>
+    </syntactics>
     <semantics>發言時維持其所取所言也。</semantics>
     <sample>風淸也</sample>
     <sample>余未進酒也</sample>
