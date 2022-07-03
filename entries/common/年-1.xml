@@ -17,7 +17,7 @@
   </usage>
   <usage index="3">
     <syntactics>
-      <on category="lv"/>
+      <before category="lv"/>
     </syntactics>
     <semantics>
       每年重複。

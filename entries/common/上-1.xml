@@ -20,7 +20,7 @@
   </usage>
   <usage index="4">
     <syntactics>
-      <on category="noun"/>
+      <before category="noun"/>
     </syntactics>
     <semantics>
       至善。

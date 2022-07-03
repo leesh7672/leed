@@ -2,7 +2,7 @@
   <spell>之</spell>
   <usage index="1">
     <syntactics>
-      <on category="verb"/>
+      <before category="verb"/>
     </syntactics>
     <semantics>
       某事及息前所指。

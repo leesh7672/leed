@@ -13,7 +13,7 @@
   <usage index="2">
     <syntactics>
       <supplement freq="always" category="lv"/>
-      <on category="lv"/>
+      <before category="lv"/>
     </syntactics>
     <semantics>
       慮某事。
