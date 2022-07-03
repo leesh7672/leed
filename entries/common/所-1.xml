@@ -1,13 +1,15 @@
 <entry identifier="853208e9-b1aa-4c15-a123-41ac1306ff06" index="1">
   <spell>所</spell>
-  <usage category="noun" index="1">
+  <usage category="det" index="1">
     <syntactics>
       <merge category="lv"/>
+      <epp frequency="sometimes" category="adv"/>
+      <epp frequency="always" category="det"/>
     </syntactics>
     <semantics>
       某事之所及。
     </semantics>
     <sample>衆所周知</sample>
-    <sample>人所不友者</sample>
+    <sample>人皆所不友者</sample>
   </usage>
 </entry>

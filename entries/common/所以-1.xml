@@ -1,17 +1,21 @@
 <entry identifier="76c7a8eb-8804-471c-99c0-806548d262c4" index="1">
   <spell>所以</spell>
-  <usage category="noun" index="1">
+  <usage category="det" index="1">
     <syntactics>
       <merge category="lv"/>
+      <epp frequency="sometimes" category="adv"/>
+      <epp frequency="always" category="det"/>
     </syntactics>
     <semantics>
       某事之所因。
     </semantics>
-    <sample>人之所以不友予者，以好讀書也</sample>
+    <sample>人所以皆不友予者，以好讀書也</sample>
   </usage>
-  <usage category="noun" index="2">
+  <usage category="det" index="2">
     <syntactics>
       <merge category="lv"/>
+      <epp frequency="sometimes" category="adv"/>
+      <epp frequency="always" category="det"/>
     </syntactics>
     <semantics>
      某事之所及。
