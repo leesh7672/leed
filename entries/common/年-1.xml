@@ -10,14 +10,17 @@
   </usage>
   <usage category="noun" index="2">
     <semantics>
-      年齡之謂也。
+      年齡。
     </semantics>
     <sample>年方十五</sample>
     <sample>芳年而夭</sample>
   </usage>
-  <usage index="3"><syntactics><on category="adv"/></syntactics>
+  <usage index="3">
+    <syntactics>
+      <on category="lv"/>
+    </syntactics>
     <semantics>
-      語每年重複者也。
+      每年重複。
     </semantics>
     <sample>病者年增</sample>
   </usage>
