@@ -3,7 +3,7 @@
   <usage category="det" index="1">
     <syntactics>
       <merge category="noun"/>
-      <mergeifier category="det"/>
+      <merge category="det"/>
     </syntactics>
     <semantics>
       指人物、社團、國家所有之物。
@@ -13,7 +13,7 @@
   <usage category="det" index="1">
     <syntactics>
       <merge category="lv"/>
-      <mergeifier category="lv"/>
+      <merge category="lv"/>
       <epp category="det"/>
     </syntactics>
     <semantics>
