@@ -3,7 +3,7 @@
   <usage category="det" index="1">
     <syntactics>
       <merge category="lv"/>
-      <epp frequency="always" category="det"/>
+      <move frequency="always" category="det"/>
     </syntactics>
     <semantics>
       某事之所因。
@@ -13,7 +13,7 @@
   <usage category="det" index="2">
     <syntactics>
       <merge category="lv"/>
-      <epp frequency="always" category="det"/>
+      <move frequency="always" category="det"/>
     </syntactics>
     <semantics>
      某事之所及。

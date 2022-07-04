@@ -3,7 +3,7 @@
   <usage category="infl" index="1">
     <syntactics>
       <merge word-order="beforehand" category="lv"/>
-      <epp category="det"/>
+      <move category="det"/>
     </syntactics>
     <semantics>維持某事。</semantics>
     <sample>風淸也</sample>
@@ -12,7 +12,7 @@
   <usage category="comp" index="2">
     <syntactics>
       <merge category="infl"/>
-      <epp frequency="always" category="det"/>
+      <move frequency="always" category="det"/>
     </syntactics>
     <semantics>係某物于其言者。</semantics>
     <sample>此魚也吾好之焉</sample>
@@ -20,7 +20,7 @@
   <usage category="comp" index="2">
     <syntactics>
       <merge category="infl"/>
-      <epp category="det"/>
+      <move category="det"/>
     </syntactics>
     <semantics>
       係某言于其所應致者。

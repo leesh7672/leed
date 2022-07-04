@@ -13,7 +13,7 @@
   <usage category="det" index="2">
     <syntactics>
       <merge category="lv"/>
-      <epp category="det"/>
+      <move category="det"/>
     </syntactics>
     <semantics>
       指有某事。
@@ -25,7 +25,7 @@
       <merge category="lv"/>
       <delete category="det"/>
       <merge category="lv"/>
-      <epp category="det"/>
+      <move category="det"/>
     </syntactics>
     <semantics>
       指先行某事，後行某事者。

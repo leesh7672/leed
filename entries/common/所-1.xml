@@ -3,8 +3,8 @@
   <usage category="det" index="1">
     <syntactics>
       <merge category="lv"/>
-      <epp frequency="sometimes" category="adv"/>
-      <epp frequency="always" category="det"/>
+      <move frequency="sometimes" category="adv"/>
+      <move frequency="always" category="det"/>
     </syntactics>
     <semantics>
       某事之所及。
