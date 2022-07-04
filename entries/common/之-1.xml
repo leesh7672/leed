@@ -10,6 +10,16 @@
     </semantics>
     <sample>吾家之地</sample>
   </usage>
+  <usage category="det" index="2">
+    <syntactics>
+      <merge category="lv"/>
+      <epp category="det"/>
+    </syntactics>
+    <semantics>
+      指有某事。
+    </semantics>
+    <sample>君之敵我</sample>
+  </usage>
   <usage category="det" index="3">
     <syntactics>
       <merge category="lv"/>
