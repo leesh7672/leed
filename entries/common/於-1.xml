@@ -7,7 +7,7 @@
       <merge frequency="sometimes" category="det"/>
     </syntactics>
     <semantics>
-      人士、禽獸、物品、事態在某處。
+      人士、禽獸、物品、事態在處地。
     </semantics>
     <sample>有犬於家</sample>
     <sample>本國興於東方</sample>
@@ -17,7 +17,7 @@
      <merge category="det"/>
     </syntactics>
     <semantics>
-      某事立以某時。
+      某事立以時刻。
     </semantics>
     <sample>起於早朝</sample>
   </usage>
