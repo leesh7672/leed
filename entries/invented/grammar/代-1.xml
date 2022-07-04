@@ -1,12 +1,12 @@
-<entry index="1" identifier="3c9156d2-8433-40aa-b89c-92650554273a">
-  <spell>奪衣</spell>
+<entry index="1" identifier="023d0c0a-4a77-48ef-a969-eae458877034">
+  <spell>代</spell>
   <usage category="verb" index="1">
     <syntactics>
       <merge frequency="sometimes" category="prep"/>
     </syntactics>
     <semantics>
       （語學）
-      奪某言，而衣之。
+      文字因故而變。
     </semantics>
   </usage>
 </entry>
