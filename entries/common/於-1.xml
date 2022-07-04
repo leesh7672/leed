@@ -2,19 +2,22 @@
   <spell>於</spell>
   <usage category="prep" index="1">
     <syntactics>
+      <omittable/>
       <merge category="det"/>
+      <merge frequency="sometimes" category="det"/>
     </syntactics>
     <semantics>
-      係處於事者。
+      人士、禽獸、物品、事態在某處。
     </semantics>
-    <sample>興於東方</sample>
+    <sample>有犬於家</sample>
+    <sample>本國興於東方</sample>
   </usage>
   <usage category="prep" index="2">
     <syntactics>
      <merge category="det"/>
     </syntactics>
     <semantics>
-      係時于事者。
+      某事立以某時。
     </semantics>
     <sample>起於早朝</sample>
   </usage>
@@ -23,7 +26,7 @@
       <merge category="det"/>
     </syntactics>
     <semantics>
-      係人獸于事者。
+      某事爲人士、禽獸、機械所行。
    </semantics>
     <sample>遭殺於馬賊</sample>
   </usage>
