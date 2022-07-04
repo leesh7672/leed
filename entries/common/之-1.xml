@@ -16,7 +16,7 @@
       <move category="det"/>
     </syntactics>
     <semantics>
-      指有某事。
+      指所有事。
     </semantics>
     <sample>君之敵我</sample>
   </usage>
@@ -28,7 +28,7 @@
       <move category="det"/>
     </syntactics>
     <semantics>
-      指先行某事，後行某事者。
+      指先行某事，後行某事。
     </semantics>
     <sample>不如登高之博見</sample>
   </usage>
