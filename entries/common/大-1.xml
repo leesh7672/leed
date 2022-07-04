@@ -20,7 +20,7 @@
   </usage>
   <usage category="adv" index="3">
     <syntactics>
-      <before frequency="sometimes" category="noun">
+      <before frequency="sometimes" category="noun"/>
     </syntactics>
     <semantics>
       漠然。
