@@ -2,20 +2,13 @@
   <spell>也</spell>
   <usage category="infl" index="1">
     <syntactics>
+      <omittable/>
       <merge word-order="beforehand" category="lv"/>
       <move category="det"/>
     </syntactics>
-    <semantics>維持某事。</semantics>
+    <semantics>未畢先所始之事。</semantics>
     <sample>風淸也</sample>
-    <sample>余未進酒也</sample>
-  </usage>
-  <usage category="comp" index="2">
-    <syntactics>
-      <merge category="infl"/>
-      <move frequency="always" category="det"/>
-    </syntactics>
-    <semantics>係某物于其言者。</semantics>
-    <sample>此魚也吾好之焉</sample>
+    <sample>余未能進酒也</sample>
   </usage>
   <usage category="comp" index="2">
     <syntactics>
@@ -23,7 +16,7 @@
       <move category="det"/>
     </syntactics>
     <semantics>
-      係某言于其所應致者。
+      呼應聞某言者。
     </semantics>
     <sample>白也詩無敵</sample>
   </usage>
