@@ -9,15 +9,19 @@
     <sample>鯨大於象</sample>
     <sample>馬大鼠小</sample>
   </usage>
-  <usage category="verb" index="2">
+  <usage category="noun" index="2">
     <semantics>
-      懷高德，持權勢。
+      懷高德，持權勢者。
     </semantics>
+    <sample>事大</sample>
     <sample>大人</sample>
     <sample>大君</sample>
     <sample>大義</sample>
   </usage>
-  <usage category="verb" index="3">
+  <usage category="adv" index="3">
+    <syntactics>
+      <before frequency="sometimes" category="noun">
+    </syntactics>
     <semantics>
       漠然。
     </semantics>
