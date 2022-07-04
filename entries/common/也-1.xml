@@ -2,7 +2,6 @@
   <spell>也</spell>
   <usage category="infl" index="1">
     <syntactics>
-      <omittable/>
       <merge word-order="beforehand" category="lv"/>
       <move category="det"/>
     </syntactics>
@@ -17,8 +16,9 @@
       <move category="det"/>
     </syntactics>
     <semantics>
-      某言係於某物。
+      係言于物。
     </semantics>
     <sample>白也詩無敵</sample>
+    <sample>夫人今何爲<also>夫人也今何爲</also></sample>
   </usage>
 </entry>
