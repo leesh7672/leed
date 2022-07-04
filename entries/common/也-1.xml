@@ -10,7 +10,7 @@
     <sample>余未能進酒也</sample>
   </usage>
   <usage category="comp" index="2">
-    <syntactics>>
+    <syntactics>
       <omittable/>
       <merge category="infl"/>
       <move category="det"/>
