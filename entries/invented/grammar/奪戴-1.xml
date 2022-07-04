@@ -1,12 +1,12 @@
-<entry identifier="1e28007c-baf3-45ef-bff5-eab7b6ae8c94" index="1">
-  <spell>奪</spell>
+<entry identifier="f576611c-e88e-4a66-9451-04fba4499bea" index="1">
+  <spell>奪戴</spell>
   <usage category="verb" index="1">
     <syntactics>
       <merge frequency="sometimes" category="prep"/>
     </syntactics>
     <semantics>
       （語學）
-      使某言離所本緣。
+      奪某言，而戴之。
     </semantics>
   </usage>
 </entry>

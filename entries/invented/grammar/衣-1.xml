@@ -1,12 +1,12 @@
-<entry identifier="1e28007c-baf3-45ef-bff5-eab7b6ae8c94" index="1">
-  <spell>奪</spell>
+<entry index="1" identifier="023d0c0a-4a77-48ef-a969-eae458877034">
+  <spell>衣</spell>
   <usage category="verb" index="1">
     <syntactics>
       <merge frequency="sometimes" category="prep"/>
     </syntactics>
     <semantics>
       （語學）
-      使某言離所本緣。
+      文字變成某言。
     </semantics>
   </usage>
 </entry>
