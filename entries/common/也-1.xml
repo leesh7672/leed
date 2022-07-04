@@ -2,10 +2,10 @@
   <spell>也</spell>
   <usage category="infl" index="1">
     <syntactics>
-      <merge category="lv"/>
+      <merge word-order="beforehand" category="lv"/>
       <epp category="det"/>
     </syntactics>
-    <semantics>發言時維持某事。</semantics>
+    <semantics>維持某事。</semantics>
     <sample>風淸也</sample>
     <sample>余未進酒也</sample>
   </usage>
