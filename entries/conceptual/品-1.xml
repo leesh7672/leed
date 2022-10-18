@@ -1,25 +1,16 @@
 <entry identifier="c4b67161-ee7a-428f-94b4-e608d223d2b7" index="1">
   <spell>品</spell>
   <usage category="noun" index="1">
-    <semantics>
       目所可視與手所可觸。
-    </semantics>
     <sample>天下之品甚盛</sample>
     <sample>張三齊品於室</sample>
   </usage>
   <usage category="noun" index="2">
-    <semantics>
-      品等。
-    </semantics>
+    品等
     <sample>天下一品</sample>
   </usage>
   <usage category="verb" index="3">
-    <syntactics>
-      <supp freq="sometimes" category="prep"/>
-    </syntactics>
-    <semantics>
-      分以品等。
-    </semantics>
+    分以品等。
     <sample>品之秀</sample>
   </usage>
 </entry>
