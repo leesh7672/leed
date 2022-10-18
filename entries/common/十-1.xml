@@ -1,23 +1,14 @@
 <entry identifier="4695abb1-83de-473b-a256-ffc6c6f4f535" index="1">
   <spell>十</spell>
   <usage category="num" index="1">
-      <semantics>
-        九又一。
-      </semantics>
+    九又一。
   </usage>
   <usage category="num" index="2">
-    <semantics>
-      頗多。
-    </semantics>
-    <sample>十馬飮淵中水</sample>
+    頗多。
+    <sample>十馬飮水</sample>
   </usage>
-  <usage index="3">
-    <syntactics>
-      <before category="lv"/>
-    </syntactics>
-    <semantics>
-      頗甚。
-    </semantics>
+  <usage category="adv" index="3">
+    頗甚。
     <sample>十常</sample>
   </usage>
 </entry>

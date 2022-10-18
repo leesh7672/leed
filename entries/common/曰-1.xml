@@ -1,22 +1,12 @@
 <entry identifier="ae497ae7-15a7-4ded-9002-a64dee6198a7" index="1">
   <spell>曰</spell>
   <usage category="prep" index="1">
-    <syntactics>
-      <merge category="comp"/>
-    </syntactics>
-    <semantics>
-      係某言于人者。
-    </semantics>
+    用於人之所言。
     <sample>子曰，苛政猛於虎</sample>
     <sample>對之曰，然也</sample>
   </usage>
   <usage category="verb" index="2">
-    <syntactics>
-      <merge category="noun"/>
-    </syntactics>
-    <semantics>
-      謂猶某名。
-    </semantics>
+    謂猶某名。
     <sample>彼曰張三，此曰李四</sample>
     <sample>曰天，曰地，曰人</sample>
   </usage>

@@ -1,12 +1,7 @@
 <entry identifier="d8bcd369-7b0a-45b3-8123-83ade0110714" index="1">
   <spell>有</spell>
   <usage category="verb" index="1">
-   <syntactics>
-     <merge freq="sometimes" category="prep"/>
-   </syntactics>
-   <semantics>
      具在某處內。
-   </semantics>
     <sample>掌中有錢</sample>
     <sample>錢有於家</sample>
   </usage>

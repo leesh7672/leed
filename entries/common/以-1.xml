@@ -1,13 +1,7 @@
 <entry identifier="01ab9029-a304-41a0-ad90-4e4cb548cc6a" index="1">
   <spell>以</spell>
-  <usage category="lv" index="1">
-    <syntactics>
-      <merge category="lv"/>
-      <merge category="det"/>
-    </syntactics>
-    <semantics>
-      人士、禽獸思某事之爲實。
-    </semantics>
+  <usage category="prep" index="1">
+    用於指所用之物。
     <sample>余以石爲枕焉</sample>
   </usage>
 </entry>

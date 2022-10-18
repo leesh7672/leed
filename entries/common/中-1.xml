@@ -1,31 +1,20 @@
 <entry identifier="747f83bb-6c05-4cd5-988a-fb569c167287" index="1">
   <spell>中</spell>
   <usage category="noun" index="1">
-    <semantics>
-      一隅不偏。
-    </semantics>
+    一隅不偏。
     <sample>中國</sample>
     <sample>中正</sample>
   </usage>
   <usage category="noun" index="2">
-    <semantics>
-      上、中、下三等之二。
-    </semantics>
+    上、中、下三等之二。
     <sample>中品</sample>
   </usage>
   <usage category="noun" index="3">
-    <semantics>
-      懷中。
-    </semantics>
+    懷中。
     <sample>此中有眞意</sample>
   </usage>
   <usage category="verb" index="4">
-    <syntactics>
-      <merge frequency="sometimes" category="prep"/>
-    </syntactics>
-    <semantics>
-      至于正鵠。
-    </semantics>
+    致箭于正鵠。
     <sample>百發百中</sample>
   </usage>
 </entry>

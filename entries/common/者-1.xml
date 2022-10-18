@@ -1,13 +1,9 @@
 <entry identifier="6e24effd-f277-475e-a3c2-907a073a9852" index="1">
   <spell>者</spell>
-  <usage category="det" index="1">
-    <syntactics>
-      <merge frequency="sometimes" category="noun"/>
-      <merge category="det"/>
-    </syntactics>
+  <usage category="noun" index="1">
     <semantics>
-      某言所指某物之名。
+      某言所指。
     </semantics>
-    <sample>余手中所持者千金</sample>
+    <sample>余手中所持者</sample>
   </usage>
 </entry>

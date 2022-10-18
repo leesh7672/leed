@@ -1,34 +1,17 @@
 <entry identifier="21b4455d-a576-4a4e-a624-bd9bcc610d10" index="1">
   <spell>爲</spell>
   <usage category="verb" index="1">
-    <syntactics>
-      <merge category="det"/>
-    </syntactics>
-    <semantics>
-      謂猶其言。
-    </semantics>
+    謂猶某言。
     <sample>犬爲人之上友</sample>
     <sample>爲其德寶</sample>
   </usage>
-  <usage index="2">
-    <syntactics>
-      <merge freq="always" category="lv"/>
-      <before category="lv"/>
-    </syntactics>
-    <semantics>
-      慮某事。
-    </semantics>
+  <usage category="verb" index="2">
+    思慮某事、某人、某物。
     <sample>爲正斥邪</sample>
     <sample>張三爲己修學</sample>
   </usage>
-  <usage category="lv" index="3">
-    <syntactics>
-      <merge freq="sometimes" category="det"/>
-      <merge freq="sometimes" category="lv"/>
-    </syntactics>
-    <semantics>
-     某事由人物成。
-   </semantics>
+  <usage category="verb" index="3">
+     實踐其事。
     <sample>上爲國事</sample>
   </usage>
 </entry>

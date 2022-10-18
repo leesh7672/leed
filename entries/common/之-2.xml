@@ -1,12 +1,7 @@
 <entry identifier="d5303201-533d-431b-a70e-9f6036080158" index="2">
   <spell>之</spell>
   <usage category="verb" index="1">
-    <syntactics>
-      <merge category="noun"/>
-    </syntactics>
-    <semantics>
-      近處而行也。
-    </semantics>
+    近處而行也。
     <sample>之市</sample>
     <sample>之東</sample>
   </usage>

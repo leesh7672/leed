@@ -1,35 +1,16 @@
 <entry identifier="a2954799-88fd-4014-ada9-c5a37e626ef9" index="1">
   <spell>之</spell>
   <usage category="det" index="1">
-    <syntactics>
-      <merge category="noun"/>
-      <merge category="det"/>
-    </syntactics>
-    <semantics>
-      指人物、社團、國家所有。
-    </semantics>
+    用於國、家、人、物所有之物。
     <sample>吾家之地</sample>
+    <sample>塞翁之馬</sample>
   </usage>
   <usage category="det" index="2">
-    <syntactics>
-      <merge category="lv"/>
-      <move category="det"/>
-    </syntactics>
-    <semantics>
-      指所有事。
-    </semantics>
-    <sample>君之敵我</sample>
+    用於國、家、人、物所有之事。
+    <sample>君之不敵我</sample>
   </usage>
   <usage category="det" index="3">
-    <syntactics>
-      <merge category="lv"/>
-      <delete category="det"/>
-      <merge category="lv"/>
-      <move category="det"/>
-    </syntactics>
-    <semantics>
-      指先行某事，後行某事。
-    </semantics>
-    <sample>不如登高之博見</sample>
+    指行某事而行某事。
+    <sample>登高之博見</sample>
   </usage>
 </entry>

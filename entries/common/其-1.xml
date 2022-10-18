@@ -1,12 +1,11 @@
 <entry identifier="574b1703-2711-4d2a-9106-68fd4a8470e7" index="1">
   <spell>其</spell>
   <usage category="det" index="1">
-    <syntactics>
-      <merge frequency="always" category="noun"/>
-    </syntactics>
-    <semantics>
-      人士、物品、處所猶息前所指。
-    </semantics>
-    <sample>今者其花惡乎在</sample>
+    用於復指所嘗指。
+    <sample>吾昨夜固觀梅花於此，今日其花惡乎在</sample>
+  </usage>
+  <usage category="adv" index="1">
+    用於我身所料。
+    <sample>魚其息於水中乎。</sample>
   </usage>
 </entry>

@@ -1,24 +1,13 @@
 <entry identifier="7acaa557-106e-4ee9-90c8-0e55923540f4" index="1">
   <spell>也</spell>
   <usage category="infl" index="1">
-    <syntactics>
-      <merge word-order="beforehand" category="lv"/>
-      <move category="det"/>
-    </syntactics>
-    <semantics>未畢先所始之事。</semantics>
+    用於自古至今之事。
     <sample>風淸也</sample>
     <sample>余未能進酒也</sample>
   </usage>
-  <usage category="comp" index="2">
-    <syntactics>
-      <omittable/>
-      <merge category="infl"/>
-      <move category="det"/>
-    </syntactics>
-    <semantics>
-      係言于物。
-    </semantics>
+  <usage category="infl" index="2">
+    用於呼人。
     <sample>白也詩無敵</sample>
-    <sample>夫人今何爲<also>夫人也今何爲</also></sample>
+    <sample>天也，何必棄我乎。</sample>
   </usage>
 </entry>

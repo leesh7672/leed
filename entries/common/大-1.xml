@@ -1,27 +1,19 @@
 <entry identifier="cf8ab06a-5ee7-413f-9b92-ba0aebc81acd" index="1">
   <spell>大</spell>
   <usage category="verb" index="1">
-    <syntactics>
-      <merge freq="sometimes" category="prep"/>
-    </syntactics>
-    <semantics>肥且重。</semantics>
+    肥且重。
     <sample>大象</sample>
     <sample>鯨大於象</sample>
     <sample>馬大鼠小</sample>
   </usage>
   <usage category="noun" index="2">
-    <semantics>
-      懷高德，持權勢者。
-    </semantics>
+    懷高德，而持權勢者。
     <sample>事大</sample>
     <sample>大人</sample>
     <sample>大君</sample>
     <sample>大義</sample>
   </usage>
   <usage category="adv" index="3">
-    <syntactics>
-      <before frequency="sometimes" category="noun"/>
-    </syntactics>
     <semantics>
       漠然。
     </semantics>

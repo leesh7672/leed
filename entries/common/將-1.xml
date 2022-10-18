@@ -1,18 +1,12 @@
 <entry identifier="15fbd38e-1947-47ee-8e7e-e28dae47e51d" index="1">
   <spell>將</spell>
   <usage category="adv" index="1">
-    <semantics>
-      用於所未及之時，便所成事。
-    </semantics>
+    用於所未及之時，便所成事。
     <sample>借問公將進酒與</sample>
   </usage>
-  <usage category="lv" index="2">
-    <syntactics>
-      <merge category="lv"/>
-      <merge category="det"/>
-    </syntactics>
+  <usage category="verb" index="2">
     <semantics>
-      勸勉。
+      用於勸勉。
     </semantics>
     <sample>
       將君讀書

@@ -1,33 +1,12 @@
 <entry identifier="faaf5a0c-cd1b-4d8b-a9d6-289b0eaa982a" index="1">
   <spell>於</spell>
   <usage category="prep" index="1">
-    <syntactics>
-      <omittable/>
-      <merge category="det"/>
-      <merge frequency="sometimes" category="det"/>
-    </syntactics>
-    <semantics>
-      人士、禽獸、物品、事態在處地。
-    </semantics>
+    用於指人士、禽獸、物品、事態所在。
     <sample>有犬於家</sample>
     <sample>本國興於東方</sample>
   </usage>
   <usage category="prep" index="2">
-    <syntactics>
-     <merge category="det"/>
-    </syntactics>
-    <semantics>
-      某事立以時刻。
-    </semantics>
-    <sample>起於早朝</sample>
-  </usage>
-  <usage category="prep" index="3">
-    <syntactics>
-      <merge category="det"/>
-    </syntactics>
-    <semantics>
-      某事爲人士、禽獸、機械所行。
-   </semantics>
+    用於起事之人物。
     <sample>遭殺於馬賊</sample>
   </usage>
 </entry>

@@ -1,24 +1,15 @@
 <entry identifier="73f1a5ac-3367-4b10-b4d8-d70d513429b6" index="1">
   <spell>公</spell>
   <usage category="noun" index="1">
-    <semantics>
-      貴人。
-    </semantics>
+    大人。
     <sample>公乎將無渡其河</sample>
   </usage>
-  <usage index="2">
-    <syntactics>
-      <before category="noun"/>
-    </syntactics>
-    <semantics>
-      官廳所經。
-    </semantics>
+  <usage category="noun" index="2">
+    官廳所經。
     <sample>公園</sample>
   </usage>
   <usage category="noun" index="3">
-    <semantics>
-      大人所應事。
-    </semantics>
+    大人所應事。
     <sample>奉公斥私</sample>
   </usage>
 </entry>

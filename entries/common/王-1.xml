@@ -1,17 +1,10 @@
 <entry identifier="a100a08c-3474-47ed-8b2e-d09e5b355cd4" index="1">
   <spell>王</spell>
   <usage category="noun" index="1">
-    <semantics>
       承其父兄而治其國者。本謂天子，後指其家臣與將嗣其後。
-    </semantics>
   </usage>
   <usage category="verb" index="2">
-    <syntactics>
-      <merge frequency="sometimes" category="prep"/>
-    </syntactics>
-    <semantics>
-      身爲王，而治在其匹所說者。
-    </semantics>
+    身爲王，而治在其匹所說者。
     <sample>王天下</sample>
   </usage>
 </entry>
