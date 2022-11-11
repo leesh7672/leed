@@ -1,10 +1,15 @@
-<entry spell="不" category="lv" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+<entry spell="不" category="Neg" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
 否名詞組所言之行動字組之所言.
-<xp category="lv">
-<xp category="det">犬</xp>
+<xp category="V">
 <xbar>
 <x>不</x>
-<xp category="v">之食於目下</xp>
+<xp category="Neg" mode="auto">
+<xp category="D">之</xp>
+<xbar>
+<x><cancel>不</cancel></x>
+<xp category="V">食<cancel>之</cancel></xp>
+</xbar>
+</xp>
 </xbar>
 </xp>
 </entry>
