@@ -1,10 +1,16 @@
 <entry spell="之" category="det" identifier="fb4ab131-f248-4d2c-a159-2e9ac26f33ee" index="1">
-用於名字組之所言爲指字組之所有之時. 
+指字組所言之所有名字組之所言. 
 <xp category="det">
-<xp category="det"/>
+<xp category="det" roof="roof">
+此車
+</xp>
 <xbar>
 <x>之</x>
-<xp category="noun"/>
+<xp category="noun" mode="autoroof">
+<xbar>
+<x>輪</x>
+</xbar>
+</xp>
 </xbar>
 </xp>
 </entry>
