@@ -1,7 +1,7 @@
 <entry spell="之" category="det" identifier="fb4ab131-f248-4d2c-a159-2e9ac26f33ee" index="1">
-指字定部所語之所有名字補部所語.
+(定以指字組, 補以名字組) 人與物與處所有之物.
 <xp category="det">
-<xp-text category="det">老人</xp-text>
+<xp-text category="det">手中</xp-text>
 <xbar>
 <x-text>之</x-text>
 <xp-text category="noun">錢</xp-text>
