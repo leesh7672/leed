@@ -1,7 +1,6 @@
 <entry spell="不" category="Neg" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
 否名詞組所言之行動字組之所言.
 <xp category="V">
-<xp>
 <xbar>
 <x>不</x>
 <xp category="Neg" mode="auto">
@@ -12,7 +11,5 @@
 </xbar>
 </xp>
 </xbar>
-</xp>
-</bar>
 </xp>
 </entry>
