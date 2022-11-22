@@ -25,6 +25,7 @@
 \setmainhangulfont[InterCharStretch=2pt,Vertical=Alternates,RawFeature=vertical]{HCR Batang Lvt}
 \setmainhanjafont[InterCharStretch=2pt,Vertical=Alternates,RawFeature=vertical]{HCR Batang Lvt}
 
+\newcommand{\zero}{∅}
 \newcommand{\explain}[2]{{$\bullet$}〔{#1}〕{#2}}
 \newcommand{\entry}[4]{\par\textcolor{gold}{#1}\textsuperscript{#2} {#3}}
 \newcommand{\cref}[1]{\textcolor{gold}{#1}}
@@ -58,11 +59,15 @@
 \chapter*{文法}
 \onehalfspacing
 文法也者，文人所依組字者也。
+
 \begin{forest} 
 [動字組
-    [主\\指字組 [露酒]]
-    [心\\動字 [進]]
-    [客\\介字組 [於酒家]]]
+    [定部\\指字組
+        [核部\\指字 \zero]
+        [補部\\名字組 露酒]]
+    [修部\\副字組 [一]]
+    [核部\\動字 [進]]
+    [補部\\介字組 [於酒家]]]
 \end{forest}
 \chapter*{謝恩}
 \onehalfspacing
