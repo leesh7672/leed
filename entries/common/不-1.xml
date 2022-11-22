@@ -1,10 +1,11 @@
-<entry spell="不" category="verb" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
-指字組所言者不事動字組之所言.
+<?xml version='1.0' encoding='BIG5'?>
+<entry spell="��" category="verb" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+���r�թҨ��̤��ưʦr�դ��Ҩ�.
 <xp category="verb">
-<xp category="det">之</xp>
+<xp category="det">��</xp>
 <xbar>
-<x><cancel>不</cancel></x>
-<xp category="verb"><cancel>之</cancel>食</xp>
+<x><cancel>��</cancel></x>
+<xp category="verb"><cancel>��</cancel>��</xp>
 </xbar>
 </xp>
 </entry>

@@ -1,12 +1,13 @@
-<entry spell="之" category="det" identifier="fb4ab131-f248-4d2c-a159-2e9ac26f33ee" index="1">
-指字組所言者之所有名字組之所言. 
+<?xml version='1.0' encoding='BIG5'?>
+<entry spell="��" category="det" identifier="fb4ab131-f248-4d2c-a159-2e9ac26f33ee" index="1">
+���r�թҨ��̤��Ҧ��W�r�դ��Ҩ�. 
 <xp category="det">
-<xp category="det">此車</xp>
+<xp category="det">����</xp>
 <xbar>
-<x>之</x>
+<x>��</x>
 <xp category="noun" mode="autoroof">
 <xbar>
-<x>輪</x>
+<x>��</x>
 </xbar>
 </xp>
 </xbar>
