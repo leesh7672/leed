@@ -1,11 +1,11 @@
 <?xml version='1.1' encoding='BIG5'?>
-<entry spell="不" category="verb" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+<entry spell="不" category="v" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
     指字組所言者不事動字組之所言。必補以動字組，多冠以其中賓格指字組。
-    <xp category="verb">
-        <xp category="det">之</xp>
+    <xp category="v">
+        <xp category="d">之</xp>
         <xbar>
             <x>不</x>
-            <xp category="verb"><cancel>之</cancel>食</xp>
+            <xp category="v"><cancel>之</cancel>食</xp>
         </xbar>
     </xp>
 </entry>
