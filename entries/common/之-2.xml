@@ -1,11 +1,11 @@
 <?xml version='1.1' encoding='BIG5'?>
 <entry spell="之" category="d" identifier="caaf796c-0c30-4b8c-8ece-17f38379bd27" index="2">
-    動字組所言之性幾何。應補以動字組，當冠以其中指字組。
+    動字組所言之甚。應補以動字組，當冠以其中指字組。
     <xp category="d">
         <xp category="d">此馬</xp>
         <xbar>
             <x>之</x>
-            <xp category="n"><cancel>此馬</cancel>行</xp>
+            <xp category="lv"><cancel>此馬</cancel>不遠千里</xp>
         </xbar>
     </xp>
 </entry>
