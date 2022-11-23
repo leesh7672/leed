@@ -6,7 +6,7 @@
     <sample category="v">
         ¤§
         ¤£
-        <bracket>
+        <bracket category="v">
             <cancel>
                 ¤§
             </cancel>

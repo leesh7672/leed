@@ -5,9 +5,9 @@
     <sample category="lv">
         其馬
         不
-        <bracket>
+        <bracket category="lv">
             <cancel>
-                馬
+                其馬
             </cancel>
             遠千里而行
         </bracket>

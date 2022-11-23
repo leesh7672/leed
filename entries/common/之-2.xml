@@ -2,13 +2,14 @@
 <entry spell="之" category="d" identifier="caaf796c-0c30-4b8c-8ece-17f38379bd27" index="2">
     動字組所言之甚。應補以動字組，當冠以其中指字組。
     <sample category="d">
-        馬
+        花
         之
-        <bracket>
+        <bracket category="lv">
+            莞爾
             <cancel>
-                馬
+                花
             </cancel>
-            奔而走
+            笑
         </bracket>
     </sample>
 </entry>

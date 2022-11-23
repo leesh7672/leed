@@ -4,7 +4,7 @@
     補以指字組。
     <sample category="cov">
         以
-        <bracket>
+        <bracket category="d">
             材木
         </bracket>
     </sample>
