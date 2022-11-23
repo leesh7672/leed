@@ -1,4 +1,5 @@
 \documentclass[a5paper,12pt]{report}
+\usepackage[Big5]{inputenc}
 \usepackage{luatexko}
 \usepackage{geometry}
 \usepackage{multicol}
@@ -24,8 +25,8 @@
 \setmainhangulfont[InterCharStretch=2pt,Vertical=Alternates,RawFeature=vertical]{Source Han Serif HK}
 \setmainhanjafont[InterCharStretch=2pt,Vertical=Alternates,RawFeature=vertical]{Source Han Serif HK}
 
-\newcommand{\zero}{âˆ…}
-\newcommand{\explain}[2]{\textbf{ã€”{#1}ã€•}{#2}}
+\newcommand{\zero}{?}
+\newcommand{\explain}[2]{\textbf{¡e{#1}¡f}{#2}}
 \newcommand{\entry}[4]{\par\textbf{\textcolor{hl}{#1}}\textsuperscript{#2}{#3}}
 
 \geometry{top=10mm,left=10mm,bottom=25mm,right=10mm}
@@ -38,24 +39,24 @@
 \hspace{-40mm}
 \includegraphics[angle=90,width=250mm]{cover.png}
 \vfill
-{\fontsize{14pt}{14pt}\selectfont\textcolor{hl}{æä¸–é¬}\hspace{24pt}ç·¨}
+{\fontsize{14pt}{14pt}\selectfont\textcolor{hl}{§õ¥@Âî}\hspace{24pt}½s}
 \vspace{24pt}\newline
-{\fontsize{36pt}{36pt}\selectfont\textcolor{hl}{\hspace{48pt}ææ°æ–‡è¨€æ•™å­¸å­—å…¸}}
+{\fontsize{36pt}{36pt}\selectfont\textcolor{hl}{\hspace{48pt}§õ¤ó¤å¨¥±Ğ¾Ç¦r¨å}}
 \vfill
 \end{titlepage}
 \newpage
-\chapter*{é¦–}
+\chapter*{­º}
 \onehalfspacing
 \input{preface.tex}
 
-\chapter*{å­—å…¸}
+\chapter*{¦r¨å}
 \setlength\columnsep{24pt}
 \begin{multicols}{3}
 \onehalfspacing
 \flushleft
 \input{leed-entries.tex}
 \end{multicols}
-\chapter*{è¬æ©}
+\chapter*{ÁÂ®¦}
 \onehalfspacing
 \input{acknowledgement.tex}
 \end{document}
