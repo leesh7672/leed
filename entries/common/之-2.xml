@@ -1,4 +1,11 @@
 <?xml version='1.1' encoding='BIG5'?>
-<entry spell="之" category="d" identifier="df894207-a1b7-4579-b79d-a430c7172fcd" index="2">
-    已而所語之物。應莫以補，當莫以冠。為賓格指字組所懷者也。
+<entry spell="之" category="d" identifier="caaf796c-0c30-4b8c-8ece-17f38379bd27" index="2">
+    動字組所言之性幾何。應補以動字組，當冠以其中指字組。
+    <xp category="d">
+        <xp category="d">此馬</xp>
+        <xbar>
+            <x>之</x>
+            <xp category="n"><cancel>此馬</cancel>行</xp>
+        </xbar>
+    </xp>
 </entry>
