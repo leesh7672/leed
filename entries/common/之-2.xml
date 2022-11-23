@@ -1,11 +1,14 @@
 <?xml version='1.1' encoding='BIG5'?>
 <entry spell="之" category="d" identifier="caaf796c-0c30-4b8c-8ece-17f38379bd27" index="2">
     動字組所言之甚。應補以動字組，當冠以其中指字組。
-    <xp category="d">
-        <xp category="d">馬</xp>
-        <xbar>
-            <x>之</x>
-            <xp category="lv"><cancel>馬</cancel>不遠千里</xp>
-        </xbar>
-    </xp>
+    <sample category="d">
+        馬
+        之
+        <bracket>
+            <cancel>
+                馬
+            </cancel>
+            奔而走
+        </bracket>
+    </sample>
 </entry>

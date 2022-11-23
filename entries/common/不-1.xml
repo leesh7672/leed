@@ -3,11 +3,14 @@
     無靜字組所言之事。
     應補以靜字組，當冠以其中賓格指字組。
     靜字組中應有賓格指字組。
-    <xp category="v">
-        <xp category="d">之</xp>
-        <xbar>
-            <x>不</x>
-            <xp category="v"><cancel>之</cancel>食</xp>
-        </xbar>
-    </xp>
+    <sample category="v">
+        之
+        不
+        <bracket>
+            <cancel>
+                之
+            </cancel>
+            食
+        </bracket>
+    </sample>
 </entry>

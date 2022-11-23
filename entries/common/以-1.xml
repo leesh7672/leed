@@ -2,10 +2,10 @@
 <entry spell="以" category="v" identifier="52f44f24-e48d-4477-8573-3ad46cc6527d" index="1">
     進成動字組之所言。
     應補以動字組，而無所以冠者。
-    <xp category="v">
-        <xbar>
-            <x>以</x>
-            <xp category="lv">言轉心</xp>
-        </xbar>
-    </xp>
+    <sample category="v">
+        以
+        <bracket>
+            心傳心
+        </bracket>
+    </sample>
 </entry>

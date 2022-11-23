@@ -2,10 +2,10 @@
 <entry spell="以" category="cov" identifier="21f26950-ba94-497c-8357-1d39e81ad8c3" index="2">
     用指字組之所言。
     補以指字組。
-    <xp category="cov">
-        <xbar>
-            <x>以</x>
-            <xp category="d">材木</xp>
-        </xbar>
-    </xp>
+    <sample category="cov">
+        以
+        <bracket>
+            材木
+        </bracket>
+    </sample>
 </entry>

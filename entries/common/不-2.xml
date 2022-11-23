@@ -2,11 +2,14 @@
 <entry spell="不" category="lv" identifier="ad07b583-cbd3-40dc-86f1-c722358f400e" index="2">
     無動字組所言之事。
     應補以動字組，當冠以動字組內指字組。
-    <xp category="lv">
-        <xp category="d">馬</xp>
-        <xbar>
-            <x>不</x>
-            <xp category="lv"><cancel>馬</cancel>遠千里</xp>
-        </xbar>
-    </xp>
+    <sample category="lv">
+        其馬
+        不
+        <bracket>
+            <cancel>
+                馬
+            </cancel>
+            遠千里而行
+        </bracket>
+    </sample>
 </entry>
