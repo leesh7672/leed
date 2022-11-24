@@ -2,14 +2,7 @@
 <entry spell="不" category="lv" identifier="ad07b583-cbd3-40dc-86f1-c722358f400e" index="2">
     無動字組所言之事。
     應補以動字組，當冠以動字組內指字組。
-    <sample category="lv">
-        其馬
-        不
-        <bracket category="lv">
-            <cancel>
-                其馬
-            </cancel>
-            遠千里而行
-        </bracket>
+    <sample>
+        此馬不遠<cancel>此馬</cancel>千里而行
     </sample>
 </entry>

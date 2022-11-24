@@ -1,15 +1,7 @@
 <?xml version='1.1' encoding='BIG5'?>
 <entry spell="之" category="d" identifier="caaf796c-0c30-4b8c-8ece-17f38379bd27" index="2">
     動字組所言之甚。應補以動字組，當冠以其中指字組。
-    <sample category="d">
-        花
-        之
-        <bracket category="lv">
-            莞爾
-            <cancel>
-                花
-            </cancel>
-            笑
-        </bracket>
+    <sample>
+        花之莞爾<cancel>花</cancel>笑
     </sample>
 </entry>
