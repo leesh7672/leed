@@ -3,6 +3,9 @@
     用指字組之所言。
     補以指字組。
     <sample>
-        以材木
+        以
+        <bracket>
+            材木
+        </bracket>
     </sample>
 </entry>
