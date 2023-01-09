@@ -1,13 +1,5 @@
 <?xml version='1.1' encoding='BIG5'?>
-<entry spell="不" category="v" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+<entry spell="不" category="V" argument="Det" a-movement="Yes" complement="V" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
     無動詞組所言之事。
-    應補以動詞組，當冠以其中賓格指字組。
-    動詞組中應有賓格指字組。
-    <sample>
-        之不
-        <bracket>
-            <cancel>之</cancel>
-            進於酒家
-        </bracket>
-    </sample>
+    <sample>不以此酒<cancel>不</cancel><bracket>進於酒家</bracket></sample>
 </entry>

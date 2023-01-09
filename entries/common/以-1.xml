@@ -1,11 +1,7 @@
 <?xml version='1.1' encoding='BIG5'?>
-<entry spell="以" category="v" identifier="52f44f24-e48d-4477-8573-3ad46cc6527d" index="1">
-    進成述詞組之所言。
-    應補以述詞組，而無所以冠者。
-    <sample>
-        以
-        <bracket>
-            心傳心
-        </bracket>
+<entry spell="以" category="Cov" complement="Det" identifier="52f44f24-e48d-4477-8573-3ad46cc6527d" index="1">
+    用指詞組之所言。
+    <sample>以<bracket>心</bracket></sample>
+    <sample>以<bracket>材木</bracket>
     </sample>
 </entry>
