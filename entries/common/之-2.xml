@@ -1,5 +1,5 @@
 <?xml version='1.1' encoding='BIG5'?>
-<entry spell="之" category="Det" complement="Lv" argument="Det" a-movement="Yes" identifier="caaf796c-0c30-4b8c-8ece-17f38379bd27" index="2">
-    輕動詞組所言之甚。
-    <sample>花之<bracket>莞爾<cancel>花</cancel>笑</bracket></sample>
+<entry spell="之" category="Det" identifier="caaf796c-0c30-4b8c-8ece-17f38379bd27" index="2">
+    用於指事。
+    <sample>人皆不知木之開花也。</sample>
 </entry>
