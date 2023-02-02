@@ -1,4 +1,5 @@
-<entry spell="之" category="V" complement="Det" identifier="c6f30e9f-9fc6-438b-af66-e984b2816e73" index="4">
+<entry spell="之" category="V" identifier="c6f30e9f-9fc6-438b-af66-e984b2816e73" index="4">
     住某處也。
-    <sample>之市</sample>
+    <sample>張三之市</sample>
+    <sample>張三送李四之遠方</sample>
 </entry>
