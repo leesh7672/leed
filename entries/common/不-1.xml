@@ -1,6 +1,7 @@
-<entry spell="不" category="V" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
-    用於否動詞。
-    <sample>張三所在之地，李四不之識也</sample>
+<entry spell="不" category="A" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+    用於否謂詞。置於謂詞前。
     <sample>張三飯菜而不食肉也</sample>
-    <sample>張三不遠千里而行也</sample>
+    <sample>張三不遠千里也</sample>
+    謂詞如以<ref identifier="df894207-a1b7-4579-b79d-a430c7172fcd"/>為賓，置諸直後。
+    <sample>張三所在之地，李四不之識也</sample>
 </entry>
