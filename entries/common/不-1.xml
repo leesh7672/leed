@@ -1,7 +1,6 @@
-<?xml version='1.1' encoding='BIG5'?>
-<entry spell="��" category="V" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
-    �Ω�_�ʵ��C
-    <sample>�i�T�Ҧb���a�A���|�����Ѥ]</sample>
-    <sample>�i�T����Ӥ����פ]</sample>
-    <sample>�i�T�����d���Ӧ�]</sample>
+<entry spell="不" category="V" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+    用於否動詞。
+    <sample>張三所在之地，李四不之識也</sample>
+    <sample>張三飯菜而不食肉也</sample>
+    <sample>張三不遠千里而行也</sample>
 </entry>
