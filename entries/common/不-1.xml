@@ -1,8 +1,6 @@
-<entry spell="不" category="V" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
-    用於否謂詞組。以謂詞組為賓，以其指詞組為主。
-    <sample>張三不食肉</sample>
-    <sample>張三之馬不遠千里</sample>
-    賓如以<ref identifier="df894207-a1b7-4579-b79d-a430c7172fcd"/>為其賓，可以遷之謂詞前，可以從本來之序。
-    <sample>張三不之知</sample>
-    <sample>張三不具之</sample>
+<entry spell="不" category="v" complement="V" argument="D" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+    用於否謂詞組。
+    <sample>不食肉</sample>
+    <sample>不遠千里</sample>
+    <sample>之不知</sample>
 </entry>
