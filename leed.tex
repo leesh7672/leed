@@ -1,4 +1,4 @@
-\documentclass[a5paper,12pt]{report}
+\documentclass[a5paper,12pt]{book}
 \usepackage{luatexko}
 \usepackage{geometry}
 \usepackage{multicol}
@@ -9,37 +9,44 @@
 \usepackage{etoolbox}
 \usepackage{titlesec}
 \usepackage{zhnumber}
-
-\titleformat{\chapter}{\fontsize{18pt}{18pt}\selectfont\bf\color{hl}}{}{0pt}{}
+\usepackage{pagecolor}
+\titleformat{\chapter}{\fontsize{18pt}{18pt}\selectfont\bf\color{c2}}{}{0pt}{}
 \titleformat{\section}{\fontsize{14pt}{14pt}\selectfont}{}{0pt}{}
 
-\definecolor{hl}{rgb}{0.227,0.286,0.345}
+\definecolor{c1}{rgb}{0.1,0.3,0.2}
+\definecolor{c2}{rgb}{0.3,0.5,0.4}
+\definecolor{sg}{rgb}{0.5,0.7,0.6}
+\definecolor{wh}{rgb}{1.0,1.0,1.0}
 \graphicspath{{./images/}}
 
 \hanjabyhanjafont=1
-\setmainfont{Source Han Serif HK}
-\setmainhangulfont[InterCharacter=.100em,Vertical=Alternates,RawFeature=vertical]{Source Han Serif HK}
-\setmainhanjafont[InterCharacter=.100em,Vertical=Alternates,RawFeature=vertical]{Source Han Serif HK}
+\setmainfont{HCR Batang LVT}
+\setmainhangulfont[InterCharacter=.100em,Vertical=Alternates,RawFeature=vertical]{HCR Batang LVT}
+\setmainhanjafont[InterCharacter=.100em,Vertical=Alternates,RawFeature=vertical]{HCR Batang LVT}
 
 \newcommand{\zero}{∅}
 \newcommand{\explain}[2]{{#1}$\bullet${#2}}
-\newcommand{\entry}[4]{\textbf{\textcolor{hl}{#1}}\textsuperscript{#2}{#3}}
+\newcommand{\entry}[4]{\textbf{\textcolor{c1}{#1}}\textsuperscript{#2}{#3}}
+\newcommand{\cancel}[1]{\textcolor{sg}{\textit{\uline{#1}}}}
 
 \geometry{top=10mm,left=10mm,bottom=25mm,right=10mm}
 \verticaltypesetting
 \begin{document}
 \fontspec[InterCharacter=.100em,Vertical=Alternates,RawFeature=vertical]{Source Han Serif HK}
+
 \begin{titlepage}
+\newpagecolor{sg}
+\textcolor{wh}
 \hfill
 \vfill
 \hspace{-40mm}
-\includegraphics[angle=90,width=250mm]{cover.png}
 \vfill
-{\fontsize{14pt}{14pt}\selectfont\textcolor{hl}{李世鎬}\hspace{24pt}編}
+{\fontsize{4mm}{4mm}\selectfont\textcolor{wh}{李世鎬\hspace{10mm}著}}
 \vspace{24pt}\newline
-{\fontsize{36pt}{36pt}\selectfont\textcolor{hl}{\hspace{48pt}李氏文言教學字典}}
+{\fontsize{12mm}{12mm}\bfseries\selectfont\textcolor{wh}{\hspace{10mm}文言敎學辭典}}
 \vfill
 \end{titlepage}
+\newpagecolor{wh}
 \newpage
 \chapter*{首}
 \onehalfspacing

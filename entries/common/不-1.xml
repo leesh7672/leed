@@ -1,6 +1,6 @@
-<entry spell="不" category="v" complement="V" argument="D" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
-    用於否謂詞組。
-    <sample>不食肉</sample>
-    <sample>不遠千里</sample>
-    <sample>之不知</sample>
+<entry spell="不" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+    如欲否述詞，則用<self/>。
+    <sample>老人不進酒</sample>
+    <sample>此馬不遠千里</sample>
+    <sample>禽獸不解言</sample>
 </entry>
