@@ -1,6 +1,7 @@
-<entry spell="不" category="Adv" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
-    如欲否述詞、則用<self/>。
-    <sample>老人不進酒</sample>
-    <sample>此馬不遠千里</sample>
-    <sample>禽獸不解言</sample>
+<entry spell="不" category="V" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+    用於否人士、禽獸、草木、物品、動靜之動靜。
+    <sample>老人不進酒。</sample>
+    <sample>此馬不遠千里。</sample>
+    <sample>猿、猴不解人士之所言。</sample>
+    <sample>馬之所以算之者，以解人之面目，不以良識算法也。</sample>
 </entry>
