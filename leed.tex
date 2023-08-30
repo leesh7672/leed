@@ -1,5 +1,5 @@
-\documentclass[a5paper]{ltjtbook}
-\usepackage{luatexja-fontspec}
+\documentclass[a5paper]{book}
+\usepackage{luatexko}
 \usepackage{geometry}
 \usepackage{multicol}
 \usepackage{setspace}
@@ -10,8 +10,8 @@
 \usepackage{titlesec}
 \usepackage{zhnumber}
 \usepackage{pagecolor}
-\titleformat{\chapter}{\fontsize{8mm}{12mm}\selectfont\bf\color{c2}}{}{0pt}{}
-\titleformat{\section}{\fontsize{8mm}{6mm}\selectfont}{}{0pt}{}
+
+\titleformat{\chapter}{\vspace{-25mm}\fontsize{8mm}{12mm}\selectfont\color{c2}}{}{0pt}{}
 
 \definecolor{c1}{rgb}{0.1,0.3,0.2}
 \definecolor{c2}{rgb}{0.3,0.5,0.4}
@@ -20,16 +20,20 @@
 \graphicspath{{./images/}}
 
 \setmainfont{Chiron Sung HK}
-\setmainjfont{Chiron Sung HK}
+\setmainhangulfont{Chiron Sung HK}
+
+\geometry{top=2.5cm,left=2.5cm,bottom=2.5cm,right=2.5cm}
 
 \newcommand{\zero}{∅}
-\newcommand{\explain}[2]{{#1}$\bullet${#2}}
-\newcommand{\entry}[4]{\textbf{\textcolor{c1}{#1}}\textsuperscript{\Rensuji{#2}}{#3}}
+\newcommand{\explain}[2]{{#1}{#2}}
+\newcommand{\entry}[4]{\textbf{\textcolor{c1}{#1}}\textsuperscript{{#2}}{#3}}
 
-\zhnumsetup{style={Traditional}}
-\geometry{top=20mm,left=20mm,bottom=25mm,right=20mm}
+\def\punctdef#1{\expandafter\def\csname p-#1\endcsname}
+
 \begin{document}
+\fontspec[RawFeature=vertical]{Chiron Sung HK}
 \begin{titlepage}
+\begin{verticaltypesetting}
 \newpagecolor{sg}
 \textcolor{wh}
 \vfill
@@ -41,22 +45,25 @@
 
 {\fontsize{12mm}{18mm}\bfseries\selectfont\textcolor{wh}{\hspace{10mm}李氏文言教學字典}}
 \vspace{4mm}
+\end{verticaltypesetting}
 \end{titlepage}
 \newpagecolor{wh}
 \newpage
-\chapter*{卷頭}
+\begin{verticaltypesetting}
+\chapter*{\textbf{卷頭}}
 \onehalfspacing
 \fontsize{4mm}{6mm}\selectfont
 \flushleft
 \input{preface.tex}
-\chapter*{字典}
+\chapter*{\textbf{字典}}
 \onehalfspacing
 \fontsize{4mm}{6mm}\selectfont
 \flushleft
 \input{leed-entries.tex}
-\chapter*{謝禮}
+\chapter*{\textbf{謝禮}}
 \onehalfspacing
 \fontsize{4mm}{6mm}\selectfont
 \flushleft
 \input{acknowledgement.tex}
+\end{verticaltypesetting}
 \end{document}
