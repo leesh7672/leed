@@ -1,6 +1,12 @@
 <entry spell="之" category="D" identifier="fb4ab131-f248-4d2c-a159-2e9ac26f33ee" index="1">
     用於指人士、禽獸、草木、物品所持。
-    <sample>張三之狗。</sample>
-    <sample>張三之家。</sample>
-    <sample>馬車之輪。</sample>
+    <sample>
+        張三之狗。
+    </sample>
+    <sample>
+        張三之家。
+    </sample>
+    <sample>
+        馬車之輪。
+    </sample>
 </entry>
