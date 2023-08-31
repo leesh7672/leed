@@ -1,5 +1,5 @@
-\documentclass[a5paper]{book}
-\usepackage{luatexko}
+\documentclass[a5paper]{ltjtbook}
+\usepackage{luatexja-fontspec}
 \usepackage{geometry}
 \usepackage{multicol}
 \usepackage{setspace}
@@ -19,18 +19,17 @@
 \definecolor{wh}{rgb}{1.0,1.0,1.0}
 \graphicspath{{./images/}}
 
-\setmainfont{Chiron Sung HK}
+\setmainfont[Renderer=Node,Vertical=Alternates]{Chiron Sung HK}
+\setmainjfont[Renderer=Node,Vertical=Alternates]{Chiron Sung HK}
 
 \geometry{top=2.5cm,left=2.5cm,bottom=2.5cm,right=2.5cm}
 
 \newcommand{\zero}{∅}
 \newcommand{\explain}[2]{{#1}{#2}}
-\newcommand{\entry}[4]{\textbf{\textcolor{c1}{#1}}\textsuperscript{{#2}}{#3}}
+\newcommand{\entry}[4]{\textbf{\textcolor{c1}{#1}}\textsuperscript{\Rensuji{#2}}{#3}}
 
 \begin{document}
-\fontspec[RawFeature=vertical]{Chiron Sung HK}
 \begin{titlepage}
-\begin{verticaltypesetting}
 \newpagecolor{sg}
 \textcolor{wh}
 \vfill
@@ -42,11 +41,9 @@
 
 {\fontsize{12mm}{18mm}\bfseries\selectfont\textcolor{wh}{\hspace{10mm}李氏文言教學字典}}
 \vspace{4mm}
-\end{verticaltypesetting}
 \end{titlepage}
 \newpagecolor{wh}
 \newpage
-\begin{verticaltypesetting}
 \chapter*{\textbf{卷頭}}
 \onehalfspacing
 \fontsize{4mm}{6mm}\selectfont
@@ -62,5 +59,4 @@
 \fontsize{4mm}{6mm}\selectfont
 \flushleft
 \input{acknowledgement.tex}
-\end{verticaltypesetting}
 \end{document}
