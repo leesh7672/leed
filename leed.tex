@@ -20,7 +20,6 @@
 \graphicspath{{./images/}}
 
 \setmainfont{Chiron Sung HK}
-\setmainhangulfont{Chiron Sung HK}
 
 \geometry{top=2.5cm,left=2.5cm,bottom=2.5cm,right=2.5cm}
 
@@ -28,10 +27,8 @@
 \newcommand{\explain}[2]{{#1}{#2}}
 \newcommand{\entry}[4]{\textbf{\textcolor{c1}{#1}}\textsuperscript{{#2}}{#3}}
 
-\def\punctdef#1{\expandafter\def\csname p-#1\endcsname}
-
 \begin{document}
-\fontspec[RawFeature=vertical]{Chiron Sung HK}
+\fontspec[RawFeature=vertical,InterCharStretch=0.1mm]{Chiron Sung HK}
 \begin{titlepage}
 \begin{verticaltypesetting}
 \newpagecolor{sg}
