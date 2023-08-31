@@ -1,7 +1,8 @@
 <entry spell="不" category="V" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
-    用於否人士、禽獸、草木、物品、動靜之動靜。
-    <sample>老人不進酒。</sample>
-    <sample>此馬不遠千里。</sample>
-    <sample>猿猴不解人言。</sample>
-    <sample>馬之所以算之者，以解人之面目，不以良識算法也。</sample>
+否述詞組所言。
+以述詞組為賓，主以主之者。
+<sample>老人不進酒。</sample>
+<sample>猿、猴俱不解人言。</sample>
+如述詞組以<ref identifier="df894207-a1b7-4579-b79d-a430c7172fcd"/>為賓，則有以為近賓者，有置之於述詞組之內者。
+<sample>千里此馬不之遠。</sample>
 </entry>
