@@ -1,8 +1,9 @@
 <entry spell="不" category="V" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
-否述詞組所言。
-以述詞組為賓，主以主之者。
+否述詞所言。
+以述詞為客部，取主部於客部以為主部。
 <sample>老人不進酒。</sample>
 <sample>猿、猴俱不解人言。</sample>
-如述詞組以<ref identifier="df894207-a1b7-4579-b79d-a430c7172fcd"/>為賓，則有以為近賓者，有置之於述詞組之內者。
-<sample>千里此馬不之遠。</sample>
+如客部以<ref identifier="df894207-a1b7-4579-b79d-a430c7172fcd"/>為客部，則有以為客部者，有置之者。
+<sample>千里此馬不之遠也。</sample>
+<sample>雖有千金，而不寶之。</sample>
 </entry>
