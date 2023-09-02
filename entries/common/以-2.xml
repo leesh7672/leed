@@ -1,12 +1,15 @@
-<entry spell="以" category="T" identifier="2ac1ac5f-352e-487f-a24e-c092ecfc96fe" index="1">
-	用於表明事之所緣。
+<entry spell="以" category="C" identifier="5c793a54-a777-4f18-bbd4-78bf53fda42c" index="2">
+    用於言所緣之事。
+    <sample>
+        羣雞夜半而鳴以燈光之為明。
+    </sample>
 	<sample>
 		童登校以讀書。
 	</sample>
 	<sample>
-		父母往市以賣布。
+		母以童之讀書賣布於市。
 	</sample>
 	<sample>
-		有人思狗以為屠，而有友之者也。
+		有人飼狗以殺之戮，而有友之者也。
 	</sample>
 </entry>
