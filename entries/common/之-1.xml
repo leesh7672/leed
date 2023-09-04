@@ -1,12 +1,3 @@
-<entry spell="之" category="D" identifier="fb4ab131-f248-4d2c-a159-2e9ac26f33ee" index="1">
-    用於指人士、禽器、草木、物品之所有人士、禽獸、草木、物品。
-    <sample>
-        張三之狗。
-    </sample>
-    <sample>
-        李四之家。
-    </sample>
-    <sample>
-        馬車之輪。
-    </sample>
+<entry spell="之" identifier="fb4ab131-f248-4d2c-a159-2e9ac26f33ee" index="1">
+    書如為張三有，則謂之張三<self/>書；馬如為李四馴，則為之李四<self/>馬。
 </entry>

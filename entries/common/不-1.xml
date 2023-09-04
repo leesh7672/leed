@@ -1,15 +1,3 @@
-<entry spell="不" category="Neg" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1"> 
-    用於否動字、性字。
-    <sample>
-        老人不可以進酒。
-    </sample>
-    <sample>
-        人而不仁，如禮何？
-    </sample>
-    <sample>
-        此馬不遠萬里焉。
-    </sample>
-    <sample>
-        雖有千金，而不寶之。
-    </sample>
+<entry spell="不" category="Ne" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+    張三<self/>登校，則無張三之登校；李四<self/>飲茶，則無李四之飯茶。 
 </entry>
