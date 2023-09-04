@@ -1,3 +1,4 @@
-<entry spell="不" category="Ne" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
-    張三<self/>登校，則無張三之登校；李四<self/>飲茶，則無李四之飯茶。 
+<entry spell="不" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+    張三<self/>登校，則無張三之登校。
+    李四<self/>飲茶，則無李四之飯茶。 
 </entry>
