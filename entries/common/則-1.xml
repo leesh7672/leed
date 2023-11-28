@@ -4,6 +4,6 @@
         <h/>
         <a category="CP"/>
     </format>
-    如有上所有之語氣詞組所言，必有下所有之語氣詞組所語。
+    如有上所有之<format category="CP"/>所言，必有下所有之<format category="CP"/>所語。
     <sample>一進白水，則雖暫爲飽，而尋變餓矣</sample>
 </entry>

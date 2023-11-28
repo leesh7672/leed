@@ -4,6 +4,6 @@
         <a category="DP"/>
         <a category="VP"/>
     </format>
-    促有指詞組所語之隨動詞組所道。
-    <sample>使張三飯蔬食</sample>
+    促有<format category="DP"/>所語之隨<format category="VP"/>所道。
+    <sample>使猫飯魚</sample>
 </entry>

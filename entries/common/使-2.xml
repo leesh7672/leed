@@ -4,6 +4,6 @@
         <a category="DP"/>
         <a category="VP"/>
     </format>
-    假設指詞組所語之隨動詞組所道。
+    用於假設<format category="DP"/>所語之隨<format category="VP"/>所道。
     <sample>使人士不解藥</sample>
 </entry>
