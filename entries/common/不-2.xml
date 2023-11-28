@@ -1,6 +1,11 @@
-<entry spell="不" category="否定動詞" index="2" identifier="d7a9a642-0922-4545-b95b-94c15c8d172f">
-    無其特性。
-    <sample>君子不器</sample>
-    <sample>心地不良</sample>
-    <sample>余不可以言</sample>
+<entry spell="不" category="V" id="8be7f727-ac60-4873-b1cc-bf760b0bcdc0" index="2">
+    <format>
+        <h/>
+        <a-move category="DP"/>
+        <a category="VP"/>
+    </format>
+    同乎<ref id="1dc81f12-28fa-4afb-a52c-2b37d399d921"/>。
+    遷移指詞組以人稱指詞爲心。
+    <sample>禽獸不之解</sample>
+    <sample>子請不我忘</sample>
 </entry>

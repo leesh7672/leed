@@ -1,6 +1,11 @@
-<entry spell="不" category="否定動詞" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
-    厭其擧行。
+<entry spell="不" category="V" id="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+    <format>
+        <h/>
+        <a category="VP"/>
+    </format>
+    否動詞組。
     <sample>吾不進酒</sample>
-    <sample>咖啡湯，我不之樂飲也</sample>
-    <sample>請子不誣我</sample>
+    <sample>犬不解拔骨於雞</sample>
+    <sample>君子不器</sample>
+    <sample>心地不良</sample>
 </entry>
