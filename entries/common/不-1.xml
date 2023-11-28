@@ -1,4 +1,6 @@
-<entry spell="不" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
-    若欲否張三之登校，乃曰「張三<self/>登校。」
-    若欲否李四之飲茶，乃曰「李四<self/>飲茶。」
+<entry spell="不" category="否定動詞" identifier="1dc81f12-28fa-4afb-a52c-2b37d399d921" index="1">
+    厭其擧行。
+    <sample>吾不進酒</sample>
+    <sample>咖啡湯，我不之樂飲也</sample>
+    <sample>請子不誣我</sample>
 </entry>
