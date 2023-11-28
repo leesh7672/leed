@@ -1,8 +1,8 @@
-<entry spell="則" category="C">
+<entry spell="則" category="C" id="93aacb1d-96fd-4cf7-9d7c-b32f95a1b085" index="1">
     <format>
-        <a category="CP">
+        <a category="CP"/>
         <h/>
-        <a category="CP">
+        <a category="CP"/>
     </format>
     如有上所有之語氣詞組所言，必有下所有之語氣詞組所語。
     <sample>一進豆漿，則雖暫爲飽，而尋變餓矣</sample>
