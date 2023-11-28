@@ -4,6 +4,6 @@
         <a category="DP"/>
         <a category="VP"/>
     </format>
-    促有<format category="DP"/>所語之隨<format category="VP"/>所道。
-    <sample>使猫飯魚</sample>
+    導<format category="DP"/>之所語于<format category="VP"/>之所言。
+    <sample>使貓飯魚</sample>
 </entry>

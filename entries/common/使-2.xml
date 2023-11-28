@@ -4,6 +4,6 @@
         <a category="DP"/>
         <a category="VP"/>
     </format>
-    用於假設<format category="DP"/>所語之隨<format category="VP"/>所道。
-    <sample>使人士不解藥</sample>
+    假如<format category="DP"/>所語<format category="VP"/>所言。
+    <sample>使醫不治病</sample>
 </entry>
