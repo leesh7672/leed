@@ -5,4 +5,6 @@
         <a category="NP"/>
     </format>
     <format category="DP"/>所指攸有之<format category="NP"/>所云也。
+    <sample>張三之狗</sample>
+    <sample>李四之事</sample>
 </entry>

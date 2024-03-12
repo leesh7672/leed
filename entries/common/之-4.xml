@@ -5,5 +5,7 @@
         <a category="DP"/>
     </format>
     <format category="VP"/>所述<format category="DP"/>所云也。
-    <format category="DP"/>本自<a category="vP"/>裏離而去焉。
+    <format category="DP"/>本自<a category="VP"/>裏離而去焉。
+    <sample>飯狗糧之人</sample>
+    <sample>飮水之鹿</sample>
 </entry>
