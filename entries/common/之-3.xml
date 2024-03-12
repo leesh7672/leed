@@ -4,7 +4,7 @@
         <h/>
         <a category="NP"/>
     </format>
-    用在指<format category="DP"/>所語攸有之<format category="NP"/>所云也。
+    用在<format category="DP"/>所語攸有之<format category="NP"/>所云之謂也。
     <sample>張三之狗</sample>
     <sample>李四之事</sample>
 </entry>
